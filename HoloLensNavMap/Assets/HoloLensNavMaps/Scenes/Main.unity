@@ -483,7 +483,7 @@ MonoBehaviour:
   m_Script: {fileID: -837401356, guid: f58183a31672bf641bbeeaef3d4759c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _developerKey: AiiGg4Cz7R-VcGbKQXea1O7bIAbdk1iuY80Jk0vHj27HbTE0NWi2hlQY7v8X9Pdx
+  _developerKey: AiiGg4Cz7R-VcGbKQXea1O7bIAbdk1iuY80Jk0vHj27HbTE0NWi2hlQY7v8X9Pd
   _showMapDataInEditor: 1
   _languageOverride: 42
   _languageChanged:
@@ -577,14 +577,14 @@ MonoBehaviour:
   _version: 3
   _mapSession: {fileID: 2014014551}
   _mapEdgeColor: {r: 0.62352943, g: 0.64705884, b: 0.69411767, a: 1}
-  _mapEdgeColorFadeDistance: 0.02
-  _detailOffset: 0
+  _mapEdgeColorFadeDistance: 0
+  _detailOffset: 1
   _numElevationTileFallbackLods: 2
   _requestTilesAroundView: 1
   _center:
-    _latitude: 0
-    _longitude: 0
-  _zoomLevel: 4.12
+    _latitude: 36.1
+    _longitude: 139.9
+  _zoomLevel: 17.16
   _minimumZoomLevel: 1
   _maximumZoomLevel: 20
   _mapTerrainType: 0
@@ -596,9 +596,9 @@ MonoBehaviour:
   _castShadows: 1
   _receiveShadows: 1
   _enableMrtkMaterialIntegration: 0
-  _terrainMaterial: {fileID: 0}
+  _terrainMaterial: {fileID: 2100000, guid: b5a28e6f126553b438c227d6aeb61ef3, type: 2}
   _isClippingVolumeWallEnabled: 1
-  _clippingVolumeMaterial: {fileID: 0}
+  _clippingVolumeMaterial: {fileID: 2100000, guid: b3e70368c98773b42b82e63ff6435063, type: 2}
   _clippingVolumeDistanceTextureResolution: 2
   _textureTileLayers:
     _list:
