@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.microsoft.maps.unity": {
+      "version": "0.10.2",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://unity.virtualearth.net/npm/registry"
+    },
     "com.unity.collab-proxy": {
       "version": "1.3.9",
       "depth": 0,
