@@ -45,10 +45,12 @@
                 float4 vertex : SV_POSITION;
                 float3 worldPosition : POSITION1;
                 float isSkirt : TEXCOORD4;
+                
 #if ENABLE_ELEVATION_TEXTURE && ENABLE_CONTOUR_LINES
                 float elevation : TEXCOORD5;
 #endif
                 UNITY_FOG_COORDS(7)
+                
             };
 
                         
