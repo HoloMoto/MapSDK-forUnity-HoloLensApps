@@ -6,6 +6,7 @@ using Microsoft.Maps.Unity.Search;
 using Microsoft.Maps.Unity.Services;
 using Microsoft.MixedReality.Toolkit;
 using Microsoft.MixedReality.Toolkit.Input;
+using Microsoft.Geospatial;
 using TMPro;
 using UnityEngine;
 
@@ -34,8 +35,8 @@ public class ReverseGeocodeOnClick : MonoBehaviour
     public void Awake()
     {
         _mapRenderer = GetComponent<MapRenderer>();
-        Debug.Assert(_mapRenderer != null);
-        Debug.Assert(_mapPinLayer != null);
+      //  Debug.Assert(_mapRenderer != null);
+      //  Debug.Assert(_mapPinLayer != null);
     }
 
     public async void OnMapClick(MixedRealityPointerEventData mixedRealityPointerEventData)
@@ -76,5 +77,28 @@ public class ReverseGeocodeOnClick : MonoBehaviour
             // Unexpected.
             Debug.LogWarning("Unable to get FocusDetails from Pointer.");
         }
+    }
+
+    public TextMeshPro text;
+    public async void OnMapSent(LatLon latLon)
+    {
+
+            var location = latLon;
+            var finderResult = await MapLocationFinder.FindLocationsAt(location);
+
+            string formattedAddressString = null;
+            if (finderResult.Locations.Count > 0)
+            {
+                formattedAddressString = finderResult.Locations[0].Address.FormattedAddress;
+            }
+
+
+            var textMesh = text;
+                textMesh.text = formattedAddressString ?? "No address found.";
+            Debug.Log(formattedAddressString ?? "No address found.");
+               //  _mapPinLayer.MapPins.Add(newMapPin);
+            
+             
+
     }
 }
