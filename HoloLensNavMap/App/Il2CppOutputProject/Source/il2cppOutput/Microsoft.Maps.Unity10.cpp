@@ -28110,7 +28110,7 @@ IL_0038:
 		MemoryStream_t0B450399DD6D0175074FED99DD321D65771C9E1C * L_6 = __this->get_U3DdaaAU3D_1();
 		NullCheck(L_6);
 		ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* L_7;
-		L_7 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(35 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_6);
+		L_7 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(36 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_6);
 		__this->set_U3DdaaaU3D_2(L_7);
 		__this->set_U3DdaaBU3D_3(0);
 		goto IL_0055;

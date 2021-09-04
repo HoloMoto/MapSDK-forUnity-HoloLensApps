@@ -1,4 +1,4 @@
-﻿#include "pch.h"
+#include "pch.h"
 #include "App.h"
 #include "UnityGenerated.h"
 
@@ -22,8 +22,6 @@ void App::Initialize(CoreApplicationView^ applicationView)
 void App::SetWindow(CoreWindow^ window)
 {
     m_CoreWindow = window;
-
-    ApplicationView::GetForCurrentView()->SuppressSystemOverlays = true;
 
     m_AppCallbacks->SetCoreWindowEvents(window);
     m_AppCallbacks->InitializeD3DWindow();

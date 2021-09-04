@@ -93,13 +93,13 @@ struct Comparison_1_t47C8B3739FFDD51D29B281A2FD2C36A57DDF9E38;
 // System.Collections.Generic.Dictionary`2<System.String,System.String>
 struct Dictionary_2_tDE3227CA5E7A32F5070BD24C69F42204A3ADE9D5;
 // System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.BaseEventSystem/EventHandlerEntry>>
-struct Dictionary_2_t6D9E31AD9163B3A97AA0E83AC606775912490ABD;
+struct Dictionary_2_t1AE23F4D3D321D7695075A3C81EC2AB26204FA50;
 // System.Collections.Generic.IReadOnlyList`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>
-struct IReadOnlyList_1_t6C5396F5BDF7EED4C9053741D2D9EABD04B7BC21;
+struct IReadOnlyList_1_t98F44EA2A09473A1EAE349AB413446034EA5248A;
 // System.Collections.Generic.List`1<System.Tuple`2<Microsoft.MixedReality.Toolkit.BaseEventSystem/Action,UnityEngine.GameObject>>
-struct List_1_tB1588C2E431B5ADA40379D5DC18919A72BEA44F3;
+struct List_1_t09956FF02C66B5173B30068F6456F4CE01282864;
 // System.Collections.Generic.List`1<System.Tuple`3<Microsoft.MixedReality.Toolkit.BaseEventSystem/Action,System.Type,UnityEngine.EventSystems.IEventSystemHandler>>
-struct List_1_t331224EB72BAB582E19076DBEBCE04C263DA6FEE;
+struct List_1_tE727936D4AE10BF3A16839F8BF3E2E9354B63A95;
 // System.Collections.Generic.List`1<UnityEngine.EventSystems.BaseInputModule>
 struct List_1_t39946D94B66FAE9B0DED5D3A84AD116AF9DDDCC1;
 // System.Collections.Generic.List`1<UnityEngine.EventSystems.EventSystem>
@@ -107,37 +107,37 @@ struct List_1_tEF3D2378B547F18609950BEABF54AF34FBBC9733;
 // System.Collections.Generic.List`1<UnityEngine.GameObject>
 struct List_1_t6D0A10F47F3440798295D2FFFC6D016477AF38E5;
 // System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.IMixedRealityDataProvider>
-struct List_1_tFC0217D5D6209725AA94300B5EC0FE4AB71BCC81;
+struct List_1_tCF13D7861A6FB8C60CDFBFC1228172335BB3754D;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData`1<System.Object>
-struct MixedRealitySpatialAwarenessEventData_1_t3EAA1055850C94444AB30E60ED66C130F1431876;
+struct MixedRealitySpatialAwarenessEventData_1_t1AD73B3E5A39A2C690DBA4100E72377373BD641D;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.SpatialAwarenessMeshObject>
-struct MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA;
+struct MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2;
 // System.Char[]
 struct CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34;
 // System.Int32[]
 struct Int32U5BU5D_t70F1BDC14B1786481B176D6139A5E3B87DC54C32;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration[]
-struct MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9;
+struct MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A;
 // System.Object[]
 struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE;
 // System.Type[]
 struct TypeU5BU5D_t85B10489E46F06CEC7C4B1CCBD0E01FAB6649755;
 // Microsoft.MixedReality.Toolkit.BaseCoreSystem
-struct BaseCoreSystem_tE610AEADB105DC3093B76E8BF1DA11EE1BFA3954;
+struct BaseCoreSystem_t7AF1FC99FE6D9CD6195A0673C2293FC74AFAC0FA;
 // Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem
-struct BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7;
+struct BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB;
 // UnityEngine.EventSystems.BaseEventData
 struct BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E;
 // Microsoft.MixedReality.Toolkit.BaseEventSystem
-struct BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419;
+struct BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70;
 // UnityEngine.EventSystems.BaseInputModule
 struct BaseInputModule_t395DEB45C225A941B2C831CBDB000A23E5899924;
 // Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile
-struct BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3;
+struct BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E;
 // Microsoft.MixedReality.Toolkit.BaseService
-struct BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB;
+struct BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.BaseSpatialAwarenessObserverProfile
-struct BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA;
+struct BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7;
 // System.Reflection.Binder
 struct Binder_t2BEE27FD84737D1E79BC47FD67F6D3DD2F2DDA30;
 // UnityEngine.EventSystems.EventSystem
@@ -145,25 +145,25 @@ struct EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C;
 // UnityEngine.GameObject
 struct GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319;
 // Microsoft.MixedReality.Toolkit.IMixedRealityEventSource
-struct IMixedRealityEventSource_tF78D7F2D36F5C862584E941DED054EB6A20BD410;
+struct IMixedRealityEventSource_t636A6720745CAEE1E0284D881229565F9E3DE54F;
 // Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar
-struct IMixedRealityServiceRegistrar_t279804348C19FFBAC1249ADF9359629F9AC1C873;
+struct IMixedRealityServiceRegistrar_tD549E6AD9FA9F1348EBC41610823323ED8A4E5B1;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver
-struct IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13;
+struct IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB;
 // System.Reflection.MemberFilter
 struct MemberFilter_t48D0AA10105D186AF42428FA532D4B4332CF8B81;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem
-struct MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9;
+struct MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile
-struct MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F;
+struct MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C;
 // UnityEngine.Object
 struct Object_tF2F3778131EFF286AF62B7B013A170F95A91571A;
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.SpatialAwarenessMeshObject
-struct SpatialAwarenessMeshObject_t0AA439C70B99B27D5BC6D122217DB5BB442144B9;
+struct SpatialAwarenessMeshObject_t937AED3B00C46E7D622EFD239E9A55200E224060;
 // System.String
 struct String_t;
 // Microsoft.MixedReality.Toolkit.Utilities.SystemType
-struct SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5;
+struct SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267;
 // UnityEngine.Transform
 struct Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1;
 // System.Type
@@ -171,21 +171,21 @@ struct Type_t;
 // System.Void
 struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5;
 
-IL2CPP_EXTERN_C RuntimeClass* BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* IEnumerator_t5956F3AFB7ECF1117E3BC5890E7FC7B7F7A04105_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* IMixedRealityCapabilityCheck_t9DD82C045887F388776F141889E96BDFEE2C66B1_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* IReadOnlyCollection_1_t8B2A340BCDC97931981BBC5395C16516AE6988C5_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* IReadOnlyList_1_t6C5396F5BDF7EED4C9053741D2D9EABD04B7BC21_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* MixedRealityPlayspace_tEEDF7A044A9E8E252CF39E2F7C51AB77FC70367A_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IMixedRealityCapabilityCheck_t7C3233D9049B5D16291E6E1D2EB7C444BA53BD41_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IReadOnlyCollection_1_tBB0C6A4E3751FD9B7D85F7ECAD7D5E4DD26B1EE1_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IReadOnlyList_1_t98F44EA2A09473A1EAE349AB413446034EA5248A_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* MixedRealityPlayspace_tF90CFD070BD19C9D71E1AEE019A047B2552C319E_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* UInt32_tE60352A06233E4E69DD198BCC67142159F686B15_il2cpp_TypeInfo_var;
@@ -205,12 +205,12 @@ IL2CPP_EXTERN_C String_t* _stringLiteralBEF51D8BFDF5409F7D7A407464E210AB7AF45304
 IL2CPP_EXTERN_C String_t* _stringLiteralC4149992C36FE958949693FAE84EE89309D872FA;
 IL2CPP_EXTERN_C String_t* _stringLiteralC51718E69592BF754ED468BA0E33592D41CC0711;
 IL2CPP_EXTERN_C String_t* _stringLiteralD7A0E2B84A2188BA28341150550C337C542E8671;
-IL2CPP_EXTERN_C const RuntimeMethod* BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mF5690CC554FBBD2A2CFAD96D89AAABB69AA4821D_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mFE841883A819ABB0B2E91E35C13FFE082696184D_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* MixedRealitySpatialAwarenessEventData_1__ctor_m5A5FA64438A7505BAABED090A3FBA40156A72504_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m4DD77CA1E04C7C61E560094C6B956A86AB4E8CC2_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m8BD39289927E436D39A4494EF9A2D94053DEC088_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* MixedRealitySpatialAwarenessEventData_1__ctor_m47A7A474540368AF4F51112D6BDB90E5FFCB387D_RuntimeMethod_var;
 
-struct MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9;
+struct MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A;
 struct ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE;
 
 IL2CPP_EXTERN_C_BEGIN
@@ -223,7 +223,7 @@ IL2CPP_EXTERN_C_END
 #endif
 
 // <Module>
-struct U3CModuleU3E_tFBAA1EC75660EF69203499D7FC342A9101A4F387 
+struct U3CModuleU3E_t35C4847BA34E8E56D88E4A27F6329456A94FDA77 
 {
 public:
 
@@ -311,7 +311,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SystemType
-struct SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5  : public RuntimeObject
+struct SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.Utilities.SystemType::reference
@@ -320,7 +320,7 @@ public:
 	Type_t * ___type_1;
 
 public:
-	inline static int32_t get_offset_of_reference_0() { return static_cast<int32_t>(offsetof(SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5, ___reference_0)); }
+	inline static int32_t get_offset_of_reference_0() { return static_cast<int32_t>(offsetof(SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267, ___reference_0)); }
 	inline String_t* get_reference_0() const { return ___reference_0; }
 	inline String_t** get_address_of_reference_0() { return &___reference_0; }
 	inline void set_reference_0(String_t* value)
@@ -329,7 +329,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___reference_0), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_type_1() { return static_cast<int32_t>(offsetof(SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5, ___type_1)); }
+	inline static int32_t get_offset_of_type_1() { return static_cast<int32_t>(offsetof(SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267, ___type_1)); }
 	inline Type_t * get_type_1() const { return ___type_1; }
 	inline Type_t ** get_address_of_type_1() { return &___type_1; }
 	inline void set_type_1(Type_t * value)
@@ -339,14 +339,14 @@ public:
 	}
 };
 
-struct SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5_StaticFields
+struct SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267_StaticFields
 {
 public:
 	// System.Collections.Generic.Dictionary`2<System.String,System.String> Microsoft.MixedReality.Toolkit.Utilities.SystemType::ReferenceMappings
 	Dictionary_2_tDE3227CA5E7A32F5070BD24C69F42204A3ADE9D5 * ___ReferenceMappings_2;
 
 public:
-	inline static int32_t get_offset_of_ReferenceMappings_2() { return static_cast<int32_t>(offsetof(SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5_StaticFields, ___ReferenceMappings_2)); }
+	inline static int32_t get_offset_of_ReferenceMappings_2() { return static_cast<int32_t>(offsetof(SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267_StaticFields, ___ReferenceMappings_2)); }
 	inline Dictionary_2_tDE3227CA5E7A32F5070BD24C69F42204A3ADE9D5 * get_ReferenceMappings_2() const { return ___ReferenceMappings_2; }
 	inline Dictionary_2_tDE3227CA5E7A32F5070BD24C69F42204A3ADE9D5 ** get_address_of_ReferenceMappings_2() { return &___ReferenceMappings_2; }
 	inline void set_ReferenceMappings_2(Dictionary_2_tDE3227CA5E7A32F5070BD24C69F42204A3ADE9D5 * value)
@@ -869,14 +869,14 @@ struct UIToolkitOverrideConfig_tB5087C80F45EF6D94B1BF60B8DAE6AE8D78F1051_marshal
 };
 
 // Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior
-struct AutoStartBehavior_tD85AC9ECDFBEA8CF85E59714CAD2FD09DAFFDDA3 
+struct AutoStartBehavior_t0C62C7801A491117221DD5CBB5993B68C0A4FB90 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior::value__
 	int32_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(AutoStartBehavior_tD85AC9ECDFBEA8CF85E59714CAD2FD09DAFFDDA3, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(AutoStartBehavior_t0C62C7801A491117221DD5CBB5993B68C0A4FB90, ___value___2)); }
 	inline int32_t get_value___2() const { return ___value___2; }
 	inline int32_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(int32_t value)
@@ -887,7 +887,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseService
-struct BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB  : public RuntimeObject
+struct BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C  : public RuntimeObject
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.BaseService::<Name>k__BackingField
@@ -895,7 +895,7 @@ public:
 	// System.UInt32 Microsoft.MixedReality.Toolkit.BaseService::<Priority>k__BackingField
 	uint32_t ___U3CPriorityU3Ek__BackingField_2;
 	// Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile Microsoft.MixedReality.Toolkit.BaseService::<ConfigurationProfile>k__BackingField
-	BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * ___U3CConfigurationProfileU3Ek__BackingField_3;
+	BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * ___U3CConfigurationProfileU3Ek__BackingField_3;
 	// System.Nullable`1<System.Boolean> Microsoft.MixedReality.Toolkit.BaseService::isInitialized
 	Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3  ___isInitialized_4;
 	// System.Nullable`1<System.Boolean> Microsoft.MixedReality.Toolkit.BaseService::isEnabled
@@ -906,7 +906,7 @@ public:
 	bool ___disposed_7;
 
 public:
-	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB, ___U3CNameU3Ek__BackingField_1)); }
+	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C, ___U3CNameU3Ek__BackingField_1)); }
 	inline String_t* get_U3CNameU3Ek__BackingField_1() const { return ___U3CNameU3Ek__BackingField_1; }
 	inline String_t** get_address_of_U3CNameU3Ek__BackingField_1() { return &___U3CNameU3Ek__BackingField_1; }
 	inline void set_U3CNameU3Ek__BackingField_1(String_t* value)
@@ -915,7 +915,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CNameU3Ek__BackingField_1), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CPriorityU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB, ___U3CPriorityU3Ek__BackingField_2)); }
+	inline static int32_t get_offset_of_U3CPriorityU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C, ___U3CPriorityU3Ek__BackingField_2)); }
 	inline uint32_t get_U3CPriorityU3Ek__BackingField_2() const { return ___U3CPriorityU3Ek__BackingField_2; }
 	inline uint32_t* get_address_of_U3CPriorityU3Ek__BackingField_2() { return &___U3CPriorityU3Ek__BackingField_2; }
 	inline void set_U3CPriorityU3Ek__BackingField_2(uint32_t value)
@@ -923,16 +923,16 @@ public:
 		___U3CPriorityU3Ek__BackingField_2 = value;
 	}
 
-	inline static int32_t get_offset_of_U3CConfigurationProfileU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB, ___U3CConfigurationProfileU3Ek__BackingField_3)); }
-	inline BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * get_U3CConfigurationProfileU3Ek__BackingField_3() const { return ___U3CConfigurationProfileU3Ek__BackingField_3; }
-	inline BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 ** get_address_of_U3CConfigurationProfileU3Ek__BackingField_3() { return &___U3CConfigurationProfileU3Ek__BackingField_3; }
-	inline void set_U3CConfigurationProfileU3Ek__BackingField_3(BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * value)
+	inline static int32_t get_offset_of_U3CConfigurationProfileU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C, ___U3CConfigurationProfileU3Ek__BackingField_3)); }
+	inline BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * get_U3CConfigurationProfileU3Ek__BackingField_3() const { return ___U3CConfigurationProfileU3Ek__BackingField_3; }
+	inline BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E ** get_address_of_U3CConfigurationProfileU3Ek__BackingField_3() { return &___U3CConfigurationProfileU3Ek__BackingField_3; }
+	inline void set_U3CConfigurationProfileU3Ek__BackingField_3(BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * value)
 	{
 		___U3CConfigurationProfileU3Ek__BackingField_3 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CConfigurationProfileU3Ek__BackingField_3), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_isInitialized_4() { return static_cast<int32_t>(offsetof(BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB, ___isInitialized_4)); }
+	inline static int32_t get_offset_of_isInitialized_4() { return static_cast<int32_t>(offsetof(BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C, ___isInitialized_4)); }
 	inline Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3  get_isInitialized_4() const { return ___isInitialized_4; }
 	inline Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3 * get_address_of_isInitialized_4() { return &___isInitialized_4; }
 	inline void set_isInitialized_4(Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3  value)
@@ -940,7 +940,7 @@ public:
 		___isInitialized_4 = value;
 	}
 
-	inline static int32_t get_offset_of_isEnabled_5() { return static_cast<int32_t>(offsetof(BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB, ___isEnabled_5)); }
+	inline static int32_t get_offset_of_isEnabled_5() { return static_cast<int32_t>(offsetof(BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C, ___isEnabled_5)); }
 	inline Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3  get_isEnabled_5() const { return ___isEnabled_5; }
 	inline Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3 * get_address_of_isEnabled_5() { return &___isEnabled_5; }
 	inline void set_isEnabled_5(Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3  value)
@@ -948,7 +948,7 @@ public:
 		___isEnabled_5 = value;
 	}
 
-	inline static int32_t get_offset_of_isMarkedDestroyed_6() { return static_cast<int32_t>(offsetof(BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB, ___isMarkedDestroyed_6)); }
+	inline static int32_t get_offset_of_isMarkedDestroyed_6() { return static_cast<int32_t>(offsetof(BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C, ___isMarkedDestroyed_6)); }
 	inline Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3  get_isMarkedDestroyed_6() const { return ___isMarkedDestroyed_6; }
 	inline Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3 * get_address_of_isMarkedDestroyed_6() { return &___isMarkedDestroyed_6; }
 	inline void set_isMarkedDestroyed_6(Nullable_1_t1D1CD146BFCBDC2E53E1F700889F8C5C21063EF3  value)
@@ -956,7 +956,7 @@ public:
 		___isMarkedDestroyed_6 = value;
 	}
 
-	inline static int32_t get_offset_of_disposed_7() { return static_cast<int32_t>(offsetof(BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB, ___disposed_7)); }
+	inline static int32_t get_offset_of_disposed_7() { return static_cast<int32_t>(offsetof(BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C, ___disposed_7)); }
 	inline bool get_disposed_7() const { return ___disposed_7; }
 	inline bool* get_address_of_disposed_7() { return &___disposed_7; }
 	inline void set_disposed_7(bool value)
@@ -985,7 +985,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.GenericBaseEventData
-struct GenericBaseEventData_t3A360082DB3E11845FA2DCAA09DA631D67FB6F8E  : public BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E
+struct GenericBaseEventData_t60BD727BAC8C75A9C9FD2E368826362743DD5574  : public BaseEventData_t722C48843CF21B50E06CC0E2E679415E38A7444E
 {
 public:
 	// Microsoft.MixedReality.Toolkit.IMixedRealityEventSource Microsoft.MixedReality.Toolkit.GenericBaseEventData::<EventSource>k__BackingField
@@ -996,7 +996,7 @@ public:
 	GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * ___U3CselectedObjectU3Ek__BackingField_4;
 
 public:
-	inline static int32_t get_offset_of_U3CEventSourceU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(GenericBaseEventData_t3A360082DB3E11845FA2DCAA09DA631D67FB6F8E, ___U3CEventSourceU3Ek__BackingField_2)); }
+	inline static int32_t get_offset_of_U3CEventSourceU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(GenericBaseEventData_t60BD727BAC8C75A9C9FD2E368826362743DD5574, ___U3CEventSourceU3Ek__BackingField_2)); }
 	inline RuntimeObject* get_U3CEventSourceU3Ek__BackingField_2() const { return ___U3CEventSourceU3Ek__BackingField_2; }
 	inline RuntimeObject** get_address_of_U3CEventSourceU3Ek__BackingField_2() { return &___U3CEventSourceU3Ek__BackingField_2; }
 	inline void set_U3CEventSourceU3Ek__BackingField_2(RuntimeObject* value)
@@ -1005,7 +1005,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CEventSourceU3Ek__BackingField_2), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CEventTimeU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(GenericBaseEventData_t3A360082DB3E11845FA2DCAA09DA631D67FB6F8E, ___U3CEventTimeU3Ek__BackingField_3)); }
+	inline static int32_t get_offset_of_U3CEventTimeU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(GenericBaseEventData_t60BD727BAC8C75A9C9FD2E368826362743DD5574, ___U3CEventTimeU3Ek__BackingField_3)); }
 	inline DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405  get_U3CEventTimeU3Ek__BackingField_3() const { return ___U3CEventTimeU3Ek__BackingField_3; }
 	inline DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405 * get_address_of_U3CEventTimeU3Ek__BackingField_3() { return &___U3CEventTimeU3Ek__BackingField_3; }
 	inline void set_U3CEventTimeU3Ek__BackingField_3(DateTime_tEAF2CD16E071DF5441F40822E4CFE880E5245405  value)
@@ -1013,7 +1013,7 @@ public:
 		___U3CEventTimeU3Ek__BackingField_3 = value;
 	}
 
-	inline static int32_t get_offset_of_U3CselectedObjectU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(GenericBaseEventData_t3A360082DB3E11845FA2DCAA09DA631D67FB6F8E, ___U3CselectedObjectU3Ek__BackingField_4)); }
+	inline static int32_t get_offset_of_U3CselectedObjectU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(GenericBaseEventData_t60BD727BAC8C75A9C9FD2E368826362743DD5574, ___U3CselectedObjectU3Ek__BackingField_4)); }
 	inline GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * get_U3CselectedObjectU3Ek__BackingField_4() const { return ___U3CselectedObjectU3Ek__BackingField_4; }
 	inline GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 ** get_address_of_U3CselectedObjectU3Ek__BackingField_4() { return &___U3CselectedObjectU3Ek__BackingField_4; }
 	inline void set_U3CselectedObjectU3Ek__BackingField_4(GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * value)
@@ -1043,14 +1043,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityCapability
-struct MixedRealityCapability_t6A601C030EF6EAFDE8A65029641E1E7993516156 
+struct MixedRealityCapability_t24825E5EA07FF604E846539E5A03FF2AC323124F 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.MixedRealityCapability::value__
 	int32_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(MixedRealityCapability_t6A601C030EF6EAFDE8A65029641E1E7993516156, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(MixedRealityCapability_t24825E5EA07FF604E846539E5A03FF2AC323124F, ___value___2)); }
 	inline int32_t get_value___2() const { return ___value___2; }
 	inline int32_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(int32_t value)
@@ -1141,14 +1141,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms
-struct SupportedPlatforms_tF94AC1C5F6B060A5F141377066540150A3CA052A 
+struct SupportedPlatforms_tD9A9BECC038DF02D219C74E492D0238853AFE10B 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms::value__
 	int32_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(SupportedPlatforms_tF94AC1C5F6B060A5F141377066540150A3CA052A, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(SupportedPlatforms_tD9A9BECC038DF02D219C74E492D0238853AFE10B, ___value___2)); }
 	inline int32_t get_value___2() const { return ___value___2; }
 	inline int32_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(int32_t value)
@@ -1159,14 +1159,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.VolumeType
-struct VolumeType_t899CB627A99A1E5E478E986575384C0C49982444 
+struct VolumeType_t1274AD8538A343407DE7325B9BDED7CB228F22A4 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.VolumeType::value__
 	int32_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(VolumeType_t899CB627A99A1E5E478E986575384C0C49982444, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(VolumeType_t1274AD8538A343407DE7325B9BDED7CB228F22A4, ___value___2)); }
 	inline int32_t get_value___2() const { return ___value___2; }
 	inline int32_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(int32_t value)
@@ -1195,7 +1195,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseEventSystem
-struct BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419  : public BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB
+struct BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70  : public BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.BaseEventSystem::eventExecutionDepth
@@ -1203,16 +1203,16 @@ public:
 	// System.Type Microsoft.MixedReality.Toolkit.BaseEventSystem::eventSystemHandlerType
 	Type_t * ___eventSystemHandlerType_10;
 	// System.Collections.Generic.List`1<System.Tuple`3<Microsoft.MixedReality.Toolkit.BaseEventSystem/Action,System.Type,UnityEngine.EventSystems.IEventSystemHandler>> Microsoft.MixedReality.Toolkit.BaseEventSystem::postponedActions
-	List_1_t331224EB72BAB582E19076DBEBCE04C263DA6FEE * ___postponedActions_11;
+	List_1_tE727936D4AE10BF3A16839F8BF3E2E9354B63A95 * ___postponedActions_11;
 	// System.Collections.Generic.List`1<System.Tuple`2<Microsoft.MixedReality.Toolkit.BaseEventSystem/Action,UnityEngine.GameObject>> Microsoft.MixedReality.Toolkit.BaseEventSystem::postponedObjectActions
-	List_1_tB1588C2E431B5ADA40379D5DC18919A72BEA44F3 * ___postponedObjectActions_12;
+	List_1_t09956FF02C66B5173B30068F6456F4CE01282864 * ___postponedObjectActions_12;
 	// System.Collections.Generic.Dictionary`2<System.Type,System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.BaseEventSystem/EventHandlerEntry>> Microsoft.MixedReality.Toolkit.BaseEventSystem::<EventHandlersByType>k__BackingField
-	Dictionary_2_t6D9E31AD9163B3A97AA0E83AC606775912490ABD * ___U3CEventHandlersByTypeU3Ek__BackingField_13;
+	Dictionary_2_t1AE23F4D3D321D7695075A3C81EC2AB26204FA50 * ___U3CEventHandlersByTypeU3Ek__BackingField_13;
 	// System.Collections.Generic.List`1<UnityEngine.GameObject> Microsoft.MixedReality.Toolkit.BaseEventSystem::<EventListeners>k__BackingField
 	List_1_t6D0A10F47F3440798295D2FFFC6D016477AF38E5 * ___U3CEventListenersU3Ek__BackingField_14;
 
 public:
-	inline static int32_t get_offset_of_eventExecutionDepth_9() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419, ___eventExecutionDepth_9)); }
+	inline static int32_t get_offset_of_eventExecutionDepth_9() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70, ___eventExecutionDepth_9)); }
 	inline int32_t get_eventExecutionDepth_9() const { return ___eventExecutionDepth_9; }
 	inline int32_t* get_address_of_eventExecutionDepth_9() { return &___eventExecutionDepth_9; }
 	inline void set_eventExecutionDepth_9(int32_t value)
@@ -1220,7 +1220,7 @@ public:
 		___eventExecutionDepth_9 = value;
 	}
 
-	inline static int32_t get_offset_of_eventSystemHandlerType_10() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419, ___eventSystemHandlerType_10)); }
+	inline static int32_t get_offset_of_eventSystemHandlerType_10() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70, ___eventSystemHandlerType_10)); }
 	inline Type_t * get_eventSystemHandlerType_10() const { return ___eventSystemHandlerType_10; }
 	inline Type_t ** get_address_of_eventSystemHandlerType_10() { return &___eventSystemHandlerType_10; }
 	inline void set_eventSystemHandlerType_10(Type_t * value)
@@ -1229,34 +1229,34 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___eventSystemHandlerType_10), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_postponedActions_11() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419, ___postponedActions_11)); }
-	inline List_1_t331224EB72BAB582E19076DBEBCE04C263DA6FEE * get_postponedActions_11() const { return ___postponedActions_11; }
-	inline List_1_t331224EB72BAB582E19076DBEBCE04C263DA6FEE ** get_address_of_postponedActions_11() { return &___postponedActions_11; }
-	inline void set_postponedActions_11(List_1_t331224EB72BAB582E19076DBEBCE04C263DA6FEE * value)
+	inline static int32_t get_offset_of_postponedActions_11() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70, ___postponedActions_11)); }
+	inline List_1_tE727936D4AE10BF3A16839F8BF3E2E9354B63A95 * get_postponedActions_11() const { return ___postponedActions_11; }
+	inline List_1_tE727936D4AE10BF3A16839F8BF3E2E9354B63A95 ** get_address_of_postponedActions_11() { return &___postponedActions_11; }
+	inline void set_postponedActions_11(List_1_tE727936D4AE10BF3A16839F8BF3E2E9354B63A95 * value)
 	{
 		___postponedActions_11 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___postponedActions_11), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_postponedObjectActions_12() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419, ___postponedObjectActions_12)); }
-	inline List_1_tB1588C2E431B5ADA40379D5DC18919A72BEA44F3 * get_postponedObjectActions_12() const { return ___postponedObjectActions_12; }
-	inline List_1_tB1588C2E431B5ADA40379D5DC18919A72BEA44F3 ** get_address_of_postponedObjectActions_12() { return &___postponedObjectActions_12; }
-	inline void set_postponedObjectActions_12(List_1_tB1588C2E431B5ADA40379D5DC18919A72BEA44F3 * value)
+	inline static int32_t get_offset_of_postponedObjectActions_12() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70, ___postponedObjectActions_12)); }
+	inline List_1_t09956FF02C66B5173B30068F6456F4CE01282864 * get_postponedObjectActions_12() const { return ___postponedObjectActions_12; }
+	inline List_1_t09956FF02C66B5173B30068F6456F4CE01282864 ** get_address_of_postponedObjectActions_12() { return &___postponedObjectActions_12; }
+	inline void set_postponedObjectActions_12(List_1_t09956FF02C66B5173B30068F6456F4CE01282864 * value)
 	{
 		___postponedObjectActions_12 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___postponedObjectActions_12), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CEventHandlersByTypeU3Ek__BackingField_13() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419, ___U3CEventHandlersByTypeU3Ek__BackingField_13)); }
-	inline Dictionary_2_t6D9E31AD9163B3A97AA0E83AC606775912490ABD * get_U3CEventHandlersByTypeU3Ek__BackingField_13() const { return ___U3CEventHandlersByTypeU3Ek__BackingField_13; }
-	inline Dictionary_2_t6D9E31AD9163B3A97AA0E83AC606775912490ABD ** get_address_of_U3CEventHandlersByTypeU3Ek__BackingField_13() { return &___U3CEventHandlersByTypeU3Ek__BackingField_13; }
-	inline void set_U3CEventHandlersByTypeU3Ek__BackingField_13(Dictionary_2_t6D9E31AD9163B3A97AA0E83AC606775912490ABD * value)
+	inline static int32_t get_offset_of_U3CEventHandlersByTypeU3Ek__BackingField_13() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70, ___U3CEventHandlersByTypeU3Ek__BackingField_13)); }
+	inline Dictionary_2_t1AE23F4D3D321D7695075A3C81EC2AB26204FA50 * get_U3CEventHandlersByTypeU3Ek__BackingField_13() const { return ___U3CEventHandlersByTypeU3Ek__BackingField_13; }
+	inline Dictionary_2_t1AE23F4D3D321D7695075A3C81EC2AB26204FA50 ** get_address_of_U3CEventHandlersByTypeU3Ek__BackingField_13() { return &___U3CEventHandlersByTypeU3Ek__BackingField_13; }
+	inline void set_U3CEventHandlersByTypeU3Ek__BackingField_13(Dictionary_2_t1AE23F4D3D321D7695075A3C81EC2AB26204FA50 * value)
 	{
 		___U3CEventHandlersByTypeU3Ek__BackingField_13 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CEventHandlersByTypeU3Ek__BackingField_13), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CEventListenersU3Ek__BackingField_14() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419, ___U3CEventListenersU3Ek__BackingField_14)); }
+	inline static int32_t get_offset_of_U3CEventListenersU3Ek__BackingField_14() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70, ___U3CEventListenersU3Ek__BackingField_14)); }
 	inline List_1_t6D0A10F47F3440798295D2FFFC6D016477AF38E5 * get_U3CEventListenersU3Ek__BackingField_14() const { return ___U3CEventListenersU3Ek__BackingField_14; }
 	inline List_1_t6D0A10F47F3440798295D2FFFC6D016477AF38E5 ** get_address_of_U3CEventListenersU3Ek__BackingField_14() { return &___U3CEventListenersU3Ek__BackingField_14; }
 	inline void set_U3CEventListenersU3Ek__BackingField_14(List_1_t6D0A10F47F3440798295D2FFFC6D016477AF38E5 * value)
@@ -1266,7 +1266,7 @@ public:
 	}
 };
 
-struct BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419_StaticFields
+struct BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70_StaticFields
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.BaseEventSystem::enableDanglingHandlerDiagnostics
@@ -1275,7 +1275,7 @@ public:
 	ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  ___TraverseEventSystemHandlerHierarchyPerfMarker_15;
 
 public:
-	inline static int32_t get_offset_of_enableDanglingHandlerDiagnostics_8() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419_StaticFields, ___enableDanglingHandlerDiagnostics_8)); }
+	inline static int32_t get_offset_of_enableDanglingHandlerDiagnostics_8() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70_StaticFields, ___enableDanglingHandlerDiagnostics_8)); }
 	inline bool get_enableDanglingHandlerDiagnostics_8() const { return ___enableDanglingHandlerDiagnostics_8; }
 	inline bool* get_address_of_enableDanglingHandlerDiagnostics_8() { return &___enableDanglingHandlerDiagnostics_8; }
 	inline void set_enableDanglingHandlerDiagnostics_8(bool value)
@@ -1283,7 +1283,7 @@ public:
 		___enableDanglingHandlerDiagnostics_8 = value;
 	}
 
-	inline static int32_t get_offset_of_TraverseEventSystemHandlerHierarchyPerfMarker_15() { return static_cast<int32_t>(offsetof(BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419_StaticFields, ___TraverseEventSystemHandlerHierarchyPerfMarker_15)); }
+	inline static int32_t get_offset_of_TraverseEventSystemHandlerHierarchyPerfMarker_15() { return static_cast<int32_t>(offsetof(BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70_StaticFields, ___TraverseEventSystemHandlerHierarchyPerfMarker_15)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_TraverseEventSystemHandlerHierarchyPerfMarker_15() const { return ___TraverseEventSystemHandlerHierarchyPerfMarker_15; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_TraverseEventSystemHandlerHierarchyPerfMarker_15() { return &___TraverseEventSystemHandlerHierarchyPerfMarker_15; }
 	inline void set_TraverseEventSystemHandlerHierarchyPerfMarker_15(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1312,14 +1312,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData
-struct MixedRealitySpatialAwarenessEventData_tBEDCFDC82B015CB492441677E8628AC7E317D8E9  : public GenericBaseEventData_t3A360082DB3E11845FA2DCAA09DA631D67FB6F8E
+struct MixedRealitySpatialAwarenessEventData_t9A585207CA441B30950598C3A57F846A78D6FF0E  : public GenericBaseEventData_t60BD727BAC8C75A9C9FD2E368826362743DD5574
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData::<Id>k__BackingField
 	int32_t ___U3CIdU3Ek__BackingField_5;
 
 public:
-	inline static int32_t get_offset_of_U3CIdU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessEventData_tBEDCFDC82B015CB492441677E8628AC7E317D8E9, ___U3CIdU3Ek__BackingField_5)); }
+	inline static int32_t get_offset_of_U3CIdU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessEventData_t9A585207CA441B30950598C3A57F846A78D6FF0E, ___U3CIdU3Ek__BackingField_5)); }
 	inline int32_t get_U3CIdU3Ek__BackingField_5() const { return ___U3CIdU3Ek__BackingField_5; }
 	inline int32_t* get_address_of_U3CIdU3Ek__BackingField_5() { return &___U3CIdU3Ek__BackingField_5; }
 	inline void set_U3CIdU3Ek__BackingField_5(int32_t value)
@@ -1330,11 +1330,11 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration
-struct MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 
+struct MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC 
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.SystemType Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::componentType
-	SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * ___componentType_0;
+	SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * ___componentType_0;
 	// System.String Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::componentName
 	String_t* ___componentName_1;
 	// System.UInt32 Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::priority
@@ -1342,19 +1342,19 @@ public:
 	// Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::runtimePlatform
 	int32_t ___runtimePlatform_3;
 	// Microsoft.MixedReality.Toolkit.SpatialAwareness.BaseSpatialAwarenessObserverProfile Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::observerProfile
-	BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * ___observerProfile_4;
+	BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * ___observerProfile_4;
 
 public:
-	inline static int32_t get_offset_of_componentType_0() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29, ___componentType_0)); }
-	inline SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * get_componentType_0() const { return ___componentType_0; }
-	inline SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 ** get_address_of_componentType_0() { return &___componentType_0; }
-	inline void set_componentType_0(SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * value)
+	inline static int32_t get_offset_of_componentType_0() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC, ___componentType_0)); }
+	inline SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * get_componentType_0() const { return ___componentType_0; }
+	inline SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 ** get_address_of_componentType_0() { return &___componentType_0; }
+	inline void set_componentType_0(SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * value)
 	{
 		___componentType_0 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___componentType_0), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_componentName_1() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29, ___componentName_1)); }
+	inline static int32_t get_offset_of_componentName_1() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC, ___componentName_1)); }
 	inline String_t* get_componentName_1() const { return ___componentName_1; }
 	inline String_t** get_address_of_componentName_1() { return &___componentName_1; }
 	inline void set_componentName_1(String_t* value)
@@ -1363,7 +1363,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___componentName_1), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_priority_2() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29, ___priority_2)); }
+	inline static int32_t get_offset_of_priority_2() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC, ___priority_2)); }
 	inline uint32_t get_priority_2() const { return ___priority_2; }
 	inline uint32_t* get_address_of_priority_2() { return &___priority_2; }
 	inline void set_priority_2(uint32_t value)
@@ -1371,7 +1371,7 @@ public:
 		___priority_2 = value;
 	}
 
-	inline static int32_t get_offset_of_runtimePlatform_3() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29, ___runtimePlatform_3)); }
+	inline static int32_t get_offset_of_runtimePlatform_3() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC, ___runtimePlatform_3)); }
 	inline int32_t get_runtimePlatform_3() const { return ___runtimePlatform_3; }
 	inline int32_t* get_address_of_runtimePlatform_3() { return &___runtimePlatform_3; }
 	inline void set_runtimePlatform_3(int32_t value)
@@ -1379,10 +1379,10 @@ public:
 		___runtimePlatform_3 = value;
 	}
 
-	inline static int32_t get_offset_of_observerProfile_4() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29, ___observerProfile_4)); }
-	inline BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * get_observerProfile_4() const { return ___observerProfile_4; }
-	inline BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA ** get_address_of_observerProfile_4() { return &___observerProfile_4; }
-	inline void set_observerProfile_4(BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * value)
+	inline static int32_t get_offset_of_observerProfile_4() { return static_cast<int32_t>(offsetof(MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC, ___observerProfile_4)); }
+	inline BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * get_observerProfile_4() const { return ___observerProfile_4; }
+	inline BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 ** get_address_of_observerProfile_4() { return &___observerProfile_4; }
+	inline void set_observerProfile_4(BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * value)
 	{
 		___observerProfile_4 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___observerProfile_4), (void*)value);
@@ -1390,22 +1390,22 @@ public:
 };
 
 // Native definition for P/Invoke marshalling of Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration
-struct MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29_marshaled_pinvoke
+struct MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC_marshaled_pinvoke
 {
-	SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * ___componentType_0;
+	SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * ___componentType_0;
 	char* ___componentName_1;
 	uint32_t ___priority_2;
 	int32_t ___runtimePlatform_3;
-	BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * ___observerProfile_4;
+	BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * ___observerProfile_4;
 };
 // Native definition for COM marshalling of Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration
-struct MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29_marshaled_com
+struct MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC_marshaled_com
 {
-	SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * ___componentType_0;
+	SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * ___componentType_0;
 	Il2CppChar* ___componentName_1;
 	uint32_t ___priority_2;
 	int32_t ___runtimePlatform_3;
-	BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * ___observerProfile_4;
+	BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * ___observerProfile_4;
 };
 
 // UnityEngine.ScriptableObject
@@ -1526,17 +1526,17 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.SpatialAwarenessMeshObject>
-struct MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA  : public MixedRealitySpatialAwarenessEventData_tBEDCFDC82B015CB492441677E8628AC7E317D8E9
+struct MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2  : public MixedRealitySpatialAwarenessEventData_t9A585207CA441B30950598C3A57F846A78D6FF0E
 {
 public:
 	// T Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData`1::<SpatialObject>k__BackingField
-	SpatialAwarenessMeshObject_t0AA439C70B99B27D5BC6D122217DB5BB442144B9 * ___U3CSpatialObjectU3Ek__BackingField_6;
+	SpatialAwarenessMeshObject_t937AED3B00C46E7D622EFD239E9A55200E224060 * ___U3CSpatialObjectU3Ek__BackingField_6;
 
 public:
-	inline static int32_t get_offset_of_U3CSpatialObjectU3Ek__BackingField_6() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA, ___U3CSpatialObjectU3Ek__BackingField_6)); }
-	inline SpatialAwarenessMeshObject_t0AA439C70B99B27D5BC6D122217DB5BB442144B9 * get_U3CSpatialObjectU3Ek__BackingField_6() const { return ___U3CSpatialObjectU3Ek__BackingField_6; }
-	inline SpatialAwarenessMeshObject_t0AA439C70B99B27D5BC6D122217DB5BB442144B9 ** get_address_of_U3CSpatialObjectU3Ek__BackingField_6() { return &___U3CSpatialObjectU3Ek__BackingField_6; }
-	inline void set_U3CSpatialObjectU3Ek__BackingField_6(SpatialAwarenessMeshObject_t0AA439C70B99B27D5BC6D122217DB5BB442144B9 * value)
+	inline static int32_t get_offset_of_U3CSpatialObjectU3Ek__BackingField_6() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2, ___U3CSpatialObjectU3Ek__BackingField_6)); }
+	inline SpatialAwarenessMeshObject_t937AED3B00C46E7D622EFD239E9A55200E224060 * get_U3CSpatialObjectU3Ek__BackingField_6() const { return ___U3CSpatialObjectU3Ek__BackingField_6; }
+	inline SpatialAwarenessMeshObject_t937AED3B00C46E7D622EFD239E9A55200E224060 ** get_address_of_U3CSpatialObjectU3Ek__BackingField_6() { return &___U3CSpatialObjectU3Ek__BackingField_6; }
+	inline void set_U3CSpatialObjectU3Ek__BackingField_6(SpatialAwarenessMeshObject_t937AED3B00C46E7D622EFD239E9A55200E224060 * value)
 	{
 		___U3CSpatialObjectU3Ek__BackingField_6 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CSpatialObjectU3Ek__BackingField_6), (void*)value);
@@ -1545,14 +1545,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseCoreSystem
-struct BaseCoreSystem_tE610AEADB105DC3093B76E8BF1DA11EE1BFA3954  : public BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419
+struct BaseCoreSystem_t7AF1FC99FE6D9CD6195A0673C2293FC74AFAC0FA  : public BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70
 {
 public:
 	// Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar Microsoft.MixedReality.Toolkit.BaseCoreSystem::<Registrar>k__BackingField
 	RuntimeObject* ___U3CRegistrarU3Ek__BackingField_16;
 
 public:
-	inline static int32_t get_offset_of_U3CRegistrarU3Ek__BackingField_16() { return static_cast<int32_t>(offsetof(BaseCoreSystem_tE610AEADB105DC3093B76E8BF1DA11EE1BFA3954, ___U3CRegistrarU3Ek__BackingField_16)); }
+	inline static int32_t get_offset_of_U3CRegistrarU3Ek__BackingField_16() { return static_cast<int32_t>(offsetof(BaseCoreSystem_t7AF1FC99FE6D9CD6195A0673C2293FC74AFAC0FA, ___U3CRegistrarU3Ek__BackingField_16)); }
 	inline RuntimeObject* get_U3CRegistrarU3Ek__BackingField_16() const { return ___U3CRegistrarU3Ek__BackingField_16; }
 	inline RuntimeObject** get_address_of_U3CRegistrarU3Ek__BackingField_16() { return &___U3CRegistrarU3Ek__BackingField_16; }
 	inline void set_U3CRegistrarU3Ek__BackingField_16(RuntimeObject* value)
@@ -1564,14 +1564,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile
-struct BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
+struct BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E  : public ScriptableObject_t4361E08CEBF052C650D3666C7CEC37EB31DE116A
 {
 public:
 	// System.Boolean Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile::isCustomProfile
 	bool ___isCustomProfile_4;
 
 public:
-	inline static int32_t get_offset_of_isCustomProfile_4() { return static_cast<int32_t>(offsetof(BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3, ___isCustomProfile_4)); }
+	inline static int32_t get_offset_of_isCustomProfile_4() { return static_cast<int32_t>(offsetof(BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E, ___isCustomProfile_4)); }
 	inline bool get_isCustomProfile_4() const { return ___isCustomProfile_4; }
 	inline bool* get_address_of_isCustomProfile_4() { return &___isCustomProfile_4; }
 	inline void set_isCustomProfile_4(bool value)
@@ -1600,24 +1600,24 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem
-struct BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7  : public BaseCoreSystem_tE610AEADB105DC3093B76E8BF1DA11EE1BFA3954
+struct BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB  : public BaseCoreSystem_t7AF1FC99FE6D9CD6195A0673C2293FC74AFAC0FA
 {
 public:
 	// System.Collections.Generic.List`1<Microsoft.MixedReality.Toolkit.IMixedRealityDataProvider> Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::dataProviders
-	List_1_tFC0217D5D6209725AA94300B5EC0FE4AB71BCC81 * ___dataProviders_17;
+	List_1_tCF13D7861A6FB8C60CDFBFC1228172335BB3754D * ___dataProviders_17;
 
 public:
-	inline static int32_t get_offset_of_dataProviders_17() { return static_cast<int32_t>(offsetof(BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7, ___dataProviders_17)); }
-	inline List_1_tFC0217D5D6209725AA94300B5EC0FE4AB71BCC81 * get_dataProviders_17() const { return ___dataProviders_17; }
-	inline List_1_tFC0217D5D6209725AA94300B5EC0FE4AB71BCC81 ** get_address_of_dataProviders_17() { return &___dataProviders_17; }
-	inline void set_dataProviders_17(List_1_tFC0217D5D6209725AA94300B5EC0FE4AB71BCC81 * value)
+	inline static int32_t get_offset_of_dataProviders_17() { return static_cast<int32_t>(offsetof(BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB, ___dataProviders_17)); }
+	inline List_1_tCF13D7861A6FB8C60CDFBFC1228172335BB3754D * get_dataProviders_17() const { return ___dataProviders_17; }
+	inline List_1_tCF13D7861A6FB8C60CDFBFC1228172335BB3754D ** get_address_of_dataProviders_17() { return &___dataProviders_17; }
+	inline void set_dataProviders_17(List_1_tCF13D7861A6FB8C60CDFBFC1228172335BB3754D * value)
 	{
 		___dataProviders_17 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___dataProviders_17), (void*)value);
 	}
 };
 
-struct BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7_StaticFields
+struct BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB_StaticFields
 {
 public:
 	// Unity.Profiling.ProfilerMarker Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::UpdatePerfMarker
@@ -1626,7 +1626,7 @@ public:
 	ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  ___LateUpdatePerfMarker_19;
 
 public:
-	inline static int32_t get_offset_of_UpdatePerfMarker_18() { return static_cast<int32_t>(offsetof(BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7_StaticFields, ___UpdatePerfMarker_18)); }
+	inline static int32_t get_offset_of_UpdatePerfMarker_18() { return static_cast<int32_t>(offsetof(BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB_StaticFields, ___UpdatePerfMarker_18)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_UpdatePerfMarker_18() const { return ___UpdatePerfMarker_18; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_UpdatePerfMarker_18() { return &___UpdatePerfMarker_18; }
 	inline void set_UpdatePerfMarker_18(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1634,7 +1634,7 @@ public:
 		___UpdatePerfMarker_18 = value;
 	}
 
-	inline static int32_t get_offset_of_LateUpdatePerfMarker_19() { return static_cast<int32_t>(offsetof(BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7_StaticFields, ___LateUpdatePerfMarker_19)); }
+	inline static int32_t get_offset_of_LateUpdatePerfMarker_19() { return static_cast<int32_t>(offsetof(BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB_StaticFields, ___LateUpdatePerfMarker_19)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_LateUpdatePerfMarker_19() const { return ___LateUpdatePerfMarker_19; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_LateUpdatePerfMarker_19() { return &___LateUpdatePerfMarker_19; }
 	inline void set_LateUpdatePerfMarker_19(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1645,7 +1645,7 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.BaseSpatialAwarenessObserverProfile
-struct BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA  : public BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3
+struct BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7  : public BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Utilities.AutoStartBehavior Microsoft.MixedReality.Toolkit.SpatialAwareness.BaseSpatialAwarenessObserverProfile::startupBehavior
@@ -1660,7 +1660,7 @@ public:
 	float ___updateInterval_9;
 
 public:
-	inline static int32_t get_offset_of_startupBehavior_5() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA, ___startupBehavior_5)); }
+	inline static int32_t get_offset_of_startupBehavior_5() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7, ___startupBehavior_5)); }
 	inline int32_t get_startupBehavior_5() const { return ___startupBehavior_5; }
 	inline int32_t* get_address_of_startupBehavior_5() { return &___startupBehavior_5; }
 	inline void set_startupBehavior_5(int32_t value)
@@ -1668,7 +1668,7 @@ public:
 		___startupBehavior_5 = value;
 	}
 
-	inline static int32_t get_offset_of_isStationaryObserver_6() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA, ___isStationaryObserver_6)); }
+	inline static int32_t get_offset_of_isStationaryObserver_6() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7, ___isStationaryObserver_6)); }
 	inline bool get_isStationaryObserver_6() const { return ___isStationaryObserver_6; }
 	inline bool* get_address_of_isStationaryObserver_6() { return &___isStationaryObserver_6; }
 	inline void set_isStationaryObserver_6(bool value)
@@ -1676,7 +1676,7 @@ public:
 		___isStationaryObserver_6 = value;
 	}
 
-	inline static int32_t get_offset_of_observationExtents_7() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA, ___observationExtents_7)); }
+	inline static int32_t get_offset_of_observationExtents_7() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7, ___observationExtents_7)); }
 	inline Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  get_observationExtents_7() const { return ___observationExtents_7; }
 	inline Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E * get_address_of_observationExtents_7() { return &___observationExtents_7; }
 	inline void set_observationExtents_7(Vector3_t65B972D6A585A0A5B63153CF1177A90D3C90D65E  value)
@@ -1684,7 +1684,7 @@ public:
 		___observationExtents_7 = value;
 	}
 
-	inline static int32_t get_offset_of_observerVolumeType_8() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA, ___observerVolumeType_8)); }
+	inline static int32_t get_offset_of_observerVolumeType_8() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7, ___observerVolumeType_8)); }
 	inline int32_t get_observerVolumeType_8() const { return ___observerVolumeType_8; }
 	inline int32_t* get_address_of_observerVolumeType_8() { return &___observerVolumeType_8; }
 	inline void set_observerVolumeType_8(int32_t value)
@@ -1692,7 +1692,7 @@ public:
 		___observerVolumeType_8 = value;
 	}
 
-	inline static int32_t get_offset_of_updateInterval_9() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA, ___updateInterval_9)); }
+	inline static int32_t get_offset_of_updateInterval_9() { return static_cast<int32_t>(offsetof(BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7, ___updateInterval_9)); }
 	inline float get_updateInterval_9() const { return ___updateInterval_9; }
 	inline float* get_address_of_updateInterval_9() { return &___updateInterval_9; }
 	inline void set_updateInterval_9(float value)
@@ -1703,17 +1703,17 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile
-struct MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F  : public BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3
+struct MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C  : public BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E
 {
 public:
 	// Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration[] Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile::observerConfigurations
-	MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* ___observerConfigurations_5;
+	MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* ___observerConfigurations_5;
 
 public:
-	inline static int32_t get_offset_of_observerConfigurations_5() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F, ___observerConfigurations_5)); }
-	inline MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* get_observerConfigurations_5() const { return ___observerConfigurations_5; }
-	inline MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9** get_address_of_observerConfigurations_5() { return &___observerConfigurations_5; }
-	inline void set_observerConfigurations_5(MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* value)
+	inline static int32_t get_offset_of_observerConfigurations_5() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C, ___observerConfigurations_5)); }
+	inline MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* get_observerConfigurations_5() const { return ___observerConfigurations_5; }
+	inline MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A** get_address_of_observerConfigurations_5() { return &___observerConfigurations_5; }
+	inline void set_observerConfigurations_5(MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* value)
 	{
 		___observerConfigurations_5 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___observerConfigurations_5), (void*)value);
@@ -1731,22 +1731,22 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem
-struct MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9  : public BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7
+struct MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C  : public BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::<Name>k__BackingField
 	String_t* ___U3CNameU3Ek__BackingField_20;
 	// Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.SpatialAwarenessMeshObject> Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::meshEventData
-	MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA * ___meshEventData_21;
+	MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 * ___meshEventData_21;
 	// UnityEngine.GameObject Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::spatialAwarenessObjectParent
 	GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * ___spatialAwarenessObjectParent_22;
 	// System.UInt32 Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::nextSourceId
 	uint32_t ___nextSourceId_23;
 	// Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::spatialAwarenessSystemProfile
-	MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * ___spatialAwarenessSystemProfile_24;
+	MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * ___spatialAwarenessSystemProfile_24;
 
 public:
-	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_20() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9, ___U3CNameU3Ek__BackingField_20)); }
+	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_20() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C, ___U3CNameU3Ek__BackingField_20)); }
 	inline String_t* get_U3CNameU3Ek__BackingField_20() const { return ___U3CNameU3Ek__BackingField_20; }
 	inline String_t** get_address_of_U3CNameU3Ek__BackingField_20() { return &___U3CNameU3Ek__BackingField_20; }
 	inline void set_U3CNameU3Ek__BackingField_20(String_t* value)
@@ -1755,16 +1755,16 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CNameU3Ek__BackingField_20), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_meshEventData_21() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9, ___meshEventData_21)); }
-	inline MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA * get_meshEventData_21() const { return ___meshEventData_21; }
-	inline MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA ** get_address_of_meshEventData_21() { return &___meshEventData_21; }
-	inline void set_meshEventData_21(MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA * value)
+	inline static int32_t get_offset_of_meshEventData_21() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C, ___meshEventData_21)); }
+	inline MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 * get_meshEventData_21() const { return ___meshEventData_21; }
+	inline MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 ** get_address_of_meshEventData_21() { return &___meshEventData_21; }
+	inline void set_meshEventData_21(MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 * value)
 	{
 		___meshEventData_21 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___meshEventData_21), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_spatialAwarenessObjectParent_22() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9, ___spatialAwarenessObjectParent_22)); }
+	inline static int32_t get_offset_of_spatialAwarenessObjectParent_22() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C, ___spatialAwarenessObjectParent_22)); }
 	inline GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * get_spatialAwarenessObjectParent_22() const { return ___spatialAwarenessObjectParent_22; }
 	inline GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 ** get_address_of_spatialAwarenessObjectParent_22() { return &___spatialAwarenessObjectParent_22; }
 	inline void set_spatialAwarenessObjectParent_22(GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * value)
@@ -1773,7 +1773,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___spatialAwarenessObjectParent_22), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_nextSourceId_23() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9, ___nextSourceId_23)); }
+	inline static int32_t get_offset_of_nextSourceId_23() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C, ___nextSourceId_23)); }
 	inline uint32_t get_nextSourceId_23() const { return ___nextSourceId_23; }
 	inline uint32_t* get_address_of_nextSourceId_23() { return &___nextSourceId_23; }
 	inline void set_nextSourceId_23(uint32_t value)
@@ -1781,17 +1781,17 @@ public:
 		___nextSourceId_23 = value;
 	}
 
-	inline static int32_t get_offset_of_spatialAwarenessSystemProfile_24() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9, ___spatialAwarenessSystemProfile_24)); }
-	inline MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * get_spatialAwarenessSystemProfile_24() const { return ___spatialAwarenessSystemProfile_24; }
-	inline MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F ** get_address_of_spatialAwarenessSystemProfile_24() { return &___spatialAwarenessSystemProfile_24; }
-	inline void set_spatialAwarenessSystemProfile_24(MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * value)
+	inline static int32_t get_offset_of_spatialAwarenessSystemProfile_24() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C, ___spatialAwarenessSystemProfile_24)); }
+	inline MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * get_spatialAwarenessSystemProfile_24() const { return ___spatialAwarenessSystemProfile_24; }
+	inline MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C ** get_address_of_spatialAwarenessSystemProfile_24() { return &___spatialAwarenessSystemProfile_24; }
+	inline void set_spatialAwarenessSystemProfile_24(MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * value)
 	{
 		___spatialAwarenessSystemProfile_24 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___spatialAwarenessSystemProfile_24), (void*)value);
 	}
 };
 
-struct MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields
+struct MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields
 {
 public:
 	// Unity.Profiling.ProfilerMarker Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::GetObserversPerfMarker
@@ -1824,7 +1824,7 @@ public:
 	ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  ___ClearObservationsTPerfMarker_38;
 
 public:
-	inline static int32_t get_offset_of_GetObserversPerfMarker_25() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___GetObserversPerfMarker_25)); }
+	inline static int32_t get_offset_of_GetObserversPerfMarker_25() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___GetObserversPerfMarker_25)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_GetObserversPerfMarker_25() const { return ___GetObserversPerfMarker_25; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_GetObserversPerfMarker_25() { return &___GetObserversPerfMarker_25; }
 	inline void set_GetObserversPerfMarker_25(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1832,7 +1832,7 @@ public:
 		___GetObserversPerfMarker_25 = value;
 	}
 
-	inline static int32_t get_offset_of_GetObserversTPerfMarker_26() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___GetObserversTPerfMarker_26)); }
+	inline static int32_t get_offset_of_GetObserversTPerfMarker_26() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___GetObserversTPerfMarker_26)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_GetObserversTPerfMarker_26() const { return ___GetObserversTPerfMarker_26; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_GetObserversTPerfMarker_26() { return &___GetObserversTPerfMarker_26; }
 	inline void set_GetObserversTPerfMarker_26(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1840,7 +1840,7 @@ public:
 		___GetObserversTPerfMarker_26 = value;
 	}
 
-	inline static int32_t get_offset_of_GetObserverPerfMarker_27() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___GetObserverPerfMarker_27)); }
+	inline static int32_t get_offset_of_GetObserverPerfMarker_27() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___GetObserverPerfMarker_27)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_GetObserverPerfMarker_27() const { return ___GetObserverPerfMarker_27; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_GetObserverPerfMarker_27() { return &___GetObserverPerfMarker_27; }
 	inline void set_GetObserverPerfMarker_27(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1848,7 +1848,7 @@ public:
 		___GetObserverPerfMarker_27 = value;
 	}
 
-	inline static int32_t get_offset_of_GetObserverTPerfMarker_28() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___GetObserverTPerfMarker_28)); }
+	inline static int32_t get_offset_of_GetObserverTPerfMarker_28() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___GetObserverTPerfMarker_28)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_GetObserverTPerfMarker_28() const { return ___GetObserverTPerfMarker_28; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_GetObserverTPerfMarker_28() { return &___GetObserverTPerfMarker_28; }
 	inline void set_GetObserverTPerfMarker_28(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1856,7 +1856,7 @@ public:
 		___GetObserverTPerfMarker_28 = value;
 	}
 
-	inline static int32_t get_offset_of_GetDataProvidersPerfMarker_29() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___GetDataProvidersPerfMarker_29)); }
+	inline static int32_t get_offset_of_GetDataProvidersPerfMarker_29() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___GetDataProvidersPerfMarker_29)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_GetDataProvidersPerfMarker_29() const { return ___GetDataProvidersPerfMarker_29; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_GetDataProvidersPerfMarker_29() { return &___GetDataProvidersPerfMarker_29; }
 	inline void set_GetDataProvidersPerfMarker_29(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1864,7 +1864,7 @@ public:
 		___GetDataProvidersPerfMarker_29 = value;
 	}
 
-	inline static int32_t get_offset_of_GetDataProviderPerfMarker_30() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___GetDataProviderPerfMarker_30)); }
+	inline static int32_t get_offset_of_GetDataProviderPerfMarker_30() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___GetDataProviderPerfMarker_30)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_GetDataProviderPerfMarker_30() const { return ___GetDataProviderPerfMarker_30; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_GetDataProviderPerfMarker_30() { return &___GetDataProviderPerfMarker_30; }
 	inline void set_GetDataProviderPerfMarker_30(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1872,7 +1872,7 @@ public:
 		___GetDataProviderPerfMarker_30 = value;
 	}
 
-	inline static int32_t get_offset_of_ResumeObserversPerfMarker_31() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___ResumeObserversPerfMarker_31)); }
+	inline static int32_t get_offset_of_ResumeObserversPerfMarker_31() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___ResumeObserversPerfMarker_31)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_ResumeObserversPerfMarker_31() const { return ___ResumeObserversPerfMarker_31; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_ResumeObserversPerfMarker_31() { return &___ResumeObserversPerfMarker_31; }
 	inline void set_ResumeObserversPerfMarker_31(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1880,7 +1880,7 @@ public:
 		___ResumeObserversPerfMarker_31 = value;
 	}
 
-	inline static int32_t get_offset_of_ResumeObserversTPerfMarker_32() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___ResumeObserversTPerfMarker_32)); }
+	inline static int32_t get_offset_of_ResumeObserversTPerfMarker_32() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___ResumeObserversTPerfMarker_32)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_ResumeObserversTPerfMarker_32() const { return ___ResumeObserversTPerfMarker_32; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_ResumeObserversTPerfMarker_32() { return &___ResumeObserversTPerfMarker_32; }
 	inline void set_ResumeObserversTPerfMarker_32(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1888,7 +1888,7 @@ public:
 		___ResumeObserversTPerfMarker_32 = value;
 	}
 
-	inline static int32_t get_offset_of_ResumeObserverPerfMarker_33() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___ResumeObserverPerfMarker_33)); }
+	inline static int32_t get_offset_of_ResumeObserverPerfMarker_33() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___ResumeObserverPerfMarker_33)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_ResumeObserverPerfMarker_33() const { return ___ResumeObserverPerfMarker_33; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_ResumeObserverPerfMarker_33() { return &___ResumeObserverPerfMarker_33; }
 	inline void set_ResumeObserverPerfMarker_33(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1896,7 +1896,7 @@ public:
 		___ResumeObserverPerfMarker_33 = value;
 	}
 
-	inline static int32_t get_offset_of_SuspendObserversPerfMarker_34() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___SuspendObserversPerfMarker_34)); }
+	inline static int32_t get_offset_of_SuspendObserversPerfMarker_34() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___SuspendObserversPerfMarker_34)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_SuspendObserversPerfMarker_34() const { return ___SuspendObserversPerfMarker_34; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_SuspendObserversPerfMarker_34() { return &___SuspendObserversPerfMarker_34; }
 	inline void set_SuspendObserversPerfMarker_34(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1904,7 +1904,7 @@ public:
 		___SuspendObserversPerfMarker_34 = value;
 	}
 
-	inline static int32_t get_offset_of_SuspendObserversTPerfMarker_35() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___SuspendObserversTPerfMarker_35)); }
+	inline static int32_t get_offset_of_SuspendObserversTPerfMarker_35() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___SuspendObserversTPerfMarker_35)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_SuspendObserversTPerfMarker_35() const { return ___SuspendObserversTPerfMarker_35; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_SuspendObserversTPerfMarker_35() { return &___SuspendObserversTPerfMarker_35; }
 	inline void set_SuspendObserversTPerfMarker_35(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1912,7 +1912,7 @@ public:
 		___SuspendObserversTPerfMarker_35 = value;
 	}
 
-	inline static int32_t get_offset_of_SuspendObserverPerfMarker_36() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___SuspendObserverPerfMarker_36)); }
+	inline static int32_t get_offset_of_SuspendObserverPerfMarker_36() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___SuspendObserverPerfMarker_36)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_SuspendObserverPerfMarker_36() const { return ___SuspendObserverPerfMarker_36; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_SuspendObserverPerfMarker_36() { return &___SuspendObserverPerfMarker_36; }
 	inline void set_SuspendObserverPerfMarker_36(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1920,7 +1920,7 @@ public:
 		___SuspendObserverPerfMarker_36 = value;
 	}
 
-	inline static int32_t get_offset_of_ClearObservationsPerfMarker_37() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___ClearObservationsPerfMarker_37)); }
+	inline static int32_t get_offset_of_ClearObservationsPerfMarker_37() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___ClearObservationsPerfMarker_37)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_ClearObservationsPerfMarker_37() const { return ___ClearObservationsPerfMarker_37; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_ClearObservationsPerfMarker_37() { return &___ClearObservationsPerfMarker_37; }
 	inline void set_ClearObservationsPerfMarker_37(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -1928,7 +1928,7 @@ public:
 		___ClearObservationsPerfMarker_37 = value;
 	}
 
-	inline static int32_t get_offset_of_ClearObservationsTPerfMarker_38() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields, ___ClearObservationsTPerfMarker_38)); }
+	inline static int32_t get_offset_of_ClearObservationsTPerfMarker_38() { return static_cast<int32_t>(offsetof(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields, ___ClearObservationsTPerfMarker_38)); }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  get_ClearObservationsTPerfMarker_38() const { return ___ClearObservationsTPerfMarker_38; }
 	inline ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 * get_address_of_ClearObservationsTPerfMarker_38() { return &___ClearObservationsTPerfMarker_38; }
 	inline void set_ClearObservationsTPerfMarker_38(ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  value)
@@ -2129,23 +2129,23 @@ public:
 	}
 };
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration[]
-struct MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9  : public RuntimeArray
+struct MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A  : public RuntimeArray
 {
 public:
-	ALIGN_FIELD (8) MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29  m_Items[1];
+	ALIGN_FIELD (8) MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC  m_Items[1];
 
 public:
-	inline MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29  GetAt(il2cpp_array_size_t index) const
+	inline MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC  GetAt(il2cpp_array_size_t index) const
 	{
 		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
 		return m_Items[index];
 	}
-	inline MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * GetAddressAt(il2cpp_array_size_t index)
+	inline MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * GetAddressAt(il2cpp_array_size_t index)
 	{
 		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
 		return m_Items + index;
 	}
-	inline void SetAt(il2cpp_array_size_t index, MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29  value)
+	inline void SetAt(il2cpp_array_size_t index, MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC  value)
 	{
 		IL2CPP_ARRAY_BOUNDS_CHECK(index, (uint32_t)(this)->max_length);
 		m_Items[index] = value;
@@ -2157,15 +2157,15 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)&((m_Items + index)->___observerProfile_4), (void*)NULL);
 		#endif
 	}
-	inline MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29  GetAtUnchecked(il2cpp_array_size_t index) const
+	inline MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC  GetAtUnchecked(il2cpp_array_size_t index) const
 	{
 		return m_Items[index];
 	}
-	inline MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * GetAddressAtUnchecked(il2cpp_array_size_t index)
+	inline MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * GetAddressAtUnchecked(il2cpp_array_size_t index)
 	{
 		return m_Items + index;
 	}
-	inline void SetAtUnchecked(il2cpp_array_size_t index, MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29  value)
+	inline void SetAtUnchecked(il2cpp_array_size_t index, MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC  value)
 	{
 		m_Items[index] = value;
 		Il2CppCodeGenWriteBarrier((void**)&((m_Items + index)->___componentType_0), (void*)NULL);
@@ -2180,61 +2180,61 @@ public:
 
 
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData`1<System.Object>::.ctor(UnityEngine.EventSystems.EventSystem)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessEventData_1__ctor_m3A17EDD7B6DEAF298683D3279877B98FD5632116_gshared (MixedRealitySpatialAwarenessEventData_1_t3EAA1055850C94444AB30E60ED66C130F1431876 * __this, EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C * ___eventSystem0, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessEventData_1__ctor_mC8136D4677CDF483015C2A3A0D58F3672147BA91_gshared (MixedRealitySpatialAwarenessEventData_1_t1AD73B3E5A39A2C690DBA4100E72377373BD641D * __this, EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C * ___eventSystem0, const RuntimeMethod* method);
 // System.Boolean Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::RegisterDataProvider<System.Object>(System.Type,System.String,Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms,System.Object[])
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisRuntimeObject_m4346559C00624C2AE31E5DCCED6FF440305061B2_gshared (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 * __this, Type_t * ___concreteType0, String_t* ___providerName1, int32_t ___supportedPlatforms2, ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* ___args3, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisRuntimeObject_m55F00BCE9B6A10280D6694A7C03E19226792D59B_gshared (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB * __this, Type_t * ___concreteType0, String_t* ___providerName1, int32_t ___supportedPlatforms2, ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* ___args3, const RuntimeMethod* method);
 // System.Boolean Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::UnregisterDataProvider<System.Object>(!!0)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisRuntimeObject_mED7C698AEF4A0B72B0FC823B6F7373F9BA130F63_gshared (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 * __this, RuntimeObject * ___dataProviderInstance0, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisRuntimeObject_m873097BB3591B636D6D5D8EE7D33F1A4CE7CEE84_gshared (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB * __this, RuntimeObject * ___dataProviderInstance0, const RuntimeMethod* method);
 
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::.ctor(Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ctor_m9E5783D489BD6C3213592A5150F46F428BD6E8B4 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * ___profile0, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ctor_m2F33AEA0F01CF1DEAAAB32DF9266A79B234F4170 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * ___profile0, const RuntimeMethod* method);
 // System.Void Microsoft.MixedReality.Toolkit.BaseCoreSystem::set_Registrar(Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar)
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void BaseCoreSystem_set_Registrar_m78781CFDFECE8952C48C0A3BF9BFF753D179B3AB_inline (BaseCoreSystem_tE610AEADB105DC3093B76E8BF1DA11EE1BFA3954 * __this, RuntimeObject* ___value0, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void BaseCoreSystem_set_Registrar_m9FCED22F8EC95B9A506FEA8FCC069197B30AA50C_inline (BaseCoreSystem_t7AF1FC99FE6D9CD6195A0673C2293FC74AFAC0FA * __this, RuntimeObject* ___value0, const RuntimeMethod* method);
 // System.Void Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::.ctor(Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataProviderAccessCoreSystem__ctor_mE2E6E6EEEC5D3F72470DF3C83BF4C69E0B9AE73F (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 * __this, BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * ___profile0, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataProviderAccessCoreSystem__ctor_m7AEFC1E55F40DE5CBAF9C979BA0EEA0007BA60CC (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB * __this, BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * ___profile0, const RuntimeMethod* method);
 // System.Void Microsoft.MixedReality.Toolkit.BaseService::Initialize()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseService_Initialize_m255A1FB33969CA69F6F4DB2D11EECF812AEA8573 (BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseService_Initialize_m83A80A76B65CB0AD3DDC2B27E1CA947CAF30E2F1 (BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C * __this, const RuntimeMethod* method);
 // UnityEngine.EventSystems.EventSystem UnityEngine.EventSystems.EventSystem::get_current()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C * EventSystem_get_current_m4B9C11F490297AE55428038DACD240596D6CE5F2 (const RuntimeMethod* method);
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessEventData`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.SpatialAwarenessMeshObject>::.ctor(UnityEngine.EventSystems.EventSystem)
-inline void MixedRealitySpatialAwarenessEventData_1__ctor_m5A5FA64438A7505BAABED090A3FBA40156A72504 (MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA * __this, EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C * ___eventSystem0, const RuntimeMethod* method)
+inline void MixedRealitySpatialAwarenessEventData_1__ctor_m47A7A474540368AF4F51112D6BDB90E5FFCB387D (MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 * __this, EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C * ___eventSystem0, const RuntimeMethod* method)
 {
-	((  void (*) (MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA *, EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C *, const RuntimeMethod*))MixedRealitySpatialAwarenessEventData_1__ctor_m3A17EDD7B6DEAF298683D3279877B98FD5632116_gshared)(__this, ___eventSystem0, method);
+	((  void (*) (MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 *, EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C *, const RuntimeMethod*))MixedRealitySpatialAwarenessEventData_1__ctor_mC8136D4677CDF483015C2A3A0D58F3672147BA91_gshared)(__this, ___eventSystem0, method);
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::InitializeInternal()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_InitializeInternal_m2125552FBC2057D0E2A0A6EDB2D6119493C9B79F (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_InitializeInternal_mDB9D6F65A2488F967A7A4609CB25068A6B908908 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method);
 // System.Boolean UnityEngine.Object::op_Inequality(UnityEngine.Object,UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90 (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A * ___x0, Object_tF2F3778131EFF286AF62B7B013A170F95A91571A * ___y1, const RuntimeMethod* method);
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration[] Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile::get_ObserverConfigurations()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_mD095E7FFB3FEF369FD6A80FFD45454F8D359C47D_inline (MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * __this, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_m0D4D421219FA67EDD52A0B72839E582E4C17F990_inline (MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * __this, const RuntimeMethod* method);
 // System.String Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::get_ComponentName()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialObserverConfiguration_get_ComponentName_m4D57F1C793CBD9D7C832BD912CF04DB12F4F206C_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialObserverConfiguration_get_ComponentName_m0D3E072EC7EB095060783931F5927AC34D966E2B_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method);
 // System.UInt32 Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::get_Priority()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialObserverConfiguration_get_Priority_mE6CD70133D833F6F15B948B4AB052E80D91663F2_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialObserverConfiguration_get_Priority_mEF37BFED75E1BDD7EEF825928B89B348FCA4E71E_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method);
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.BaseSpatialAwarenessObserverProfile Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::get_ObserverProfile()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * MixedRealitySpatialObserverConfiguration_get_ObserverProfile_m717A479AC69F9B3967DDF8A050EC3A6686C3AB93_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * MixedRealitySpatialObserverConfiguration_get_ObserverProfile_m213374EA6B5D3CC12E21DEF50BE1B23699AC189E_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method);
 // Microsoft.MixedReality.Toolkit.Utilities.SystemType Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::get_ComponentType()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * MixedRealitySpatialObserverConfiguration_get_ComponentType_m2438815B27F75D3BA0F9FE15EDEBDE97FD7120FA_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * MixedRealitySpatialObserverConfiguration_get_ComponentType_m213E775158CCD1BB9197C74BDBE5C24807B1B4EF_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method);
 // System.Type Microsoft.MixedReality.Toolkit.Utilities.SystemType::get_Type()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Type_t * SystemType_get_Type_mAE85DF2D9352C7118FA807083D4BC00BC5218C9F_inline (SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * __this, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Type_t * SystemType_get_Type_m3E5045E45C073ABC506861B26B6033BC247B7FF3_inline (SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * __this, const RuntimeMethod* method);
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialObserverConfiguration::get_RuntimePlatform()
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t MixedRealitySpatialObserverConfiguration_get_RuntimePlatform_mFC4FDB02B46EE3DD1216092EBC10ABC8B529E7A2_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method);
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t MixedRealitySpatialObserverConfiguration_get_RuntimePlatform_m8ED6764ECC28D9FA29619DEB6BFFF558EF3B4128_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method);
 // System.Boolean Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::RegisterDataProvider<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>(System.Type,System.String,Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms,System.Object[])
-inline bool BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mF5690CC554FBBD2A2CFAD96D89AAABB69AA4821D (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 * __this, Type_t * ___concreteType0, String_t* ___providerName1, int32_t ___supportedPlatforms2, ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* ___args3, const RuntimeMethod* method)
+inline bool BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m4DD77CA1E04C7C61E560094C6B956A86AB4E8CC2 (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB * __this, Type_t * ___concreteType0, String_t* ___providerName1, int32_t ___supportedPlatforms2, ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* ___args3, const RuntimeMethod* method)
 {
-	return ((  bool (*) (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 *, Type_t *, String_t*, int32_t, ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE*, const RuntimeMethod*))BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisRuntimeObject_m4346559C00624C2AE31E5DCCED6FF440305061B2_gshared)(__this, ___concreteType0, ___providerName1, ___supportedPlatforms2, ___args3, method);
+	return ((  bool (*) (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB *, Type_t *, String_t*, int32_t, ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE*, const RuntimeMethod*))BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisRuntimeObject_m55F00BCE9B6A10280D6694A7C03E19226792D59B_gshared)(__this, ___concreteType0, ___providerName1, ___supportedPlatforms2, ___args3, method);
 }
 // System.Void Microsoft.MixedReality.Toolkit.BaseService::Disable()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseService_Disable_m36B425F7A884FC9F3811565A8F09C7702F6B8A35 (BaseService_t793754DF90682F7505A073585FC34F790A7CD7DB * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseService_Disable_m38006CDF6572BFDDC9488E3B8B124446128DEE7C (BaseService_t733670D8846AD5EBDED6EC897F11190F756CDD6C * __this, const RuntimeMethod* method);
 // System.Boolean Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::UnregisterDataProvider<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>(!!0)
-inline bool BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mFE841883A819ABB0B2E91E35C13FFE082696184D (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 * __this, RuntimeObject* ___dataProviderInstance0, const RuntimeMethod* method)
+inline bool BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m8BD39289927E436D39A4494EF9A2D94053DEC088 (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB * __this, RuntimeObject* ___dataProviderInstance0, const RuntimeMethod* method)
 {
-	return ((  bool (*) (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 *, RuntimeObject*, const RuntimeMethod*))BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisRuntimeObject_mED7C698AEF4A0B72B0FC823B6F7373F9BA130F63_gshared)(__this, ___dataProviderInstance0, method);
+	return ((  bool (*) (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB *, RuntimeObject*, const RuntimeMethod*))BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisRuntimeObject_m873097BB3591B636D6D5D8EE7D33F1A4CE7CEE84_gshared)(__this, ___dataProviderInstance0, method);
 }
 // System.Void Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::Enable()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataProviderAccessCoreSystem_Enable_mD31771E02706ABCE648C6D4D8E6559389C4031A9 (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataProviderAccessCoreSystem_Enable_m6EA06C7096A0E356F7F5888C1FC9AD6CAD894D39 (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB * __this, const RuntimeMethod* method);
 // System.Void Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::Reset()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataProviderAccessCoreSystem_Reset_mECE9CFD64A28351F08511C62E008D215781BC2BB (BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7 * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseDataProviderAccessCoreSystem_Reset_m6D2C1D12D075591B8030350BD55A23C03D9A3CD4 (BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB * __this, const RuntimeMethod* method);
 // System.Boolean UnityEngine.Application::get_isPlaying()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Application_get_isPlaying_m7BB718D8E58B807184491F64AFF0649517E56567 (const RuntimeMethod* method);
 // System.Boolean UnityEngine.Application::get_isEditor()
@@ -2248,17 +2248,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_DetachChildren_m0800099F604AB1
 // System.Void UnityEngine.Object::Destroy(UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Object_Destroy_m3EEDB6ECD49A541EC826EA8E1C8B599F7AF67D30 (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A * ___obj0, const RuntimeMethod* method);
 // System.Void Microsoft.MixedReality.Toolkit.BaseEventSystem::Destroy()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseEventSystem_Destroy_m93C8507F773C6277C90725CEB64BF15D54C33AB7 (BaseEventSystem_tD71DC37BB97BE80E19B3775A6EF130D83F699419 * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseEventSystem_Destroy_m19EA3BFF0EC9FF056C79F0FDC475790BF06C0220 (BaseEventSystem_t49917739E9C7137D86026A06967F008E8F593B70 * __this, const RuntimeMethod* method);
 // UnityEngine.GameObject Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::get_CreateSpatialAwarenessObjectParent()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_CreateSpatialAwarenessObjectParent_mDEC577A7DABF7BC0CFB5D3D8AA0664C3812A0A44 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_CreateSpatialAwarenessObjectParent_mDA1CA92970AB80AF6930431F31CE332549404428 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method);
 // System.Void UnityEngine.GameObject::.ctor(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void GameObject__ctor_mDF8BF31EAE3E03F24421531B25FB4BEDB7C87144 (GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * __this, String_t* ___name0, const RuntimeMethod* method);
 // UnityEngine.Transform Microsoft.MixedReality.Toolkit.MixedRealityPlayspace::get_Transform()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * MixedRealityPlayspace_get_Transform_mCCE29FC5A6A15F7E4BFE9AE45BC18C9A11F6BAFA (const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * MixedRealityPlayspace_get_Transform_mED65C66E276726DD2C3A040B8DB1D4663C0792CE (const RuntimeMethod* method);
 // System.Void UnityEngine.Transform::SetParent(UnityEngine.Transform,System.Boolean)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Transform_SetParent_mA6A651EDE81F139E1D6C7BA894834AD71D07227A (Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * __this, Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * ___parent0, bool ___worldPositionStays1, const RuntimeMethod* method);
 // UnityEngine.GameObject Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::get_SpatialAwarenessObjectParent()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessObjectParent_m42CC0FCB8AB7CE6C2E50A100052AD7B6F74221DF (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessObjectParent_m192F49BC25C8F4826760567FDA9346E3F457E63A (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method);
 // System.Boolean UnityEngine.Object::op_Equality(UnityEngine.Object,UnityEngine.Object)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Object_op_Equality_mEE9EC7EB5C7DC3E95B94AB904E1986FC4D566D54 (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A * ___x0, Object_tF2F3778131EFF286AF62B7B013A170F95A91571A * ___y1, const RuntimeMethod* method);
 // Unity.Profiling.ProfilerMarker/AutoScope Unity.Profiling.ProfilerMarker::Auto()
@@ -2289,26 +2289,26 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ProfilerUnsafeUtility_BeginSample_m1B2CA
 #pragma clang diagnostic ignored "-Wunused-variable"
 #endif
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::.ctor(Microsoft.MixedReality.Toolkit.IMixedRealityServiceRegistrar,Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ctor_m76873D9CE7A68EE31DD60E155C8E96260A8982DC (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, RuntimeObject* ___registrar0, MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * ___profile1, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ctor_mB46B76329AE1E0B83D3FC1B7ECC7BE2AD3A17FB3 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, RuntimeObject* ___registrar0, MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * ___profile1, const RuntimeMethod* method)
 {
 	{
 		// MixedRealitySpatialAwarenessSystemProfile profile) : this(profile)
-		MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * L_0 = ___profile1;
-		MixedRealitySpatialAwarenessSystem__ctor_m9E5783D489BD6C3213592A5150F46F428BD6E8B4(__this, L_0, /*hidden argument*/NULL);
+		MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * L_0 = ___profile1;
+		MixedRealitySpatialAwarenessSystem__ctor_m2F33AEA0F01CF1DEAAAB32DF9266A79B234F4170(__this, L_0, /*hidden argument*/NULL);
 		// Registrar = registrar;
 		RuntimeObject* L_1 = ___registrar0;
-		BaseCoreSystem_set_Registrar_m78781CFDFECE8952C48C0A3BF9BFF753D179B3AB_inline(__this, L_1, /*hidden argument*/NULL);
+		BaseCoreSystem_set_Registrar_m9FCED22F8EC95B9A506FEA8FCC069197B30AA50C_inline(__this, L_1, /*hidden argument*/NULL);
 		// }
 		return;
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::.ctor(Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ctor_m9E5783D489BD6C3213592A5150F46F428BD6E8B4 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * ___profile0, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ctor_m2F33AEA0F01CF1DEAAAB32DF9266A79B234F4170 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * ___profile0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral188D30B6EDF85BA42D4E192BE1E93A4D2142FDCB);
 		s_Il2CppMethodInitialized = true;
 	}
@@ -2316,15 +2316,15 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ctor
 		// public override string Name { get; protected set; } = "Mixed Reality Spatial Awareness System";
 		__this->set_U3CNameU3Ek__BackingField_20(_stringLiteral188D30B6EDF85BA42D4E192BE1E93A4D2142FDCB);
 		// MixedRealitySpatialAwarenessSystemProfile profile) : base(profile)
-		MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * L_0 = ___profile0;
-		IL2CPP_RUNTIME_CLASS_INIT(BaseDataProviderAccessCoreSystem_t6670D57488477D007C9B1BEDB29AE1A620D557B7_il2cpp_TypeInfo_var);
-		BaseDataProviderAccessCoreSystem__ctor_mE2E6E6EEEC5D3F72470DF3C83BF4C69E0B9AE73F(__this, L_0, /*hidden argument*/NULL);
+		MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * L_0 = ___profile0;
+		IL2CPP_RUNTIME_CLASS_INIT(BaseDataProviderAccessCoreSystem_tD7700C46D64F9B4732359BDACB4BA4142A6E63BB_il2cpp_TypeInfo_var);
+		BaseDataProviderAccessCoreSystem__ctor_m7AEFC1E55F40DE5CBAF9C979BA0EEA0007BA60CC(__this, L_0, /*hidden argument*/NULL);
 		// { }
 		return;
 	}
 }
 // System.String Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::get_Name()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialAwarenessSystem_get_Name_m2E1BB14B47EF7E3A4C0776BCDFC1CFB7AEEBBC7A (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialAwarenessSystem_get_Name_m4545A88880D067481270F76515BB965674C77F17 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	{
 		// public override string Name { get; protected set; } = "Mixed Reality Spatial Awareness System";
@@ -2333,7 +2333,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialAwarenessSystem_
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::set_Name(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_set_Name_m07F57A987E371372A5447BDE83F5C697EFCC1403 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, String_t* ___value0, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_set_Name_mCD6D7C099E577906E8EE4EB4A742E5419C2860A1 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, String_t* ___value0, const RuntimeMethod* method)
 {
 	{
 		// public override string Name { get; protected set; } = "Mixed Reality Spatial Awareness System";
@@ -2343,17 +2343,17 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_set_N
 	}
 }
 // System.Boolean Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::CheckCapability(Microsoft.MixedReality.Toolkit.MixedRealityCapability)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MixedRealitySpatialAwarenessSystem_CheckCapability_m4C267824CEC58F2444F2D7859DDF2461AEBC0235 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, int32_t ___capability0, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MixedRealitySpatialAwarenessSystem_CheckCapability_m383E26337E26614B4D33027F98E865BF5AA32C75 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, int32_t ___capability0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_t5956F3AFB7ECF1117E3BC5890E7FC7B7F7A04105_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealityCapabilityCheck_t9DD82C045887F388776F141889E96BDFEE2C66B1_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealityCapabilityCheck_t7C3233D9049B5D16291E6E1D2EB7C444BA53BD41_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	RuntimeObject* V_0 = NULL;
@@ -2364,10 +2364,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool MixedRealitySpatialAwarenessSystem_Check
 	{
 		// foreach (var observer in GetDataProviders<IMixedRealitySpatialAwarenessObserver>())
 		RuntimeObject* L_0;
-		L_0 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var, __this);
+		L_0 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var, __this);
 		NullCheck(L_0);
 		RuntimeObject* L_1;
-		L_1 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var, L_0);
+		L_1 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var, L_0);
 		V_0 = L_1;
 	}
 
@@ -2384,10 +2384,10 @@ IL_000e:
 			RuntimeObject* L_2 = V_0;
 			NullCheck(L_2);
 			RuntimeObject* L_3;
-			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var, L_2);
+			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var, L_2);
 			// if (observer is IMixedRealityCapabilityCheck capabilityChecker &&
 			//     capabilityChecker.CheckCapability(capability))
-			V_1 = ((RuntimeObject*)IsInst((RuntimeObject*)L_3, IMixedRealityCapabilityCheck_t9DD82C045887F388776F141889E96BDFEE2C66B1_il2cpp_TypeInfo_var));
+			V_1 = ((RuntimeObject*)IsInst((RuntimeObject*)L_3, IMixedRealityCapabilityCheck_t7C3233D9049B5D16291E6E1D2EB7C444BA53BD41_il2cpp_TypeInfo_var));
 			RuntimeObject* L_4 = V_1;
 			if (!L_4)
 			{
@@ -2401,7 +2401,7 @@ IL_001d:
 			int32_t L_6 = ___capability0;
 			NullCheck(L_5);
 			bool L_7;
-			L_7 = InterfaceFuncInvoker1< bool, int32_t >::Invoke(0 /* System.Boolean Microsoft.MixedReality.Toolkit.IMixedRealityCapabilityCheck::CheckCapability(Microsoft.MixedReality.Toolkit.MixedRealityCapability) */, IMixedRealityCapabilityCheck_t9DD82C045887F388776F141889E96BDFEE2C66B1_il2cpp_TypeInfo_var, L_5, L_6);
+			L_7 = InterfaceFuncInvoker1< bool, int32_t >::Invoke(0 /* System.Boolean Microsoft.MixedReality.Toolkit.IMixedRealityCapabilityCheck::CheckCapability(Microsoft.MixedReality.Toolkit.MixedRealityCapability) */, IMixedRealityCapabilityCheck_t7C3233D9049B5D16291E6E1D2EB7C444BA53BD41_il2cpp_TypeInfo_var, L_5, L_6);
 			if (!L_7)
 			{
 				goto IL_002a;
@@ -2482,59 +2482,59 @@ IL_0040:
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::Initialize()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Initialize_m655F933C9D7CE67CDEFE0F783C3351BECA55D423 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Initialize_mAFDA801928AF4DFD94E9CF06590D2D8915B808C9 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessEventData_1__ctor_m5A5FA64438A7505BAABED090A3FBA40156A72504_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessEventData_1__ctor_m47A7A474540368AF4F51112D6BDB90E5FFCB387D_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
 		// base.Initialize();
-		BaseService_Initialize_m255A1FB33969CA69F6F4DB2D11EECF812AEA8573(__this, /*hidden argument*/NULL);
+		BaseService_Initialize_m83A80A76B65CB0AD3DDC2B27E1CA947CAF30E2F1(__this, /*hidden argument*/NULL);
 		// meshEventData = new MixedRealitySpatialAwarenessEventData<SpatialAwarenessMeshObject>(EventSystem.current);
 		IL2CPP_RUNTIME_CLASS_INIT(EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C_il2cpp_TypeInfo_var);
 		EventSystem_t5DC458FCD0355A74CDCCE79287B38B9C4278E39C * L_0;
 		L_0 = EventSystem_get_current_m4B9C11F490297AE55428038DACD240596D6CE5F2(/*hidden argument*/NULL);
-		MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA * L_1 = (MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA *)il2cpp_codegen_object_new(MixedRealitySpatialAwarenessEventData_1_t26126564975BB70CB527DF20E7628CB1158FF8DA_il2cpp_TypeInfo_var);
-		MixedRealitySpatialAwarenessEventData_1__ctor_m5A5FA64438A7505BAABED090A3FBA40156A72504(L_1, L_0, /*hidden argument*/MixedRealitySpatialAwarenessEventData_1__ctor_m5A5FA64438A7505BAABED090A3FBA40156A72504_RuntimeMethod_var);
+		MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 * L_1 = (MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2 *)il2cpp_codegen_object_new(MixedRealitySpatialAwarenessEventData_1_tD37785780113893966C5FB49790E7B98696247F2_il2cpp_TypeInfo_var);
+		MixedRealitySpatialAwarenessEventData_1__ctor_m47A7A474540368AF4F51112D6BDB90E5FFCB387D(L_1, L_0, /*hidden argument*/MixedRealitySpatialAwarenessEventData_1__ctor_m47A7A474540368AF4F51112D6BDB90E5FFCB387D_RuntimeMethod_var);
 		__this->set_meshEventData_21(L_1);
 		// InitializeInternal();
-		MixedRealitySpatialAwarenessSystem_InitializeInternal_m2125552FBC2057D0E2A0A6EDB2D6119493C9B79F(__this, /*hidden argument*/NULL);
+		MixedRealitySpatialAwarenessSystem_InitializeInternal_mDB9D6F65A2488F967A7A4609CB25068A6B908908(__this, /*hidden argument*/NULL);
 		// }
 		return;
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::InitializeInternal()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_InitializeInternal_m2125552FBC2057D0E2A0A6EDB2D6119493C9B79F (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_InitializeInternal_mDB9D6F65A2488F967A7A4609CB25068A6B908908 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mF5690CC554FBBD2A2CFAD96D89AAABB69AA4821D_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IReadOnlyCollection_1_t8B2A340BCDC97931981BBC5395C16516AE6988C5_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m4DD77CA1E04C7C61E560094C6B956A86AB4E8CC2_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IReadOnlyCollection_1_tBB0C6A4E3751FD9B7D85F7ECAD7D5E4DD26B1EE1_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&UInt32_tE60352A06233E4E69DD198BCC67142159F686B15_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
-	MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * V_0 = NULL;
+	MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * V_0 = NULL;
 	int32_t V_1 = 0;
-	MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29  V_2;
+	MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC  V_2;
 	memset((&V_2), 0, sizeof(V_2));
 	ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* V_3 = NULL;
 	{
 		// MixedRealitySpatialAwarenessSystemProfile profile = ConfigurationProfile as MixedRealitySpatialAwarenessSystemProfile;
-		BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * L_0;
-		L_0 = VirtualFuncInvoker0< BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * >::Invoke(22 /* Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile Microsoft.MixedReality.Toolkit.BaseService::get_ConfigurationProfile() */, __this);
-		V_0 = ((MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F *)IsInstClass((RuntimeObject*)L_0, MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F_il2cpp_TypeInfo_var));
+		BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * L_0;
+		L_0 = VirtualFuncInvoker0< BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * >::Invoke(22 /* Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile Microsoft.MixedReality.Toolkit.BaseService::get_ConfigurationProfile() */, __this);
+		V_0 = ((MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C *)IsInstClass((RuntimeObject*)L_0, MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C_il2cpp_TypeInfo_var));
 		// if (profile != null && GetDataProviders<IMixedRealitySpatialAwarenessObserver>().Count == 0)
-		MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * L_1 = V_0;
+		MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * L_1 = V_0;
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		bool L_2;
 		L_2 = Object_op_Inequality_mE1F187520BD83FB7D86A6D850710C4D42B864E90(L_1, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
@@ -2545,10 +2545,10 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Initi
 	}
 	{
 		RuntimeObject* L_3;
-		L_3 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var, __this);
+		L_3 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var, __this);
 		NullCheck(L_3);
 		int32_t L_4;
-		L_4 = InterfaceFuncInvoker0< int32_t >::Invoke(0 /* System.Int32 System.Collections.Generic.IReadOnlyCollection`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Count() */, IReadOnlyCollection_1_t8B2A340BCDC97931981BBC5395C16516AE6988C5_il2cpp_TypeInfo_var, L_3);
+		L_4 = InterfaceFuncInvoker0< int32_t >::Invoke(0 /* System.Int32 System.Collections.Generic.IReadOnlyCollection`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Count() */, IReadOnlyCollection_1_tBB0C6A4E3751FD9B7D85F7ECAD7D5E4DD26B1EE1_il2cpp_TypeInfo_var, L_3);
 		if (L_4)
 		{
 			goto IL_0092;
@@ -2563,14 +2563,14 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Initi
 IL_0026:
 	{
 		// MixedRealitySpatialObserverConfiguration configuration = profile.ObserverConfigurations[i];
-		MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * L_5 = V_0;
+		MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * L_5 = V_0;
 		NullCheck(L_5);
-		MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* L_6;
-		L_6 = MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_mD095E7FFB3FEF369FD6A80FFD45454F8D359C47D_inline(L_5, /*hidden argument*/NULL);
+		MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* L_6;
+		L_6 = MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_m0D4D421219FA67EDD52A0B72839E582E4C17F990_inline(L_5, /*hidden argument*/NULL);
 		int32_t L_7 = V_1;
 		NullCheck(L_6);
 		int32_t L_8 = L_7;
-		MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29  L_9 = (L_6)->GetAt(static_cast<il2cpp_array_size_t>(L_8));
+		MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC  L_9 = (L_6)->GetAt(static_cast<il2cpp_array_size_t>(L_8));
 		V_2 = L_9;
 		// object[] args = { this, configuration.ComponentName, configuration.Priority, configuration.ObserverProfile };
 		ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* L_10 = (ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE*)(ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE*)SZArrayNew(ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE_il2cpp_TypeInfo_var, (uint32_t)4);
@@ -2580,21 +2580,21 @@ IL_0026:
 		(L_11)->SetAt(static_cast<il2cpp_array_size_t>(0), (RuntimeObject *)__this);
 		ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* L_12 = L_11;
 		String_t* L_13;
-		L_13 = MixedRealitySpatialObserverConfiguration_get_ComponentName_m4D57F1C793CBD9D7C832BD912CF04DB12F4F206C_inline((MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 *)(&V_2), /*hidden argument*/NULL);
+		L_13 = MixedRealitySpatialObserverConfiguration_get_ComponentName_m0D3E072EC7EB095060783931F5927AC34D966E2B_inline((MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC *)(&V_2), /*hidden argument*/NULL);
 		NullCheck(L_12);
 		ArrayElementTypeCheck (L_12, L_13);
 		(L_12)->SetAt(static_cast<il2cpp_array_size_t>(1), (RuntimeObject *)L_13);
 		ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* L_14 = L_12;
 		uint32_t L_15;
-		L_15 = MixedRealitySpatialObserverConfiguration_get_Priority_mE6CD70133D833F6F15B948B4AB052E80D91663F2_inline((MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 *)(&V_2), /*hidden argument*/NULL);
+		L_15 = MixedRealitySpatialObserverConfiguration_get_Priority_mEF37BFED75E1BDD7EEF825928B89B348FCA4E71E_inline((MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC *)(&V_2), /*hidden argument*/NULL);
 		uint32_t L_16 = L_15;
 		RuntimeObject * L_17 = Box(UInt32_tE60352A06233E4E69DD198BCC67142159F686B15_il2cpp_TypeInfo_var, &L_16);
 		NullCheck(L_14);
 		ArrayElementTypeCheck (L_14, L_17);
 		(L_14)->SetAt(static_cast<il2cpp_array_size_t>(2), (RuntimeObject *)L_17);
 		ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* L_18 = L_14;
-		BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * L_19;
-		L_19 = MixedRealitySpatialObserverConfiguration_get_ObserverProfile_m717A479AC69F9B3967DDF8A050EC3A6686C3AB93_inline((MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 *)(&V_2), /*hidden argument*/NULL);
+		BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * L_19;
+		L_19 = MixedRealitySpatialObserverConfiguration_get_ObserverProfile_m213374EA6B5D3CC12E21DEF50BE1B23699AC189E_inline((MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC *)(&V_2), /*hidden argument*/NULL);
 		NullCheck(L_18);
 		ArrayElementTypeCheck (L_18, L_19);
 		(L_18)->SetAt(static_cast<il2cpp_array_size_t>(3), (RuntimeObject *)L_19);
@@ -2604,18 +2604,18 @@ IL_0026:
 		//     configuration.ComponentName,
 		//     configuration.RuntimePlatform,
 		//     args);
-		SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * L_20;
-		L_20 = MixedRealitySpatialObserverConfiguration_get_ComponentType_m2438815B27F75D3BA0F9FE15EDEBDE97FD7120FA_inline((MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 *)(&V_2), /*hidden argument*/NULL);
+		SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * L_20;
+		L_20 = MixedRealitySpatialObserverConfiguration_get_ComponentType_m213E775158CCD1BB9197C74BDBE5C24807B1B4EF_inline((MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC *)(&V_2), /*hidden argument*/NULL);
 		NullCheck(L_20);
 		Type_t * L_21;
-		L_21 = SystemType_get_Type_mAE85DF2D9352C7118FA807083D4BC00BC5218C9F_inline(L_20, /*hidden argument*/NULL);
+		L_21 = SystemType_get_Type_m3E5045E45C073ABC506861B26B6033BC247B7FF3_inline(L_20, /*hidden argument*/NULL);
 		String_t* L_22;
-		L_22 = MixedRealitySpatialObserverConfiguration_get_ComponentName_m4D57F1C793CBD9D7C832BD912CF04DB12F4F206C_inline((MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 *)(&V_2), /*hidden argument*/NULL);
+		L_22 = MixedRealitySpatialObserverConfiguration_get_ComponentName_m0D3E072EC7EB095060783931F5927AC34D966E2B_inline((MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC *)(&V_2), /*hidden argument*/NULL);
 		int32_t L_23;
-		L_23 = MixedRealitySpatialObserverConfiguration_get_RuntimePlatform_mFC4FDB02B46EE3DD1216092EBC10ABC8B529E7A2_inline((MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 *)(&V_2), /*hidden argument*/NULL);
+		L_23 = MixedRealitySpatialObserverConfiguration_get_RuntimePlatform_m8ED6764ECC28D9FA29619DEB6BFFF558EF3B4128_inline((MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC *)(&V_2), /*hidden argument*/NULL);
 		ObjectU5BU5D_tC1F4EE0DB0B7300255F5FD4AF64FE4C585CF5ADE* L_24 = V_3;
 		bool L_25;
-		L_25 = BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mF5690CC554FBBD2A2CFAD96D89AAABB69AA4821D(__this, L_21, L_22, L_23, L_24, /*hidden argument*/BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mF5690CC554FBBD2A2CFAD96D89AAABB69AA4821D_RuntimeMethod_var);
+		L_25 = BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m4DD77CA1E04C7C61E560094C6B956A86AB4E8CC2(__this, L_21, L_22, L_23, L_24, /*hidden argument*/BaseDataProviderAccessCoreSystem_RegisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m4DD77CA1E04C7C61E560094C6B956A86AB4E8CC2_RuntimeMethod_var);
 		// for (int i = 0; i < profile.ObserverConfigurations.Length; i++)
 		int32_t L_26 = V_1;
 		V_1 = ((int32_t)il2cpp_codegen_add((int32_t)L_26, (int32_t)1));
@@ -2625,10 +2625,10 @@ IL_0087:
 	{
 		// for (int i = 0; i < profile.ObserverConfigurations.Length; i++)
 		int32_t L_27 = V_1;
-		MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * L_28 = V_0;
+		MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * L_28 = V_0;
 		NullCheck(L_28);
-		MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* L_29;
-		L_29 = MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_mD095E7FFB3FEF369FD6A80FFD45454F8D359C47D_inline(L_28, /*hidden argument*/NULL);
+		MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* L_29;
+		L_29 = MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_m0D4D421219FA67EDD52A0B72839E582E4C17F990_inline(L_28, /*hidden argument*/NULL);
 		NullCheck(L_29);
 		if ((((int32_t)L_27) < ((int32_t)((int32_t)((int32_t)(((RuntimeArray*)L_29)->max_length))))))
 		{
@@ -2643,16 +2643,16 @@ IL_0092:
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::Disable()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Disable_m73725C6BEF6F24888F477D90FB408C525EAC74AD (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Disable_m8FC061AEB7ED4D42FE2377C4F1815FE0286FD970 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mFE841883A819ABB0B2E91E35C13FFE082696184D_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m8BD39289927E436D39A4494EF9A2D94053DEC088_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_t5956F3AFB7ECF1117E3BC5890E7FC7B7F7A04105_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
@@ -2662,13 +2662,13 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Disab
 	il2cpp::utils::ExceptionSupportStack<int32_t, 1> __leave_targets;
 	{
 		// base.Disable();
-		BaseService_Disable_m36B425F7A884FC9F3811565A8F09C7702F6B8A35(__this, /*hidden argument*/NULL);
+		BaseService_Disable_m38006CDF6572BFDDC9488E3B8B124446128DEE7C(__this, /*hidden argument*/NULL);
 		// foreach (var provider in GetDataProviders<IMixedRealitySpatialAwarenessObserver>())
 		RuntimeObject* L_0;
-		L_0 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var, __this);
+		L_0 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var, __this);
 		NullCheck(L_0);
 		RuntimeObject* L_1;
-		L_1 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var, L_0);
+		L_1 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var, L_0);
 		V_0 = L_1;
 	}
 
@@ -2685,12 +2685,12 @@ IL_0014:
 			RuntimeObject* L_2 = V_0;
 			NullCheck(L_2);
 			RuntimeObject* L_3;
-			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var, L_2);
+			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var, L_2);
 			V_1 = L_3;
 			// UnregisterDataProvider(provider);
 			RuntimeObject* L_4 = V_1;
 			bool L_5;
-			L_5 = BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mFE841883A819ABB0B2E91E35C13FFE082696184D(__this, L_4, /*hidden argument*/BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_mFE841883A819ABB0B2E91E35C13FFE082696184D_RuntimeMethod_var);
+			L_5 = BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m8BD39289927E436D39A4494EF9A2D94053DEC088(__this, L_4, /*hidden argument*/BaseDataProviderAccessCoreSystem_UnregisterDataProvider_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_m8BD39289927E436D39A4494EF9A2D94053DEC088_RuntimeMethod_var);
 		}
 
 IL_0023:
@@ -2752,23 +2752,23 @@ IL_0037:
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::Enable()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Enable_m89F14DE788E8266AD00A25C2F7045E4C8F4C721C (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Enable_m136FC13EC8A73F162E9F1B79FA20C0DCC999B0B9 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	{
 		// InitializeInternal();
-		MixedRealitySpatialAwarenessSystem_InitializeInternal_m2125552FBC2057D0E2A0A6EDB2D6119493C9B79F(__this, /*hidden argument*/NULL);
+		MixedRealitySpatialAwarenessSystem_InitializeInternal_mDB9D6F65A2488F967A7A4609CB25068A6B908908(__this, /*hidden argument*/NULL);
 		// base.Enable();
-		BaseDataProviderAccessCoreSystem_Enable_mD31771E02706ABCE648C6D4D8E6559389C4031A9(__this, /*hidden argument*/NULL);
+		BaseDataProviderAccessCoreSystem_Enable_m6EA06C7096A0E356F7F5888C1FC9AD6CAD894D39(__this, /*hidden argument*/NULL);
 		// }
 		return;
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::Reset()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Reset_m84CA4F510C02F565ACB9CE494B8EE8725BEF5F66 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Reset_m4E246C8C3C19D9BDBA4BF892C079B814A8D8E5A7 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	{
 		// base.Reset();
-		BaseDataProviderAccessCoreSystem_Reset_mECE9CFD64A28351F08511C62E008D215781BC2BB(__this, /*hidden argument*/NULL);
+		BaseDataProviderAccessCoreSystem_Reset_m6D2C1D12D075591B8030350BD55A23C03D9A3CD4(__this, /*hidden argument*/NULL);
 		// Disable();
 		VirtualActionInvoker0::Invoke(29 /* System.Void Microsoft.MixedReality.Toolkit.BaseService::Disable() */, __this);
 		// Initialize();
@@ -2780,7 +2780,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Reset
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::Destroy()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Destroy_m003BA79750F82E0153AE5CA8C1A6C262CBD95EA1 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Destroy_m6FA892C6BDC28E9E7E18BCD7383B51018F409A3E (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -2850,13 +2850,13 @@ IL_0044:
 IL_004b:
 	{
 		// base.Destroy();
-		BaseEventSystem_Destroy_m93C8507F773C6277C90725CEB64BF15D54C33AB7(__this, /*hidden argument*/NULL);
+		BaseEventSystem_Destroy_m19EA3BFF0EC9FF056C79F0FDC475790BF06C0220(__this, /*hidden argument*/NULL);
 		// }
 		return;
 	}
 }
 // UnityEngine.GameObject Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::get_SpatialAwarenessObjectParent()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessObjectParent_m42CC0FCB8AB7CE6C2E50A100052AD7B6F74221DF (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessObjectParent_m192F49BC25C8F4826760567FDA9346E3F457E63A (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -2878,7 +2878,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072
 	}
 	{
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_2;
-		L_2 = MixedRealitySpatialAwarenessSystem_get_CreateSpatialAwarenessObjectParent_mDEC577A7DABF7BC0CFB5D3D8AA0664C3812A0A44(__this, /*hidden argument*/NULL);
+		L_2 = MixedRealitySpatialAwarenessSystem_get_CreateSpatialAwarenessObjectParent_mDA1CA92970AB80AF6930431F31CE332549404428(__this, /*hidden argument*/NULL);
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_3 = L_2;
 		V_0 = L_3;
 		__this->set_spatialAwarenessObjectParent_22(L_3);
@@ -2893,13 +2893,13 @@ IL_001e:
 	}
 }
 // UnityEngine.GameObject Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::get_CreateSpatialAwarenessObjectParent()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_CreateSpatialAwarenessObjectParent_mDEC577A7DABF7BC0CFB5D3D8AA0664C3812A0A44 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_get_CreateSpatialAwarenessObjectParent_mDA1CA92970AB80AF6930431F31CE332549404428 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealityPlayspace_tEEDF7A044A9E8E252CF39E2F7C51AB77FC70367A_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealityPlayspace_tF90CFD070BD19C9D71E1AEE019A047B2552C319E_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral84210E916B771570003864C57344196A52266B35);
 		s_Il2CppMethodInitialized = true;
 	}
@@ -2912,9 +2912,9 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072
 		NullCheck(L_1);
 		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_2;
 		L_2 = GameObject_get_transform_m16A80BB92B6C8C5AB696E447014D45EDF1E4DE34(L_1, /*hidden argument*/NULL);
-		IL2CPP_RUNTIME_CLASS_INIT(MixedRealityPlayspace_tEEDF7A044A9E8E252CF39E2F7C51AB77FC70367A_il2cpp_TypeInfo_var);
+		IL2CPP_RUNTIME_CLASS_INIT(MixedRealityPlayspace_tF90CFD070BD19C9D71E1AEE019A047B2552C319E_il2cpp_TypeInfo_var);
 		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_3;
-		L_3 = MixedRealityPlayspace_get_Transform_mCCE29FC5A6A15F7E4BFE9AE45BC18C9A11F6BAFA(/*hidden argument*/NULL);
+		L_3 = MixedRealityPlayspace_get_Transform_mED65C66E276726DD2C3A040B8DB1D4663C0792CE(/*hidden argument*/NULL);
 		NullCheck(L_2);
 		Transform_SetParent_mA6A651EDE81F139E1D6C7BA894834AD71D07227A(L_2, L_3, (bool)0, /*hidden argument*/NULL);
 		// return newParent;
@@ -2922,7 +2922,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072
 	}
 }
 // UnityEngine.GameObject Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::CreateSpatialAwarenessObservationParent(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_CreateSpatialAwarenessObservationParent_m17B3B78646B128709029546D588794751862A79D (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, String_t* ___name0, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * MixedRealitySpatialAwarenessSystem_CreateSpatialAwarenessObservationParent_mB608DD6943C90602F41FD9C572625DA794886498 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, String_t* ___name0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
@@ -2941,7 +2941,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072
 		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_3;
 		L_3 = GameObject_get_transform_m16A80BB92B6C8C5AB696E447014D45EDF1E4DE34(L_2, /*hidden argument*/NULL);
 		GameObject_tC000A2E1A7CF1E10FD7BA08863287C072207C319 * L_4;
-		L_4 = MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessObjectParent_m42CC0FCB8AB7CE6C2E50A100052AD7B6F74221DF(__this, /*hidden argument*/NULL);
+		L_4 = MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessObjectParent_m192F49BC25C8F4826760567FDA9346E3F457E63A(__this, /*hidden argument*/NULL);
 		NullCheck(L_4);
 		Transform_tA8193BB29D4D2C7EC04918F3ED1816345186C3F1 * L_5;
 		L_5 = GameObject_get_transform_m16A80BB92B6C8C5AB696E447014D45EDF1E4DE34(L_4, /*hidden argument*/NULL);
@@ -2952,7 +2952,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR GameObject_tC000A2E1A7CF1E10FD7BA08863287C072
 	}
 }
 // System.UInt32 Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::GenerateNewSourceId()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialAwarenessSystem_GenerateNewSourceId_m0BE1340CDDA516541A414F54C6624FCF194F2027 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialAwarenessSystem_GenerateNewSourceId_mFEAF42215C292067A9EB16D53D51C7FAA23FFF6B (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	uint32_t V_0 = 0;
 	{
@@ -2966,18 +2966,18 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialAwarenessSystem_G
 	}
 }
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystemProfile Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::get_SpatialAwarenessSystemProfile()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessSystemProfile_m8C22B36DAFBE50A35AAFE589E58484376239D7EE (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * MixedRealitySpatialAwarenessSystem_get_SpatialAwarenessSystemProfile_m8E370C73409C15015588936E573F4C1DAA359499 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
 		// if (spatialAwarenessSystemProfile == null)
-		MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * L_0 = __this->get_spatialAwarenessSystemProfile_24();
+		MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * L_0 = __this->get_spatialAwarenessSystemProfile_24();
 		IL2CPP_RUNTIME_CLASS_INIT(Object_tF2F3778131EFF286AF62B7B013A170F95A91571A_il2cpp_TypeInfo_var);
 		bool L_1;
 		L_1 = Object_op_Equality_mEE9EC7EB5C7DC3E95B94AB904E1986FC4D566D54(L_0, (Object_tF2F3778131EFF286AF62B7B013A170F95A91571A *)NULL, /*hidden argument*/NULL);
@@ -2988,26 +2988,26 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR MixedRealitySpatialAwarenessSystemProfile_tC3
 	}
 	{
 		// spatialAwarenessSystemProfile = ConfigurationProfile as MixedRealitySpatialAwarenessSystemProfile;
-		BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * L_2;
-		L_2 = VirtualFuncInvoker0< BaseMixedRealityProfile_tE425D8D64B2631D5C8C82A49805613264FA9D9A3 * >::Invoke(22 /* Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile Microsoft.MixedReality.Toolkit.BaseService::get_ConfigurationProfile() */, __this);
-		__this->set_spatialAwarenessSystemProfile_24(((MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F *)IsInstClass((RuntimeObject*)L_2, MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F_il2cpp_TypeInfo_var)));
+		BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * L_2;
+		L_2 = VirtualFuncInvoker0< BaseMixedRealityProfile_tE24FAA22F8E22E9D21293A6ACB7EEE8AD9674E2E * >::Invoke(22 /* Microsoft.MixedReality.Toolkit.BaseMixedRealityProfile Microsoft.MixedReality.Toolkit.BaseService::get_ConfigurationProfile() */, __this);
+		__this->set_spatialAwarenessSystemProfile_24(((MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C *)IsInstClass((RuntimeObject*)L_2, MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C_il2cpp_TypeInfo_var)));
 	}
 
 IL_001f:
 	{
 		// return spatialAwarenessSystemProfile;
-		MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * L_3 = __this->get_spatialAwarenessSystemProfile_24();
+		MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * L_3 = __this->get_spatialAwarenessSystemProfile_24();
 		return L_3;
 	}
 }
 // System.Collections.Generic.IReadOnlyList`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver> Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::GetObservers()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MixedRealitySpatialAwarenessSystem_GetObservers_m761E8BACF9505AD0E197DCF9E6AB08C003977164 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MixedRealitySpatialAwarenessSystem_GetObservers_m8A7E4456410DEDD639A54E28416CCC9C1C4F30C2 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IReadOnlyList_1_t6C5396F5BDF7EED4C9053741D2D9EABD04B7BC21_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IReadOnlyList_1_t98F44EA2A09473A1EAE349AB413446034EA5248A_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  V_0;
@@ -3019,8 +3019,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MixedRealitySpatialAwarenessSy
 	il2cpp::utils::ExceptionSupportStack<int32_t, 1> __leave_targets;
 	{
 		// using (GetObserversPerfMarker.Auto())
-		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
-		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->get_GetObserversPerfMarker_25();
+		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
+		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->get_GetObserversPerfMarker_25();
 		V_1 = L_0;
 		AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  L_1;
 		L_1 = ProfilerMarker_Auto_m136C2D8B4232A186FA4C8866BB389A5DCF69E0E5_inline((ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 *)(&V_1), /*hidden argument*/NULL);
@@ -3033,7 +3033,7 @@ IL_000e:
 		// return GetDataProviders() as IReadOnlyList<IMixedRealitySpatialAwarenessObserver>;
 		RuntimeObject* L_2;
 		L_2 = VirtualFuncInvoker0< RuntimeObject* >::Invoke(53 /* System.Collections.Generic.IReadOnlyList`1<Microsoft.MixedReality.Toolkit.IMixedRealityDataProvider> Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::GetDataProviders() */, __this);
-		V_2 = ((RuntimeObject*)IsInst((RuntimeObject*)L_2, IReadOnlyList_1_t6C5396F5BDF7EED4C9053741D2D9EABD04B7BC21_il2cpp_TypeInfo_var));
+		V_2 = ((RuntimeObject*)IsInst((RuntimeObject*)L_2, IReadOnlyList_1_t98F44EA2A09473A1EAE349AB413446034EA5248A_il2cpp_TypeInfo_var));
 		IL2CPP_LEAVE(0x2A, FINALLY_001c);
 	}// end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
@@ -3061,13 +3061,13 @@ IL_002a:
 	}
 }
 // Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::GetObserver(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MixedRealitySpatialAwarenessSystem_GetObserver_mC17451BF9B65CE45A336DDA449629E3C4B9F1A2F (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, String_t* ___name0, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MixedRealitySpatialAwarenessSystem_GetObserver_m69816A0E59FBF1772B67D4BE70B77A5EB783BB13 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, String_t* ___name0, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  V_0;
@@ -3079,8 +3079,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* MixedRealitySpatialAwarenessSy
 	il2cpp::utils::ExceptionSupportStack<int32_t, 1> __leave_targets;
 	{
 		// using (GetObserverPerfMarker.Auto())
-		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
-		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->get_GetObserverPerfMarker_27();
+		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
+		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->get_GetObserverPerfMarker_27();
 		V_1 = L_0;
 		AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  L_1;
 		L_1 = ProfilerMarker_Auto_m136C2D8B4232A186FA4C8866BB389A5DCF69E0E5_inline((ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 *)(&V_1), /*hidden argument*/NULL);
@@ -3094,7 +3094,7 @@ IL_000e:
 		String_t* L_2 = ___name0;
 		RuntimeObject* L_3;
 		L_3 = VirtualFuncInvoker1< RuntimeObject*, String_t* >::Invoke(55 /* Microsoft.MixedReality.Toolkit.IMixedRealityDataProvider Microsoft.MixedReality.Toolkit.BaseDataProviderAccessCoreSystem::GetDataProvider(System.String) */, __this, L_2);
-		V_2 = ((RuntimeObject*)IsInst((RuntimeObject*)L_3, IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var));
+		V_2 = ((RuntimeObject*)IsInst((RuntimeObject*)L_3, IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var));
 		IL2CPP_LEAVE(0x2B, FINALLY_001d);
 	}// end try (depth: 1)
 	catch(Il2CppExceptionWrapper& e)
@@ -3122,18 +3122,18 @@ IL_002b:
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::ResumeObservers()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_ResumeObservers_mD545E9A037B04B6431A696A2D44CD33453B537E9 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_ResumeObservers_m3EF5D25C2242D73FCCB6A0ABCE9C15063141DB3E (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_t5956F3AFB7ECF1117E3BC5890E7FC7B7F7A04105_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  V_0;
@@ -3145,8 +3145,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Resum
 	il2cpp::utils::ExceptionSupportStack<int32_t, 1> __leave_targets;
 	{
 		// using (ResumeObserversPerfMarker.Auto())
-		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
-		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->get_ResumeObserversPerfMarker_31();
+		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
+		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->get_ResumeObserversPerfMarker_31();
 		V_1 = L_0;
 		AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  L_1;
 		L_1 = ProfilerMarker_Auto_m136C2D8B4232A186FA4C8866BB389A5DCF69E0E5_inline((ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 *)(&V_1), /*hidden argument*/NULL);
@@ -3159,10 +3159,10 @@ IL_000e:
 		{
 			// foreach (var observer in GetDataProviders<IMixedRealitySpatialAwarenessObserver>())
 			RuntimeObject* L_2;
-			L_2 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var, __this);
+			L_2 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var, __this);
 			NullCheck(L_2);
 			RuntimeObject* L_3;
-			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var, L_2);
+			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var, L_2);
 			V_2 = L_3;
 		}
 
@@ -3179,10 +3179,10 @@ IL_001c:
 				RuntimeObject* L_4 = V_2;
 				NullCheck(L_4);
 				RuntimeObject* L_5;
-				L_5 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var, L_4);
+				L_5 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var, L_4);
 				// observer.Resume();
 				NullCheck(L_5);
-				InterfaceActionInvoker0::Invoke(16 /* System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver::Resume() */, IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var, L_5);
+				InterfaceActionInvoker0::Invoke(16 /* System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver::Resume() */, IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var, L_5);
 			}
 
 IL_0027:
@@ -3261,18 +3261,18 @@ IL_0049:
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::SuspendObservers()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_SuspendObservers_m92C3AE562D0F78F4A239782A2A1CD8EDEA6ED881 (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_SuspendObservers_m8F042E58DD0523584D1C03672DBB850BC647D2F2 (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_t5956F3AFB7ECF1117E3BC5890E7FC7B7F7A04105_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  V_0;
@@ -3284,8 +3284,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Suspe
 	il2cpp::utils::ExceptionSupportStack<int32_t, 1> __leave_targets;
 	{
 		// using (SuspendObserversPerfMarker.Auto())
-		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
-		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->get_SuspendObserversPerfMarker_34();
+		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
+		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->get_SuspendObserversPerfMarker_34();
 		V_1 = L_0;
 		AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  L_1;
 		L_1 = ProfilerMarker_Auto_m136C2D8B4232A186FA4C8866BB389A5DCF69E0E5_inline((ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 *)(&V_1), /*hidden argument*/NULL);
@@ -3298,10 +3298,10 @@ IL_000e:
 		{
 			// foreach (var observer in GetDataProviders<IMixedRealitySpatialAwarenessObserver>())
 			RuntimeObject* L_2;
-			L_2 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var, __this);
+			L_2 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var, __this);
 			NullCheck(L_2);
 			RuntimeObject* L_3;
-			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var, L_2);
+			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var, L_2);
 			V_2 = L_3;
 		}
 
@@ -3318,10 +3318,10 @@ IL_001c:
 				RuntimeObject* L_4 = V_2;
 				NullCheck(L_4);
 				RuntimeObject* L_5;
-				L_5 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var, L_4);
+				L_5 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var, L_4);
 				// observer.Suspend();
 				NullCheck(L_5);
-				InterfaceActionInvoker0::Invoke(17 /* System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver::Suspend() */, IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var, L_5);
+				InterfaceActionInvoker0::Invoke(17 /* System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver::Suspend() */, IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var, L_5);
 			}
 
 IL_0027:
@@ -3400,18 +3400,18 @@ IL_0049:
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::ClearObservations()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_ClearObservations_m4A894CD3282FC5AE555CA1EEB55CC4419289DD5A (MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9 * __this, const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_ClearObservations_mAF22C49C39C026063F1922979E44F1F5B774150E (MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C * __this, const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IDisposable_t099785737FC6A1E3699919A94109383715A8D807_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IEnumerator_t5956F3AFB7ECF1117E3BC5890E7FC7B7F7A04105_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var);
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  V_0;
@@ -3423,8 +3423,8 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem_Clear
 	il2cpp::utils::ExceptionSupportStack<int32_t, 1> __leave_targets;
 	{
 		// using (ClearObservationsPerfMarker.Auto())
-		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
-		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->get_ClearObservationsPerfMarker_37();
+		IL2CPP_RUNTIME_CLASS_INIT(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
+		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0 = ((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->get_ClearObservationsPerfMarker_37();
 		V_1 = L_0;
 		AutoScope_tEB00834B4CEE8558238837BA3A36B64020E48F8D  L_1;
 		L_1 = ProfilerMarker_Auto_m136C2D8B4232A186FA4C8866BB389A5DCF69E0E5_inline((ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1 *)(&V_1), /*hidden argument*/NULL);
@@ -3437,10 +3437,10 @@ IL_000e:
 		{
 			// foreach (var observer in GetDataProviders<IMixedRealitySpatialAwarenessObserver>())
 			RuntimeObject* L_2;
-			L_2 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_m9171944D0021B66FCE378BDC0ED862E2D80B6193_RuntimeMethod_var, __this);
+			L_2 = GenericVirtualFuncInvoker0< RuntimeObject* >::Invoke(BaseDataProviderAccessCoreSystem_GetDataProviders_TisIMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_mC7D20F0C46555C730CF3F999213C2278191B816E_RuntimeMethod_var, __this);
 			NullCheck(L_2);
 			RuntimeObject* L_3;
-			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_tC5CF5EF764DB1BABB185877AA66CD756CD0AA94F_il2cpp_TypeInfo_var, L_2);
+			L_3 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* System.Collections.Generic.IEnumerator`1<!0> System.Collections.Generic.IEnumerable`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::GetEnumerator() */, IEnumerable_1_t701E9218C866D34538ED0335DDE783A9A969F480_il2cpp_TypeInfo_var, L_2);
 			V_2 = L_3;
 		}
 
@@ -3457,10 +3457,10 @@ IL_001c:
 				RuntimeObject* L_4 = V_2;
 				NullCheck(L_4);
 				RuntimeObject* L_5;
-				L_5 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_t7BA6D50F16277360CE79095CDAFE81747B72A8EC_il2cpp_TypeInfo_var, L_4);
+				L_5 = InterfaceFuncInvoker0< RuntimeObject* >::Invoke(0 /* !0 System.Collections.Generic.IEnumerator`1<Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver>::get_Current() */, IEnumerator_1_tC075E12877E37D5F486AD7C3D7B8AF5875C1E315_il2cpp_TypeInfo_var, L_4);
 				// observer.ClearObservations();
 				NullCheck(L_5);
-				InterfaceActionInvoker0::Invoke(18 /* System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver::ClearObservations() */, IMixedRealitySpatialAwarenessObserver_t0298CABE14467FE97485825B65B5E0D3C95CFC13_il2cpp_TypeInfo_var, L_5);
+				InterfaceActionInvoker0::Invoke(18 /* System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.IMixedRealitySpatialAwarenessObserver::ClearObservations() */, IMixedRealitySpatialAwarenessObserver_t9C3D31C8481FBA7C0E60B0549C6DBF75145E3FCB_il2cpp_TypeInfo_var, L_5);
 			}
 
 IL_0027:
@@ -3539,12 +3539,12 @@ IL_0049:
 	}
 }
 // System.Void Microsoft.MixedReality.Toolkit.SpatialAwareness.MixedRealitySpatialAwarenessSystem::.cctor()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__cctor_m11C2CCDAC973614C0AFC627C52DA95343BEAD166 (const RuntimeMethod* method)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__cctor_mB74534CF2E9989D1E3BC8DE515D920BA36EFDF2D (const RuntimeMethod* method)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral0755F3DCD1C7D7F8C7F146B5C1598C86897222FA);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral1493973E273A553C92B106E28BD722E4E3A0AD98);
 		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&_stringLiteral3AF268028A7C8D24E1A3278EC06A941AF3AB7C83);
@@ -3566,79 +3566,79 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealitySpatialAwarenessSystem__ccto
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_0;
 		memset((&L_0), 0, sizeof(L_0));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_0), _stringLiteralC51718E69592BF754ED468BA0E33592D41CC0711, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_GetObserversPerfMarker_25(L_0);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_GetObserversPerfMarker_25(L_0);
 		// private static readonly ProfilerMarker GetObserversTPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.GetObservers<T>");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_1;
 		memset((&L_1), 0, sizeof(L_1));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_1), _stringLiteral474447FAD0D27BF6A99C1C7093B70018F15EE835, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_GetObserversTPerfMarker_26(L_1);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_GetObserversTPerfMarker_26(L_1);
 		// private static readonly ProfilerMarker GetObserverPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.GetObserver");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_2;
 		memset((&L_2), 0, sizeof(L_2));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_2), _stringLiteral0755F3DCD1C7D7F8C7F146B5C1598C86897222FA, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_GetObserverPerfMarker_27(L_2);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_GetObserverPerfMarker_27(L_2);
 		// private static readonly ProfilerMarker GetObserverTPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.GetObserver<T>");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_3;
 		memset((&L_3), 0, sizeof(L_3));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_3), _stringLiteral1493973E273A553C92B106E28BD722E4E3A0AD98, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_GetObserverTPerfMarker_28(L_3);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_GetObserverTPerfMarker_28(L_3);
 		// private static readonly ProfilerMarker GetDataProvidersPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.GetDataProviders");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_4;
 		memset((&L_4), 0, sizeof(L_4));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_4), _stringLiteralD7A0E2B84A2188BA28341150550C337C542E8671, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_GetDataProvidersPerfMarker_29(L_4);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_GetDataProvidersPerfMarker_29(L_4);
 		// private static readonly ProfilerMarker GetDataProviderPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.GetDataProvider");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_5;
 		memset((&L_5), 0, sizeof(L_5));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_5), _stringLiteral3AF268028A7C8D24E1A3278EC06A941AF3AB7C83, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_GetDataProviderPerfMarker_30(L_5);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_GetDataProviderPerfMarker_30(L_5);
 		// private static readonly ProfilerMarker ResumeObserversPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.ResumeObservers");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_6;
 		memset((&L_6), 0, sizeof(L_6));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_6), _stringLiteral5C25A67358FA149F467647A046B5549855D72011, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_ResumeObserversPerfMarker_31(L_6);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_ResumeObserversPerfMarker_31(L_6);
 		// private static readonly ProfilerMarker ResumeObserversTPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.ResumeObservers<T>");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_7;
 		memset((&L_7), 0, sizeof(L_7));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_7), _stringLiteralC4149992C36FE958949693FAE84EE89309D872FA, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_ResumeObserversTPerfMarker_32(L_7);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_ResumeObserversTPerfMarker_32(L_7);
 		// private static readonly ProfilerMarker ResumeObserverPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.ResumeObserver");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_8;
 		memset((&L_8), 0, sizeof(L_8));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_8), _stringLiteral72F7A6E2A6DE3E5DE76E40BC176AD33FCE86E0A7, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_ResumeObserverPerfMarker_33(L_8);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_ResumeObserverPerfMarker_33(L_8);
 		// private static readonly ProfilerMarker SuspendObserversPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.SuspendObservers");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_9;
 		memset((&L_9), 0, sizeof(L_9));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_9), _stringLiteralBEF51D8BFDF5409F7D7A407464E210AB7AF45304, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_SuspendObserversPerfMarker_34(L_9);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_SuspendObserversPerfMarker_34(L_9);
 		// private static readonly ProfilerMarker SuspendObserversTPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.SuspendObservers<T>");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_10;
 		memset((&L_10), 0, sizeof(L_10));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_10), _stringLiteral91B3ABEA5982C1F945523544B3BA94100AE5F5DB, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_SuspendObserversTPerfMarker_35(L_10);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_SuspendObserversTPerfMarker_35(L_10);
 		// private static readonly ProfilerMarker SuspendObserverPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.SuspendObserver");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_11;
 		memset((&L_11), 0, sizeof(L_11));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_11), _stringLiteral80B8FC02531D63146A2F2DE67A3DC123891215FC, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_SuspendObserverPerfMarker_36(L_11);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_SuspendObserverPerfMarker_36(L_11);
 		// private static readonly ProfilerMarker ClearObservationsPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.ClearObservations");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_12;
 		memset((&L_12), 0, sizeof(L_12));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_12), _stringLiteral56EB1B275FCFAC7E81FE874CCF19B184937C1493, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_ClearObservationsPerfMarker_37(L_12);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_ClearObservationsPerfMarker_37(L_12);
 		// private static readonly ProfilerMarker ClearObservationsTPerfMarker = new ProfilerMarker("[MRTK] MixedRealitySpatialAwarenessSystem.ClearObservations<T>");
 		ProfilerMarker_tAE86534C80C5D67768DB3B244D8D139A2E6495E1  L_13;
 		memset((&L_13), 0, sizeof(L_13));
 		ProfilerMarker__ctor_mCE8D10CF2D2B2C4E51BF1BB66D75FDDE5BDA4A41_inline((&L_13), _stringLiteralB612C75ADB2AE97EA4EA097D17EA7667AA2E78A8, /*hidden argument*/NULL);
-		((MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_il2cpp_TypeInfo_var))->set_ClearObservationsTPerfMarker_38(L_13);
+		((MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_StaticFields*)il2cpp_codegen_static_fields_for(MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_il2cpp_TypeInfo_var))->set_ClearObservationsTPerfMarker_38(L_13);
 		return;
 	}
 }
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void BaseCoreSystem_set_Registrar_m78781CFDFECE8952C48C0A3BF9BFF753D179B3AB_inline (BaseCoreSystem_tE610AEADB105DC3093B76E8BF1DA11EE1BFA3954 * __this, RuntimeObject* ___value0, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void BaseCoreSystem_set_Registrar_m9FCED22F8EC95B9A506FEA8FCC069197B30AA50C_inline (BaseCoreSystem_t7AF1FC99FE6D9CD6195A0673C2293FC74AFAC0FA * __this, RuntimeObject* ___value0, const RuntimeMethod* method)
 {
 	{
 		// protected IMixedRealityServiceRegistrar Registrar { get; set; } = null;
@@ -3647,15 +3647,15 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void BaseCoreSystem_set_Registrar
 		return;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_mD095E7FFB3FEF369FD6A80FFD45454F8D359C47D_inline (MixedRealitySpatialAwarenessSystemProfile_tC360A7FBC7F03C74A5A6A59A8E40A15D6A85D74F * __this, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* MixedRealitySpatialAwarenessSystemProfile_get_ObserverConfigurations_m0D4D421219FA67EDD52A0B72839E582E4C17F990_inline (MixedRealitySpatialAwarenessSystemProfile_t861BA49287DDBBACF90D98A7396BC1B150BE0E4C * __this, const RuntimeMethod* method)
 {
 	{
 		// get { return observerConfigurations; }
-		MixedRealitySpatialObserverConfigurationU5BU5D_tA4EBFB0C00EF65FAAE10170634FED6414DE535F9* L_0 = __this->get_observerConfigurations_5();
+		MixedRealitySpatialObserverConfigurationU5BU5D_tC83C6D7C0BB463093C571A9F90849AC4DC0A911A* L_0 = __this->get_observerConfigurations_5();
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialObserverConfiguration_get_ComponentName_m4D57F1C793CBD9D7C832BD912CF04DB12F4F206C_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialObserverConfiguration_get_ComponentName_m0D3E072EC7EB095060783931F5927AC34D966E2B_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method)
 {
 	{
 		// public string ComponentName => componentName;
@@ -3663,7 +3663,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR String_t* MixedRealitySpatialObse
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialObserverConfiguration_get_Priority_mE6CD70133D833F6F15B948B4AB052E80D91663F2_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialObserverConfiguration_get_Priority_mEF37BFED75E1BDD7EEF825928B89B348FCA4E71E_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method)
 {
 	{
 		// public uint Priority => priority;
@@ -3671,23 +3671,23 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR uint32_t MixedRealitySpatialObser
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * MixedRealitySpatialObserverConfiguration_get_ObserverProfile_m717A479AC69F9B3967DDF8A050EC3A6686C3AB93_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * MixedRealitySpatialObserverConfiguration_get_ObserverProfile_m213374EA6B5D3CC12E21DEF50BE1B23699AC189E_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method)
 {
 	{
 		// public BaseSpatialAwarenessObserverProfile ObserverProfile => observerProfile;
-		BaseSpatialAwarenessObserverProfile_t887B781DE0B39550CBA58D80633E3A008E1FFAFA * L_0 = __this->get_observerProfile_4();
+		BaseSpatialAwarenessObserverProfile_t2AE09CF50B2E5B418D6F3DB617082211460352D7 * L_0 = __this->get_observerProfile_4();
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * MixedRealitySpatialObserverConfiguration_get_ComponentType_m2438815B27F75D3BA0F9FE15EDEBDE97FD7120FA_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * MixedRealitySpatialObserverConfiguration_get_ComponentType_m213E775158CCD1BB9197C74BDBE5C24807B1B4EF_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method)
 {
 	{
 		// public SystemType ComponentType => componentType;
-		SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * L_0 = __this->get_componentType_0();
+		SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * L_0 = __this->get_componentType_0();
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Type_t * SystemType_get_Type_mAE85DF2D9352C7118FA807083D4BC00BC5218C9F_inline (SystemType_t5A8091D125CA72F271FAB6EE68A869F3628DBED5 * __this, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Type_t * SystemType_get_Type_m3E5045E45C073ABC506861B26B6033BC247B7FF3_inline (SystemType_t7EE0F3CDA237EC7DF0665DE379FE0978B4103267 * __this, const RuntimeMethod* method)
 {
 	{
 		// get => type;
@@ -3695,7 +3695,7 @@ IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR Type_t * SystemType_get_Type_mAE8
 		return L_0;
 	}
 }
-IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t MixedRealitySpatialObserverConfiguration_get_RuntimePlatform_mFC4FDB02B46EE3DD1216092EBC10ABC8B529E7A2_inline (MixedRealitySpatialObserverConfiguration_tE26C60755D8045F563A60EA66242F09285A7BB29 * __this, const RuntimeMethod* method)
+IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR int32_t MixedRealitySpatialObserverConfiguration_get_RuntimePlatform_m8ED6764ECC28D9FA29619DEB6BFFF558EF3B4128_inline (MixedRealitySpatialObserverConfiguration_tE95C350A399FDCA1E5266EAD03591149AE82BDEC * __this, const RuntimeMethod* method)
 {
 	{
 		// public SupportedPlatforms RuntimePlatform => runtimePlatform;

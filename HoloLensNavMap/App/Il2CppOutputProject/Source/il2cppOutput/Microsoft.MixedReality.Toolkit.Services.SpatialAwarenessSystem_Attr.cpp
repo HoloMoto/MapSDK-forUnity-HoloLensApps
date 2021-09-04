@@ -452,7 +452,7 @@ static void Microsoft_MixedReality_Toolkit_Services_SpatialAwarenessSystem_Custo
 {
 	{
 		AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F * tmp = (AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F *)cache->attributes[0];
-		AssemblyFileVersionAttribute__ctor_mF855AEBC51CB72F4FF913499256741AE57B0F13D(tmp, il2cpp_codegen_string_new_wrapper("\x32\x2E\x36\x2E\x31\x2E\x30"), NULL);
+		AssemblyFileVersionAttribute__ctor_mF855AEBC51CB72F4FF913499256741AE57B0F13D(tmp, il2cpp_codegen_string_new_wrapper("\x32\x2E\x37\x2E\x30\x2E\x30"), NULL);
 	}
 	{
 		DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B * tmp = (DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B *)cache->attributes[1];
@@ -476,35 +476,35 @@ static void Microsoft_MixedReality_Toolkit_Services_SpatialAwarenessSystem_Custo
 		CompilationRelaxationsAttribute__ctor_mAC3079EBC4EEAB474EED8208EF95DB39C922333B(tmp, 8LL, NULL);
 	}
 }
-static void MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	{
 		HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023 * tmp = (HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023 *)cache->attributes[0];
 		HelpURLAttribute__ctor_mCC837CE7900738F3152D585D454A34A15793C215(tmp, il2cpp_codegen_string_new_wrapper("\x68\x74\x74\x70\x73\x3A\x2F\x2F\x64\x6F\x63\x73\x2E\x6D\x69\x63\x72\x6F\x73\x6F\x66\x74\x2E\x63\x6F\x6D\x2F\x77\x69\x6E\x64\x6F\x77\x73\x2F\x6D\x69\x78\x65\x64\x2D\x72\x65\x61\x6C\x69\x74\x79\x2F\x6D\x72\x74\x6B\x2D\x75\x6E\x69\x74\x79\x2F\x66\x65\x61\x74\x75\x72\x65\x73\x2F\x73\x70\x61\x74\x69\x61\x6C\x2D\x61\x77\x61\x72\x65\x6E\x65\x73\x73\x2F\x73\x70\x61\x74\x69\x61\x6C\x2D\x61\x77\x61\x72\x65\x6E\x65\x73\x73\x2D\x67\x65\x74\x74\x69\x6E\x67\x2D\x73\x74\x61\x72\x74\x65\x64"), NULL);
 	}
 }
-static void MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_U3CNameU3Ek__BackingField(CustomAttributesCache* cache)
+static void MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_U3CNameU3Ek__BackingField(CustomAttributesCache* cache)
 {
 	{
 		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
 		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
 	}
 }
-static void MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem__ctor_m76873D9CE7A68EE31DD60E155C8E96260A8982DC(CustomAttributesCache* cache)
+static void MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem__ctor_mB46B76329AE1E0B83D3FC1B7ECC7BE2AD3A17FB3(CustomAttributesCache* cache)
 {
 	{
 		ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 * tmp = (ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 *)cache->attributes[0];
 		ObsoleteAttribute__ctor_mAC32A5CCD287DA84CDA9F08282C1C8B0DB7B9868(tmp, il2cpp_codegen_string_new_wrapper("\x54\x68\x69\x73\x20\x63\x6F\x6E\x73\x74\x72\x75\x63\x74\x6F\x72\x20\x69\x73\x20\x6F\x62\x73\x6F\x6C\x65\x74\x65\x20\x28\x72\x65\x67\x69\x73\x74\x72\x61\x72\x20\x70\x61\x72\x61\x6D\x65\x74\x65\x72\x20\x69\x73\x20\x6E\x6F\x20\x6C\x6F\x6E\x67\x65\x72\x20\x72\x65\x71\x75\x69\x72\x65\x64\x29\x20\x61\x6E\x64\x20\x77\x69\x6C\x6C\x20\x62\x65\x20\x72\x65\x6D\x6F\x76\x65\x64\x20\x69\x6E\x20\x61\x20\x66\x75\x74\x75\x72\x65\x20\x76\x65\x72\x73\x69\x6F\x6E\x20\x6F\x66\x20\x74\x68\x65\x20\x4D\x69\x63\x72\x6F\x73\x6F\x66\x74\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x54\x6F\x6F\x6C\x6B\x69\x74\x2E"), NULL);
 	}
 }
-static void MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_get_Name_m2E1BB14B47EF7E3A4C0776BCDFC1CFB7AEEBBC7A(CustomAttributesCache* cache)
+static void MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_get_Name_m4545A88880D067481270F76515BB965674C77F17(CustomAttributesCache* cache)
 {
 	{
 		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
 		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
 	}
 }
-static void MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_set_Name_m07F57A987E371372A5447BDE83F5C697EFCC1403(CustomAttributesCache* cache)
+static void MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_set_Name_mCD6D7C099E577906E8EE4EB4A742E5419C2860A1(CustomAttributesCache* cache)
 {
 	{
 		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
@@ -514,11 +514,11 @@ static void MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E
 IL2CPP_EXTERN_C const CustomAttributesCacheGenerator g_Microsoft_MixedReality_Toolkit_Services_SpatialAwarenessSystem_AttributeGenerators[];
 const CustomAttributesCacheGenerator g_Microsoft_MixedReality_Toolkit_Services_SpatialAwarenessSystem_AttributeGenerators[6] = 
 {
-	MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator,
-	MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_U3CNameU3Ek__BackingField,
-	MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem__ctor_m76873D9CE7A68EE31DD60E155C8E96260A8982DC,
-	MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_get_Name_m2E1BB14B47EF7E3A4C0776BCDFC1CFB7AEEBBC7A,
-	MixedRealitySpatialAwarenessSystem_tBDD07B607D34044B71DCA5292102457E2B8100D9_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_set_Name_m07F57A987E371372A5447BDE83F5C697EFCC1403,
+	MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator,
+	MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_U3CNameU3Ek__BackingField,
+	MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem__ctor_mB46B76329AE1E0B83D3FC1B7ECC7BE2AD3A17FB3,
+	MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_get_Name_m4545A88880D067481270F76515BB965674C77F17,
+	MixedRealitySpatialAwarenessSystem_tCA23F925584AB58B271A79989C6A69A7069C781C_CustomAttributesCacheGenerator_MixedRealitySpatialAwarenessSystem_set_Name_mCD6D7C099E577906E8EE4EB4A742E5419C2860A1,
 	Microsoft_MixedReality_Toolkit_Services_SpatialAwarenessSystem_CustomAttributesCacheGenerator,
 };
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void RuntimeCompatibilityAttribute_set_WrapNonExceptionThrows_m8562196F90F3EBCEC23B5708EE0332842883C490_inline (RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 * __this, bool ___value0, const RuntimeMethod* method)

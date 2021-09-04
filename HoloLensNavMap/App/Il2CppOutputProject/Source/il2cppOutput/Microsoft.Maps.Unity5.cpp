@@ -47360,7 +47360,7 @@ IL_0013:
 			MemoryStream_t0B450399DD6D0175074FED99DD321D65771C9E1C * L_6 = V_1;
 			NullCheck(L_6);
 			ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* L_7;
-			L_7 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(35 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_6);
+			L_7 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(36 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_6);
 			p0 = L_7;
 			IL2CPP_LEAVE(0x38, FINALLY_0024);
 		}// end try (depth: 2)

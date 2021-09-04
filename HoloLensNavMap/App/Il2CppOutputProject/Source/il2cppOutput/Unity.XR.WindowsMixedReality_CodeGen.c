@@ -423,115 +423,291 @@ extern void NativeApi_GetCountOfSourceStates_m90A532EFC11524CF3C52F15489944BE5A6
 extern void NativeApi_GetAllSourceStates_mDB6021165C7146885EFB3B13CE0306ABED0B936E (void);
 // 0x000000CE System.Void UnityEngine.XR.WindowsMR.WindowsMRInput/NativeApi::ReleaseAllSourceStates(System.IntPtr[],System.Int32)
 extern void NativeApi_ReleaseAllSourceStates_mDF2407698A295271486AD53BD7FD993EE13674CD (void);
-// 0x000000CF UnityEngine.XR.XRDisplaySubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_displaySubsystem()
+// 0x000000CF System.Void UnityEngine.XR.WindowsMR.InputLayoutLoader::.cctor()
+extern void InputLayoutLoader__cctor_m906B67EE51713B78E726E3FC02002B56F8D096EC (void);
+// 0x000000D0 System.Void UnityEngine.XR.WindowsMR.InputLayoutLoader::RegisterInputLayouts()
+extern void InputLayoutLoader_RegisterInputLayouts_m03BC56A596EA42EEB90B983F7F9441053032B388 (void);
+// 0x000000D1 UnityEngine.XR.XRDisplaySubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_displaySubsystem()
 extern void WindowsMRLoader_get_displaySubsystem_m264D64D4AB82F98AB4D9CB37A087D8282948D121 (void);
-// 0x000000D0 UnityEngine.XR.XRInputSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_inputSubsystem()
+// 0x000000D2 UnityEngine.XR.XRInputSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_inputSubsystem()
 extern void WindowsMRLoader_get_inputSubsystem_m070D59F5B573E2268B073B1ADF48E7802F7B29F1 (void);
-// 0x000000D1 UnityEngine.XR.ARSubsystems.XRSessionSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_sessionSubsystem()
+// 0x000000D3 UnityEngine.XR.ARSubsystems.XRSessionSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_sessionSubsystem()
 extern void WindowsMRLoader_get_sessionSubsystem_mF2EC0358AEDAC682F98FB319AE9D03FA85F17C9C (void);
-// 0x000000D2 UnityEngine.XR.ARSubsystems.XRAnchorSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_anchorSubsystem()
+// 0x000000D4 UnityEngine.XR.ARSubsystems.XRAnchorSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_anchorSubsystem()
 extern void WindowsMRLoader_get_anchorSubsystem_m341865929609E7026DCF56956EBD68EBB57C6925 (void);
-// 0x000000D3 UnityEngine.XR.XRMeshSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_meshSubsystemDescriptor()
+// 0x000000D5 UnityEngine.XR.XRMeshSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_meshSubsystemDescriptor()
 extern void WindowsMRLoader_get_meshSubsystemDescriptor_mBCF96EEE6961BB7CE25AD9CF243500468E25AFC3 (void);
-// 0x000000D4 UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_gestureSubsystem()
+// 0x000000D6 UnityEngine.XR.InteractionSubsystems.XRGestureSubsystem UnityEngine.XR.WindowsMR.WindowsMRLoader::get_gestureSubsystem()
 extern void WindowsMRLoader_get_gestureSubsystem_m7FE49F52B33B2F8645BD81692BE0A79A25A99A43 (void);
-// 0x000000D5 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Initialize()
+// 0x000000D7 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Initialize()
 extern void WindowsMRLoader_Initialize_m46C4BB1C4D9D98CF4368A84D6343605821CA2A6B (void);
-// 0x000000D6 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Start()
+// 0x000000D8 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Start()
 extern void WindowsMRLoader_Start_m0CCDF8C78B7CE47F08900ED70AB16FEC1D2BEAC5 (void);
-// 0x000000D7 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Stop()
+// 0x000000D9 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Stop()
 extern void WindowsMRLoader_Stop_m88FD732CEE9ADDD8B501A1749E8BC834279B854A (void);
-// 0x000000D8 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Deinitialize()
+// 0x000000DA System.Boolean UnityEngine.XR.WindowsMR.WindowsMRLoader::Deinitialize()
 extern void WindowsMRLoader_Deinitialize_mDC11FF207AFA2B27947D2D2213FE61E9EBF5623B (void);
-// 0x000000D9 System.Void UnityEngine.XR.WindowsMR.WindowsMRLoader::SetUserDefinedSettings(UnityEngine.XR.WindowsMR.WindowsMRLoader/UserDefinedSettings)
+// 0x000000DB System.Void UnityEngine.XR.WindowsMR.WindowsMRLoader::SetUserDefinedSettings(UnityEngine.XR.WindowsMR.WindowsMRLoader/UserDefinedSettings)
 extern void WindowsMRLoader_SetUserDefinedSettings_m07CF535C44F1B91F8CE7E72F115DAE64FAC727FA (void);
-// 0x000000DA UnityEngine.XR.WindowsMR.WindowsMRSettings UnityEngine.XR.WindowsMR.WindowsMRLoader::GetSettings()
+// 0x000000DC UnityEngine.XR.WindowsMR.WindowsMRSettings UnityEngine.XR.WindowsMR.WindowsMRLoader::GetSettings()
 extern void WindowsMRLoader_GetSettings_m462C250C80B2FE8DBCC3CFA77C65BB260AD7368F (void);
-// 0x000000DB System.Void UnityEngine.XR.WindowsMR.WindowsMRLoader::.ctor()
+// 0x000000DD System.Void UnityEngine.XR.WindowsMR.WindowsMRLoader::.ctor()
 extern void WindowsMRLoader__ctor_m96432E6D1500543698971CCBB2F8B24B9272190D (void);
-// 0x000000DC System.Void UnityEngine.XR.WindowsMR.WindowsMRLoader::.cctor()
+// 0x000000DE System.Void UnityEngine.XR.WindowsMR.WindowsMRLoader::.cctor()
 extern void WindowsMRLoader__cctor_m429FC32C85D52777817B23B5EE0C61855017A189 (void);
-// 0x000000DD System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::SetBoundingVolumeFrustum(UnityEngine.XR.XRMeshSubsystem,UnityEngine.Plane[])
+// 0x000000DF System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::SetBoundingVolumeFrustum(UnityEngine.XR.XRMeshSubsystem,UnityEngine.Plane[])
 extern void WindowsMRExtensions_SetBoundingVolumeFrustum_m99D72C53F30DC049952988F5EC1F703E037EB4D4 (void);
-// 0x000000DE System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::SetBoundingVolumeOrientedBox(UnityEngine.XR.XRMeshSubsystem,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Quaternion)
+// 0x000000E0 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::SetBoundingVolumeOrientedBox(UnityEngine.XR.XRMeshSubsystem,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.Quaternion)
 extern void WindowsMRExtensions_SetBoundingVolumeOrientedBox_mD1E8C44B923142D5123D13041D50504647963C02 (void);
-// 0x000000DF System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::SetBoundingVolumeSphere(UnityEngine.XR.XRMeshSubsystem,UnityEngine.Vector3,System.Single)
+// 0x000000E1 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::SetBoundingVolumeSphere(UnityEngine.XR.XRMeshSubsystem,UnityEngine.Vector3,System.Single)
 extern void WindowsMRExtensions_SetBoundingVolumeSphere_mBAE41AC8530E7A8C68311A65BD7FAA1E5EDAD96D (void);
-// 0x000000E0 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::GetMeshingDataForMesh(UnityEngine.XR.XRMeshSubsystem,UnityEngine.XR.MeshId,UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
+// 0x000000E2 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::GetMeshingDataForMesh(UnityEngine.XR.XRMeshSubsystem,UnityEngine.XR.MeshId,UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
 extern void WindowsMRExtensions_GetMeshingDataForMesh_mD68E7F736773EB4A48C3352DB1CE96D5B235BA81 (void);
-// 0x000000E1 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::ReleaseMeshingData(UnityEngine.XR.XRMeshSubsystem,UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
+// 0x000000E3 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::ReleaseMeshingData(UnityEngine.XR.XRMeshSubsystem,UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
 extern void WindowsMRExtensions_ReleaseMeshingData_m0E72FD98665F272B82F2985788A5B5D164ABE601 (void);
-// 0x000000E2 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::.cctor()
+// 0x000000E4 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions::.cctor()
 extern void WindowsMRExtensions__cctor_m3C1EA92ED95503D4E6273D0A429F5F842BA7B74A (void);
-// 0x000000E3 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::GetMeshingDataForMesh(UnityEngine.XR.MeshId,UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
+// 0x000000E5 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::GetMeshingDataForMesh(UnityEngine.XR.MeshId,UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
 extern void NativeApi_GetMeshingDataForMesh_mB1B20AFEF7372FA581D9B4DEFBB998A982530175 (void);
-// 0x000000E4 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::ReleaseMeshingData(UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
+// 0x000000E6 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::ReleaseMeshingData(UnityEngine.XR.WindowsMR.WindowsMRExtensions/MeshingData&)
 extern void NativeApi_ReleaseMeshingData_m35442B05F28ECAD8142E1F3110941E6DCB1CDE0D (void);
-// 0x000000E5 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::SetBoundingVolumeFrustum(UnityEngine.XR.WindowsMR.WindowsMRExtensions/WMRPlane[],System.Int32)
+// 0x000000E7 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::SetBoundingVolumeFrustum(UnityEngine.XR.WindowsMR.WindowsMRExtensions/WMRPlane[],System.Int32)
 extern void NativeApi_SetBoundingVolumeFrustum_m7FD0DF39C6367CAAB7268482610C083E386EED66 (void);
-// 0x000000E6 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::SetBoundingVolumeOrientedBox(UnityEngine.XR.WindowsMR.WindowsMRExtensions/WMROrientedBox)
+// 0x000000E8 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::SetBoundingVolumeOrientedBox(UnityEngine.XR.WindowsMR.WindowsMRExtensions/WMROrientedBox)
 extern void NativeApi_SetBoundingVolumeOrientedBox_mAB3006409DF0359C342B295CF2F2F6EF88F51315 (void);
-// 0x000000E7 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::SetBoundingVolumeSphere(UnityEngine.XR.WindowsMR.WindowsMRExtensions/WMRSphere)
+// 0x000000E9 System.Void UnityEngine.XR.WindowsMR.WindowsMRExtensions/NativeApi::SetBoundingVolumeSphere(UnityEngine.XR.WindowsMR.WindowsMRExtensions/WMRSphere)
 extern void NativeApi_SetBoundingVolumeSphere_m0413E84F7FD625C7E737F2FCEDE7D5A426A7F628 (void);
-// 0x000000E8 UnityEngine.XR.WindowsMR.Native/UnitySubsystemErrorCode UnityEngine.XR.WindowsMR.Native::CreateHolographicSession()
+// 0x000000EA UnityEngine.XR.WindowsMR.Native/UnitySubsystemErrorCode UnityEngine.XR.WindowsMR.Native::CreateHolographicSession()
 extern void Native_CreateHolographicSession_m6DA9916FFCBD8DE5C0431D56493F5698CF16C784 (void);
-// 0x000000E9 UnityEngine.XR.WindowsMR.Native/UnitySubsystemErrorCode UnityEngine.XR.WindowsMR.Native::StartHolographicSession()
+// 0x000000EB UnityEngine.XR.WindowsMR.Native/UnitySubsystemErrorCode UnityEngine.XR.WindowsMR.Native::StartHolographicSession()
 extern void Native_StartHolographicSession_mE831643001B5B793984110AFD767283F4886AF63 (void);
-// 0x000000EA System.Void UnityEngine.XR.WindowsMR.Native::StopHolographicSession()
+// 0x000000EC System.Void UnityEngine.XR.WindowsMR.Native::StopHolographicSession()
 extern void Native_StopHolographicSession_m706E96D45D1304B5C7AD510E701C6DAFB88BB263 (void);
-// 0x000000EB System.Void UnityEngine.XR.WindowsMR.Native::DestroyHolographicSession()
+// 0x000000ED System.Void UnityEngine.XR.WindowsMR.Native::DestroyHolographicSession()
 extern void Native_DestroyHolographicSession_mD9CC91896935E3CAB915CCBABAE45A1F158B6D15 (void);
-// 0x000000EC System.Void UnityEngine.XR.WindowsMR.Native::SetUserDefinedSettings(UnityEngine.XR.WindowsMR.Native/UserDefinedSettings)
+// 0x000000EE System.Void UnityEngine.XR.WindowsMR.Native::SetUserDefinedSettings(UnityEngine.XR.WindowsMR.Native/UserDefinedSettings)
 extern void Native_SetUserDefinedSettings_m4D4973EA91C13E7D66FCDA1A94A68ADC0CC611F0 (void);
-// 0x000000ED UnityEngine.XR.WindowsMR.NativeTypes/SpatialLocatability UnityEngine.XR.WindowsMR.Native::GetSpatialLocatability()
+// 0x000000EF UnityEngine.XR.WindowsMR.NativeTypes/SpatialLocatability UnityEngine.XR.WindowsMR.Native::GetSpatialLocatability()
 extern void Native_GetSpatialLocatability_mDA4F00C4E74DFE304608523729D8E8E5578567B8 (void);
-// 0x000000EE System.IntPtr UnityEngine.XR.WindowsMR.Native::GetHolographicSpace()
+// 0x000000F0 System.IntPtr UnityEngine.XR.WindowsMR.Native::GetHolographicSpace()
 extern void Native_GetHolographicSpace_m03103540847F222BE8E513BC0A720CF28AA2F72D (void);
-// 0x000000EF System.IntPtr UnityEngine.XR.WindowsMR.Native::GetOriginSpatialCoordinateSystem()
+// 0x000000F1 System.IntPtr UnityEngine.XR.WindowsMR.Native::GetOriginSpatialCoordinateSystem()
 extern void Native_GetOriginSpatialCoordinateSystem_m1400DF2AAD12B9B75674A76AA60FFA82CDC27AF6 (void);
-// 0x000000F0 System.IntPtr UnityEngine.XR.WindowsMR.Native::GetCurrentHolographicRenderFrame()
+// 0x000000F2 System.IntPtr UnityEngine.XR.WindowsMR.Native::GetCurrentHolographicRenderFrame()
 extern void Native_GetCurrentHolographicRenderFrame_m0E6DE189ECA50AF884CFF40CF8FA181EADB781B7 (void);
-// 0x000000F1 System.IntPtr UnityEngine.XR.WindowsMR.Native::GetCurrentHolographicSimulationFrame()
+// 0x000000F3 System.IntPtr UnityEngine.XR.WindowsMR.Native::GetCurrentHolographicSimulationFrame()
 extern void Native_GetCurrentHolographicSimulationFrame_mDEEDB499DF8C52A7A8A78C7E622684AA2DE0EB74 (void);
-// 0x000000F2 System.Collections.IEnumerator UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::StartRemotingSession()
+// 0x000000F4 System.Collections.IEnumerator UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::StartRemotingSession()
 extern void WindowsMRRemotingConnector_StartRemotingSession_m578B0F04CFFA66D6E7F02798FE4E348B6A091BC1 (void);
-// 0x000000F3 System.Collections.IEnumerator UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::TryConnect()
+// 0x000000F5 System.Collections.IEnumerator UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::TryConnect()
 extern void WindowsMRRemotingConnector_TryConnect_m1E3F0ECA1164637719ACB0173F7C0A0E0C07CD16 (void);
-// 0x000000F4 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::StartRemotingConnection(System.String,System.Boolean,System.Boolean,System.Int32)
+// 0x000000F6 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::StartRemotingConnection(System.String,System.Boolean,System.Boolean,System.Int32)
 extern void WindowsMRRemotingConnector_StartRemotingConnection_m4E2890E6FDBC10C5836AE6B649C153EE232C7295 (void);
-// 0x000000F5 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::StopRemotingConnection()
+// 0x000000F7 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::StopRemotingConnection()
 extern void WindowsMRRemotingConnector_StopRemotingConnection_m9B9A7649930F4F6FA51398EE8E47177BCEEFDB37 (void);
-// 0x000000F6 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::.ctor()
+// 0x000000F8 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector::.ctor()
 extern void WindowsMRRemotingConnector__ctor_mC6D6BD97B2C4DB9134AD0D2C4DFBD9E46F211598 (void);
-// 0x000000F7 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::.ctor(System.Int32)
+// 0x000000F9 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::.ctor(System.Int32)
 extern void U3CStartRemotingSessionU3Ed__4__ctor_mB9D4719605C8741DFA9EF4B4B97C7A9863611F36 (void);
-// 0x000000F8 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.IDisposable.Dispose()
+// 0x000000FA System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.IDisposable.Dispose()
 extern void U3CStartRemotingSessionU3Ed__4_System_IDisposable_Dispose_m3521C2CDDD8E6360A1A4ED2E0EB38E014B6EC636 (void);
-// 0x000000F9 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::MoveNext()
+// 0x000000FB System.Boolean UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::MoveNext()
 extern void U3CStartRemotingSessionU3Ed__4_MoveNext_m64F9CEE616F81D4FB0080BFAE62CF65260D71649 (void);
-// 0x000000FA System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x000000FC System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CStartRemotingSessionU3Ed__4_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m61FC568435727ACB408049C6B1DB07083CCA9EDA (void);
-// 0x000000FB System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.Collections.IEnumerator.Reset()
+// 0x000000FD System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.Collections.IEnumerator.Reset()
 extern void U3CStartRemotingSessionU3Ed__4_System_Collections_IEnumerator_Reset_m1D097297A7664BC3CC601456BA6306BBC4F57CC8 (void);
-// 0x000000FC System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.Collections.IEnumerator.get_Current()
+// 0x000000FE System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<StartRemotingSession>d__4::System.Collections.IEnumerator.get_Current()
 extern void U3CStartRemotingSessionU3Ed__4_System_Collections_IEnumerator_get_Current_mFFE6183FC139B448A4A351569A3252D2CCD237C2 (void);
-// 0x000000FD System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::.ctor(System.Int32)
+// 0x000000FF System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::.ctor(System.Int32)
 extern void U3CTryConnectU3Ed__5__ctor_m90AB8319407B2E5ACC816C718FA6FD1A51FC80FB (void);
-// 0x000000FE System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.IDisposable.Dispose()
+// 0x00000100 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.IDisposable.Dispose()
 extern void U3CTryConnectU3Ed__5_System_IDisposable_Dispose_mB0D3C94FC16C0AB84DCC9EE95F93655FA504513F (void);
-// 0x000000FF System.Boolean UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::MoveNext()
+// 0x00000101 System.Boolean UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::MoveNext()
 extern void U3CTryConnectU3Ed__5_MoveNext_m04A8FD0C1745530634402D5C1F364FFCAEE62A4C (void);
-// 0x00000100 System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
+// 0x00000102 System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.Collections.Generic.IEnumerator<System.Object>.get_Current()
 extern void U3CTryConnectU3Ed__5_System_Collections_Generic_IEnumeratorU3CSystem_ObjectU3E_get_Current_m4B94CAE3073B85DD829B0BFD68209625028F5C4C (void);
-// 0x00000101 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.Collections.IEnumerator.Reset()
+// 0x00000103 System.Void UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.Collections.IEnumerator.Reset()
 extern void U3CTryConnectU3Ed__5_System_Collections_IEnumerator_Reset_m6EDF9ADD910DB5FB61496FF67A30721FE62ED7D5 (void);
-// 0x00000102 System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.Collections.IEnumerator.get_Current()
+// 0x00000104 System.Object UnityEngine.XR.WindowsMR.WindowsMRRemotingConnector/<TryConnect>d__5::System.Collections.IEnumerator.get_Current()
 extern void U3CTryConnectU3Ed__5_System_Collections_IEnumerator_get_Current_mC74FFD9C17EFF54552072AB28E63A83E85EDAC21 (void);
-// 0x00000103 System.Void UnityEngine.XR.WindowsMR.WindowsMRSettings::Awake()
+// 0x00000105 System.Void UnityEngine.XR.WindowsMR.WindowsMRSettings::Awake()
 extern void WindowsMRSettings_Awake_mA554664922AA07AD9AAB8CFC10A7073ABC90F350 (void);
-// 0x00000104 System.Void UnityEngine.XR.WindowsMR.WindowsMRSettings::.ctor()
+// 0x00000106 System.Void UnityEngine.XR.WindowsMR.WindowsMRSettings::.ctor()
 extern void WindowsMRSettings__ctor_m33A56D449D4758608924A88632EC30EAAFDFEEA8 (void);
-static Il2CppMethodPointer s_methodPointers[260] = 
+// 0x00000107 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRHMD::get_userPresence()
+extern void WMRHMD_get_userPresence_mE250009C6A5996E0F9225C26CAE0A7499B5073EC (void);
+// 0x00000108 System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_userPresence(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRHMD_set_userPresence_m97E7E5957B457D492C1C884822A95CAD9A71717D (void);
+// 0x00000109 UnityEngine.InputSystem.Controls.IntegerControl UnityEngine.XR.WindowsMR.Input.WMRHMD::get_trackingState()
+extern void WMRHMD_get_trackingState_mDDED981606A0277F2F5ACDC5F4DD56BF916C0BA4 (void);
+// 0x0000010A System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
+extern void WMRHMD_set_trackingState_m3A4A22848DC24EA9A144AB0A9DC4B8CB5A45A4DE (void);
+// 0x0000010B UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRHMD::get_isTracked()
+extern void WMRHMD_get_isTracked_m13F9D8053C4B4B4EE8B5D9C6C71848E5D24777D6 (void);
+// 0x0000010C System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRHMD_set_isTracked_m33E07F738A9DE0DE4F8BFE217D656B79A346CBC8 (void);
+// 0x0000010D UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRHMD::get_devicePosition()
+extern void WMRHMD_get_devicePosition_mD38E71699EFD74E83AD6ADCBCF8BF875727832C4 (void);
+// 0x0000010E System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRHMD_set_devicePosition_mDEF13BDACC8B05A4BBD7A6EC74948A941B4573EB (void);
+// 0x0000010F UnityEngine.InputSystem.Controls.QuaternionControl UnityEngine.XR.WindowsMR.Input.WMRHMD::get_deviceRotation()
+extern void WMRHMD_get_deviceRotation_m916CE81BE0DD817CC2BC7D254270AA00383F2284 (void);
+// 0x00000110 System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+extern void WMRHMD_set_deviceRotation_mD192F52E7CB6DBE3D2DF97254C51A8C5638E62C6 (void);
+// 0x00000111 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRHMD::get_leftEyePosition()
+extern void WMRHMD_get_leftEyePosition_m7FF47BFD967D7D96B1269D0336801F23C47B2CCA (void);
+// 0x00000112 System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_leftEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRHMD_set_leftEyePosition_m37D98146C9199AE945BD2872D6F143BB1A54C8D0 (void);
+// 0x00000113 UnityEngine.InputSystem.Controls.QuaternionControl UnityEngine.XR.WindowsMR.Input.WMRHMD::get_leftEyeRotation()
+extern void WMRHMD_get_leftEyeRotation_mE51CDFAF945796CB5A89367CA0768C20C4189794 (void);
+// 0x00000114 System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_leftEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+extern void WMRHMD_set_leftEyeRotation_m41C47B25D4F053AC46DE0AFDA6BD5755F412EA76 (void);
+// 0x00000115 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRHMD::get_rightEyePosition()
+extern void WMRHMD_get_rightEyePosition_m9B9D00605940BB3C02770B558E6485B23AE366C1 (void);
+// 0x00000116 System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_rightEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRHMD_set_rightEyePosition_mAE74B014C60A8176BFA8EE29B99F9FFEEA597F0D (void);
+// 0x00000117 UnityEngine.InputSystem.Controls.QuaternionControl UnityEngine.XR.WindowsMR.Input.WMRHMD::get_rightEyeRotation()
+extern void WMRHMD_get_rightEyeRotation_mC750974C92EFD95E2AA826C13ECB603E705685DF (void);
+// 0x00000118 System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_rightEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+extern void WMRHMD_set_rightEyeRotation_m4819571D884C6E2E18C351A8FD2B4FA9581F4A5D (void);
+// 0x00000119 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRHMD::get_centerEyePosition()
+extern void WMRHMD_get_centerEyePosition_m6E29DE62172A14D5C15F5CF6ED852E7F9F4D4D44 (void);
+// 0x0000011A System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_centerEyePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRHMD_set_centerEyePosition_m8D08BEACA0B9D8598D3DA8B7CA4B053508DE9BA0 (void);
+// 0x0000011B UnityEngine.InputSystem.Controls.QuaternionControl UnityEngine.XR.WindowsMR.Input.WMRHMD::get_centerEyeRotation()
+extern void WMRHMD_get_centerEyeRotation_m99421D102985927CA47C74923A98F65AF4FDA8F0 (void);
+// 0x0000011C System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::set_centerEyeRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+extern void WMRHMD_set_centerEyeRotation_mF95966E6DE98A7B8F0765E8807DC1A184D447ED1 (void);
+// 0x0000011D System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::FinishSetup()
+extern void WMRHMD_FinishSetup_m17F7620B18EA41DA7F8529D66C7B3879968A0A1C (void);
+// 0x0000011E System.Void UnityEngine.XR.WindowsMR.Input.WMRHMD::.ctor()
+extern void WMRHMD__ctor_m80AF3356D8275092C4F5651A0274AEE55DD75570 (void);
+// 0x0000011F UnityEngine.InputSystem.Controls.IntegerControl UnityEngine.XR.WindowsMR.Input.HololensHand::get_trackingState()
+extern void HololensHand_get_trackingState_m6F26DC1E40F483A4DED2DFA116987F5EF0DB3E20 (void);
+// 0x00000120 System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
+extern void HololensHand_set_trackingState_m5E068F6BBF94766F51FD007F4B1CEF56079AA5DD (void);
+// 0x00000121 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.HololensHand::get_isTracked()
+extern void HololensHand_get_isTracked_mB13AE7436293F2D7482C4C9512882005A3AFE4CA (void);
+// 0x00000122 System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void HololensHand_set_isTracked_m94D8839BC5AC3F5A6E5B197817E2D66E3517CCB5 (void);
+// 0x00000123 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.HololensHand::get_devicePosition()
+extern void HololensHand_get_devicePosition_m3131DDD1303040415B41E13FC6A8C4CEC01FB13A (void);
+// 0x00000124 System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void HololensHand_set_devicePosition_mE06EC0F1AB5117F5AB9688E53CAB81812F2D0506 (void);
+// 0x00000125 UnityEngine.InputSystem.Controls.QuaternionControl UnityEngine.XR.WindowsMR.Input.HololensHand::get_deviceRotation()
+extern void HololensHand_get_deviceRotation_m06E2FFB6F08290C64F90CD94E7C9288A29337F84 (void);
+// 0x00000126 System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+extern void HololensHand_set_deviceRotation_m46D92571A73B3874ECA19E37F0C003CC87F5AF26 (void);
+// 0x00000127 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.HololensHand::get_deviceVelocity()
+extern void HololensHand_get_deviceVelocity_m3E9B0341DBA04DB239FAB929E675A640C72B1AF0 (void);
+// 0x00000128 System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_deviceVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void HololensHand_set_deviceVelocity_m75BD4887DC1FC24A1AF7F71177513573793BD417 (void);
+// 0x00000129 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.HololensHand::get_airTap()
+extern void HololensHand_get_airTap_m43C630B775CA6AA239CD2D7D8E6555CC780860B3 (void);
+// 0x0000012A System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_airTap(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void HololensHand_set_airTap_mA6993834739A66FC5C3055A4EAD78E924989521B (void);
+// 0x0000012B UnityEngine.InputSystem.Controls.AxisControl UnityEngine.XR.WindowsMR.Input.HololensHand::get_sourceLossRisk()
+extern void HololensHand_get_sourceLossRisk_m40189FE55885D2E2C6568768BBC1D2832B988BAB (void);
+// 0x0000012C System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_sourceLossRisk(UnityEngine.InputSystem.Controls.AxisControl)
+extern void HololensHand_set_sourceLossRisk_m3ABD3539583331B3205DC11ED06D23307CAC69E8 (void);
+// 0x0000012D UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.HololensHand::get_sourceLossMitigationDirection()
+extern void HololensHand_get_sourceLossMitigationDirection_m2E51839B42B5792DB14478450169FA7C9DA82AC8 (void);
+// 0x0000012E System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::set_sourceLossMitigationDirection(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void HololensHand_set_sourceLossMitigationDirection_m4B39773038A6CC56EE1FDD59AA5669C38B74D5F1 (void);
+// 0x0000012F System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::FinishSetup()
+extern void HololensHand_FinishSetup_m8972EC9CBA3497720BC52314983E23B0D8AB69C7 (void);
+// 0x00000130 System.Void UnityEngine.XR.WindowsMR.Input.HololensHand::.ctor()
+extern void HololensHand__ctor_m34D09C7823D96317C371127A37E9F8944CD1C3A9 (void);
+// 0x00000131 UnityEngine.InputSystem.Controls.Vector2Control UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_joystick()
+extern void WMRSpatialController_get_joystick_m01FFA6978EB4A3DE439AF7305F3559CCA9390E03 (void);
+// 0x00000132 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_joystick(UnityEngine.InputSystem.Controls.Vector2Control)
+extern void WMRSpatialController_set_joystick_m180F2CA6E556F7F7453C70BBA718DDEB687C5DA5 (void);
+// 0x00000133 UnityEngine.InputSystem.Controls.Vector2Control UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_touchpad()
+extern void WMRSpatialController_get_touchpad_mA5EC0CCA14D691D04AC5805262DE404E294E4501 (void);
+// 0x00000134 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_touchpad(UnityEngine.InputSystem.Controls.Vector2Control)
+extern void WMRSpatialController_set_touchpad_mB7C2C9EE9686408850CA0A0BE6F137E933554266 (void);
+// 0x00000135 UnityEngine.InputSystem.Controls.AxisControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_grip()
+extern void WMRSpatialController_get_grip_m3E728CF2615A9C561114E56368E0C2146EFD434D (void);
+// 0x00000136 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_grip(UnityEngine.InputSystem.Controls.AxisControl)
+extern void WMRSpatialController_set_grip_mF2DFD491EB568530B5EB50A5037B2F9F0F1EA96B (void);
+// 0x00000137 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_gripPressed()
+extern void WMRSpatialController_get_gripPressed_m79E0D2F268F0FFFF9F07A84B1510A01459E1D38C (void);
+// 0x00000138 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_gripPressed(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRSpatialController_set_gripPressed_mF1F0F6B0C59A6C4EAFCE27383347BE0B27515033 (void);
+// 0x00000139 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_menu()
+extern void WMRSpatialController_get_menu_m51FAFF3A397061C92E6252A4B72D9175A28E444F (void);
+// 0x0000013A System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_menu(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRSpatialController_set_menu_mF15F24A814268CE2D58014FCA189D821027F6A84 (void);
+// 0x0000013B UnityEngine.InputSystem.Controls.AxisControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_trigger()
+extern void WMRSpatialController_get_trigger_mB94DD988F8A5B56AF86E1A63B23F999DA8168302 (void);
+// 0x0000013C System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_trigger(UnityEngine.InputSystem.Controls.AxisControl)
+extern void WMRSpatialController_set_trigger_m5641774570232B6014153DF52B9216BA62C34403 (void);
+// 0x0000013D UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_triggerPressed()
+extern void WMRSpatialController_get_triggerPressed_m925022C1AE8B824C4156711A69708C6A282747CD (void);
+// 0x0000013E System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_triggerPressed(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRSpatialController_set_triggerPressed_m6A1302BD9CB84BAF80F7C5528D58D43DF915A6D8 (void);
+// 0x0000013F UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_joystickClicked()
+extern void WMRSpatialController_get_joystickClicked_mD05C85E7AE3B3864313989A1782A2BFE2AA8825F (void);
+// 0x00000140 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_joystickClicked(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRSpatialController_set_joystickClicked_m5F79A8038280FEEC79B538D8631CE54E5D562BBD (void);
+// 0x00000141 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_touchpadClicked()
+extern void WMRSpatialController_get_touchpadClicked_m8CA409CDC823610C51C6C54099D71DA493FE8B75 (void);
+// 0x00000142 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_touchpadClicked(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRSpatialController_set_touchpadClicked_m109831C23706E7079C6CB0C2BFC9FE5994AFE3F1 (void);
+// 0x00000143 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_touchpadTouched()
+extern void WMRSpatialController_get_touchpadTouched_mD084752D326F3EB3B3C78D38C0DBBAD306CA15A7 (void);
+// 0x00000144 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_touchpadTouched(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRSpatialController_set_touchpadTouched_m5ED4A15FBD116FE2D20E27E57303F382E4351110 (void);
+// 0x00000145 UnityEngine.InputSystem.Controls.IntegerControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_trackingState()
+extern void WMRSpatialController_get_trackingState_m25DFE11A727D6E190BC7D7D8B62BA8BAD65F4524 (void);
+// 0x00000146 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_trackingState(UnityEngine.InputSystem.Controls.IntegerControl)
+extern void WMRSpatialController_set_trackingState_m4205E90313F3987960E26E94A78DF862282422CB (void);
+// 0x00000147 UnityEngine.InputSystem.Controls.ButtonControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_isTracked()
+extern void WMRSpatialController_get_isTracked_mDAC38BF7CB2CA3D234E460E43C2BC5805529B3E7 (void);
+// 0x00000148 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_isTracked(UnityEngine.InputSystem.Controls.ButtonControl)
+extern void WMRSpatialController_set_isTracked_m39E40EEED3294D2FE18B46A2B44B52AB58D4D15B (void);
+// 0x00000149 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_devicePosition()
+extern void WMRSpatialController_get_devicePosition_mE132BFBE314C56B64E3FC528C1F9D3EAE840FB72 (void);
+// 0x0000014A System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_devicePosition(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRSpatialController_set_devicePosition_m13B3E8D9ADE07B6E236442D2C054C1B746EDB5D3 (void);
+// 0x0000014B UnityEngine.InputSystem.Controls.QuaternionControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_deviceRotation()
+extern void WMRSpatialController_get_deviceRotation_m9714FC360D2A3851322301EF1AA9AFEF99CB50D8 (void);
+// 0x0000014C System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_deviceRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+extern void WMRSpatialController_set_deviceRotation_mC48929DC77737895EDC223644277496E3EDF3301 (void);
+// 0x0000014D UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_deviceVelocity()
+extern void WMRSpatialController_get_deviceVelocity_mCBC19404FD1DEE7793AD0D215C5D674703A3BA5A (void);
+// 0x0000014E System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_deviceVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRSpatialController_set_deviceVelocity_mDD090097ED56AAF555290370FF7C5BC48C6951C2 (void);
+// 0x0000014F UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_deviceAngularVelocity()
+extern void WMRSpatialController_get_deviceAngularVelocity_m61710D147BF8A1BCC392606D4152AD4DCC28539D (void);
+// 0x00000150 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_deviceAngularVelocity(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRSpatialController_set_deviceAngularVelocity_m1D594A16EC4E3834575BCA4E886DDDCC2A3E0F4D (void);
+// 0x00000151 UnityEngine.InputSystem.Controls.AxisControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_batteryLevel()
+extern void WMRSpatialController_get_batteryLevel_mFDD6EEEFB9C4E5B5F8C407B1186C3A97850DBDAF (void);
+// 0x00000152 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_batteryLevel(UnityEngine.InputSystem.Controls.AxisControl)
+extern void WMRSpatialController_set_batteryLevel_mDD5A2A6448ECA0DBB4EA4C494A63FC315CE668A7 (void);
+// 0x00000153 UnityEngine.InputSystem.Controls.AxisControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_sourceLossRisk()
+extern void WMRSpatialController_get_sourceLossRisk_mFE8050D76A7AE85AE6D0BAF3DCD1E490A5714038 (void);
+// 0x00000154 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_sourceLossRisk(UnityEngine.InputSystem.Controls.AxisControl)
+extern void WMRSpatialController_set_sourceLossRisk_mB7F13A3EB8C33F92BCFE8E16A6DA955864010FDC (void);
+// 0x00000155 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_sourceLossMitigationDirection()
+extern void WMRSpatialController_get_sourceLossMitigationDirection_mA6715F87EE6434B816162B1C863E6631117BB325 (void);
+// 0x00000156 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_sourceLossMitigationDirection(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRSpatialController_set_sourceLossMitigationDirection_mF3E6B3E687F733097E744F83244E5E12777993CC (void);
+// 0x00000157 UnityEngine.InputSystem.Controls.Vector3Control UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_pointerPosition()
+extern void WMRSpatialController_get_pointerPosition_m88355902601A836CEC1E491B9116C77AB87C7252 (void);
+// 0x00000158 System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_pointerPosition(UnityEngine.InputSystem.Controls.Vector3Control)
+extern void WMRSpatialController_set_pointerPosition_m170B8BC715547FB0BB891E1AD462C4638787985E (void);
+// 0x00000159 UnityEngine.InputSystem.Controls.QuaternionControl UnityEngine.XR.WindowsMR.Input.WMRSpatialController::get_pointerRotation()
+extern void WMRSpatialController_get_pointerRotation_m7EDE9C6FE0811A89323FF9BDEAA56A531ED9B5B3 (void);
+// 0x0000015A System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::set_pointerRotation(UnityEngine.InputSystem.Controls.QuaternionControl)
+extern void WMRSpatialController_set_pointerRotation_mD5CB9074B77D800F12DD99BF8EB77BD4B8EFA22D (void);
+// 0x0000015B System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::FinishSetup()
+extern void WMRSpatialController_FinishSetup_mF521FA5201A0D54A0C5E5A4957B0C71AC4C38B78 (void);
+// 0x0000015C System.Void UnityEngine.XR.WindowsMR.Input.WMRSpatialController::.ctor()
+extern void WMRSpatialController__ctor_m44214281530DB29E911EE81B4EEAB775E9737AC7 (void);
+static Il2CppMethodPointer s_methodPointers[348] = 
 {
 	WindowsMRUsages__cctor_m3D3E8790574F113E6431A9CFA70AC8EBD49189E0,
 	WindowsMRInternal__cctor_mD5020D9B8904047143F4DD4D0FC3C138D3A6F278,
@@ -739,6 +915,8 @@ static Il2CppMethodPointer s_methodPointers[260] =
 	NativeApi_GetCountOfSourceStates_m90A532EFC11524CF3C52F15489944BE5A6414460,
 	NativeApi_GetAllSourceStates_mDB6021165C7146885EFB3B13CE0306ABED0B936E,
 	NativeApi_ReleaseAllSourceStates_mDF2407698A295271486AD53BD7FD993EE13674CD,
+	InputLayoutLoader__cctor_m906B67EE51713B78E726E3FC02002B56F8D096EC,
+	InputLayoutLoader_RegisterInputLayouts_m03BC56A596EA42EEB90B983F7F9441053032B388,
 	WindowsMRLoader_get_displaySubsystem_m264D64D4AB82F98AB4D9CB37A087D8282948D121,
 	WindowsMRLoader_get_inputSubsystem_m070D59F5B573E2268B073B1ADF48E7802F7B29F1,
 	WindowsMRLoader_get_sessionSubsystem_mF2EC0358AEDAC682F98FB319AE9D03FA85F17C9C,
@@ -793,6 +971,92 @@ static Il2CppMethodPointer s_methodPointers[260] =
 	U3CTryConnectU3Ed__5_System_Collections_IEnumerator_get_Current_mC74FFD9C17EFF54552072AB28E63A83E85EDAC21,
 	WindowsMRSettings_Awake_mA554664922AA07AD9AAB8CFC10A7073ABC90F350,
 	WindowsMRSettings__ctor_m33A56D449D4758608924A88632EC30EAAFDFEEA8,
+	WMRHMD_get_userPresence_mE250009C6A5996E0F9225C26CAE0A7499B5073EC,
+	WMRHMD_set_userPresence_m97E7E5957B457D492C1C884822A95CAD9A71717D,
+	WMRHMD_get_trackingState_mDDED981606A0277F2F5ACDC5F4DD56BF916C0BA4,
+	WMRHMD_set_trackingState_m3A4A22848DC24EA9A144AB0A9DC4B8CB5A45A4DE,
+	WMRHMD_get_isTracked_m13F9D8053C4B4B4EE8B5D9C6C71848E5D24777D6,
+	WMRHMD_set_isTracked_m33E07F738A9DE0DE4F8BFE217D656B79A346CBC8,
+	WMRHMD_get_devicePosition_mD38E71699EFD74E83AD6ADCBCF8BF875727832C4,
+	WMRHMD_set_devicePosition_mDEF13BDACC8B05A4BBD7A6EC74948A941B4573EB,
+	WMRHMD_get_deviceRotation_m916CE81BE0DD817CC2BC7D254270AA00383F2284,
+	WMRHMD_set_deviceRotation_mD192F52E7CB6DBE3D2DF97254C51A8C5638E62C6,
+	WMRHMD_get_leftEyePosition_m7FF47BFD967D7D96B1269D0336801F23C47B2CCA,
+	WMRHMD_set_leftEyePosition_m37D98146C9199AE945BD2872D6F143BB1A54C8D0,
+	WMRHMD_get_leftEyeRotation_mE51CDFAF945796CB5A89367CA0768C20C4189794,
+	WMRHMD_set_leftEyeRotation_m41C47B25D4F053AC46DE0AFDA6BD5755F412EA76,
+	WMRHMD_get_rightEyePosition_m9B9D00605940BB3C02770B558E6485B23AE366C1,
+	WMRHMD_set_rightEyePosition_mAE74B014C60A8176BFA8EE29B99F9FFEEA597F0D,
+	WMRHMD_get_rightEyeRotation_mC750974C92EFD95E2AA826C13ECB603E705685DF,
+	WMRHMD_set_rightEyeRotation_m4819571D884C6E2E18C351A8FD2B4FA9581F4A5D,
+	WMRHMD_get_centerEyePosition_m6E29DE62172A14D5C15F5CF6ED852E7F9F4D4D44,
+	WMRHMD_set_centerEyePosition_m8D08BEACA0B9D8598D3DA8B7CA4B053508DE9BA0,
+	WMRHMD_get_centerEyeRotation_m99421D102985927CA47C74923A98F65AF4FDA8F0,
+	WMRHMD_set_centerEyeRotation_mF95966E6DE98A7B8F0765E8807DC1A184D447ED1,
+	WMRHMD_FinishSetup_m17F7620B18EA41DA7F8529D66C7B3879968A0A1C,
+	WMRHMD__ctor_m80AF3356D8275092C4F5651A0274AEE55DD75570,
+	HololensHand_get_trackingState_m6F26DC1E40F483A4DED2DFA116987F5EF0DB3E20,
+	HololensHand_set_trackingState_m5E068F6BBF94766F51FD007F4B1CEF56079AA5DD,
+	HololensHand_get_isTracked_mB13AE7436293F2D7482C4C9512882005A3AFE4CA,
+	HololensHand_set_isTracked_m94D8839BC5AC3F5A6E5B197817E2D66E3517CCB5,
+	HololensHand_get_devicePosition_m3131DDD1303040415B41E13FC6A8C4CEC01FB13A,
+	HololensHand_set_devicePosition_mE06EC0F1AB5117F5AB9688E53CAB81812F2D0506,
+	HololensHand_get_deviceRotation_m06E2FFB6F08290C64F90CD94E7C9288A29337F84,
+	HololensHand_set_deviceRotation_m46D92571A73B3874ECA19E37F0C003CC87F5AF26,
+	HololensHand_get_deviceVelocity_m3E9B0341DBA04DB239FAB929E675A640C72B1AF0,
+	HololensHand_set_deviceVelocity_m75BD4887DC1FC24A1AF7F71177513573793BD417,
+	HololensHand_get_airTap_m43C630B775CA6AA239CD2D7D8E6555CC780860B3,
+	HololensHand_set_airTap_mA6993834739A66FC5C3055A4EAD78E924989521B,
+	HololensHand_get_sourceLossRisk_m40189FE55885D2E2C6568768BBC1D2832B988BAB,
+	HololensHand_set_sourceLossRisk_m3ABD3539583331B3205DC11ED06D23307CAC69E8,
+	HololensHand_get_sourceLossMitigationDirection_m2E51839B42B5792DB14478450169FA7C9DA82AC8,
+	HololensHand_set_sourceLossMitigationDirection_m4B39773038A6CC56EE1FDD59AA5669C38B74D5F1,
+	HololensHand_FinishSetup_m8972EC9CBA3497720BC52314983E23B0D8AB69C7,
+	HololensHand__ctor_m34D09C7823D96317C371127A37E9F8944CD1C3A9,
+	WMRSpatialController_get_joystick_m01FFA6978EB4A3DE439AF7305F3559CCA9390E03,
+	WMRSpatialController_set_joystick_m180F2CA6E556F7F7453C70BBA718DDEB687C5DA5,
+	WMRSpatialController_get_touchpad_mA5EC0CCA14D691D04AC5805262DE404E294E4501,
+	WMRSpatialController_set_touchpad_mB7C2C9EE9686408850CA0A0BE6F137E933554266,
+	WMRSpatialController_get_grip_m3E728CF2615A9C561114E56368E0C2146EFD434D,
+	WMRSpatialController_set_grip_mF2DFD491EB568530B5EB50A5037B2F9F0F1EA96B,
+	WMRSpatialController_get_gripPressed_m79E0D2F268F0FFFF9F07A84B1510A01459E1D38C,
+	WMRSpatialController_set_gripPressed_mF1F0F6B0C59A6C4EAFCE27383347BE0B27515033,
+	WMRSpatialController_get_menu_m51FAFF3A397061C92E6252A4B72D9175A28E444F,
+	WMRSpatialController_set_menu_mF15F24A814268CE2D58014FCA189D821027F6A84,
+	WMRSpatialController_get_trigger_mB94DD988F8A5B56AF86E1A63B23F999DA8168302,
+	WMRSpatialController_set_trigger_m5641774570232B6014153DF52B9216BA62C34403,
+	WMRSpatialController_get_triggerPressed_m925022C1AE8B824C4156711A69708C6A282747CD,
+	WMRSpatialController_set_triggerPressed_m6A1302BD9CB84BAF80F7C5528D58D43DF915A6D8,
+	WMRSpatialController_get_joystickClicked_mD05C85E7AE3B3864313989A1782A2BFE2AA8825F,
+	WMRSpatialController_set_joystickClicked_m5F79A8038280FEEC79B538D8631CE54E5D562BBD,
+	WMRSpatialController_get_touchpadClicked_m8CA409CDC823610C51C6C54099D71DA493FE8B75,
+	WMRSpatialController_set_touchpadClicked_m109831C23706E7079C6CB0C2BFC9FE5994AFE3F1,
+	WMRSpatialController_get_touchpadTouched_mD084752D326F3EB3B3C78D38C0DBBAD306CA15A7,
+	WMRSpatialController_set_touchpadTouched_m5ED4A15FBD116FE2D20E27E57303F382E4351110,
+	WMRSpatialController_get_trackingState_m25DFE11A727D6E190BC7D7D8B62BA8BAD65F4524,
+	WMRSpatialController_set_trackingState_m4205E90313F3987960E26E94A78DF862282422CB,
+	WMRSpatialController_get_isTracked_mDAC38BF7CB2CA3D234E460E43C2BC5805529B3E7,
+	WMRSpatialController_set_isTracked_m39E40EEED3294D2FE18B46A2B44B52AB58D4D15B,
+	WMRSpatialController_get_devicePosition_mE132BFBE314C56B64E3FC528C1F9D3EAE840FB72,
+	WMRSpatialController_set_devicePosition_m13B3E8D9ADE07B6E236442D2C054C1B746EDB5D3,
+	WMRSpatialController_get_deviceRotation_m9714FC360D2A3851322301EF1AA9AFEF99CB50D8,
+	WMRSpatialController_set_deviceRotation_mC48929DC77737895EDC223644277496E3EDF3301,
+	WMRSpatialController_get_deviceVelocity_mCBC19404FD1DEE7793AD0D215C5D674703A3BA5A,
+	WMRSpatialController_set_deviceVelocity_mDD090097ED56AAF555290370FF7C5BC48C6951C2,
+	WMRSpatialController_get_deviceAngularVelocity_m61710D147BF8A1BCC392606D4152AD4DCC28539D,
+	WMRSpatialController_set_deviceAngularVelocity_m1D594A16EC4E3834575BCA4E886DDDCC2A3E0F4D,
+	WMRSpatialController_get_batteryLevel_mFDD6EEEFB9C4E5B5F8C407B1186C3A97850DBDAF,
+	WMRSpatialController_set_batteryLevel_mDD5A2A6448ECA0DBB4EA4C494A63FC315CE668A7,
+	WMRSpatialController_get_sourceLossRisk_mFE8050D76A7AE85AE6D0BAF3DCD1E490A5714038,
+	WMRSpatialController_set_sourceLossRisk_mB7F13A3EB8C33F92BCFE8E16A6DA955864010FDC,
+	WMRSpatialController_get_sourceLossMitigationDirection_mA6715F87EE6434B816162B1C863E6631117BB325,
+	WMRSpatialController_set_sourceLossMitigationDirection_mF3E6B3E687F733097E744F83244E5E12777993CC,
+	WMRSpatialController_get_pointerPosition_m88355902601A836CEC1E491B9116C77AB87C7252,
+	WMRSpatialController_set_pointerPosition_m170B8BC715547FB0BB891E1AD462C4638787985E,
+	WMRSpatialController_get_pointerRotation_m7EDE9C6FE0811A89323FF9BDEAA56A531ED9B5B3,
+	WMRSpatialController_set_pointerRotation_mD5CB9074B77D800F12DD99BF8EB77BD4B8EFA22D,
+	WMRSpatialController_FinishSetup_mF521FA5201A0D54A0C5E5A4957B0C71AC4C38B78,
+	WMRSpatialController__ctor_m44214281530DB29E911EE81B4EEAB775E9737AC7,
 };
 extern void WindowsMRHoldGestureEvent_get_id_m6D8F5DE158524197B3E9A921C2274C29D8ED6AF3_AdjustorThunk (void);
 extern void WindowsMRHoldGestureEvent_get_state_mEE42F56DDE2EC21257E7122B992E55BB062C2D4F_AdjustorThunk (void);
@@ -859,268 +1123,356 @@ static Il2CppTokenAdjustorThunkPair s_adjustorThunks[31] =
 	{ 0x060000AB, WindowsMRTappedGestureEvent_GetHashCode_mB512A915C951F132527EE4B0E6DE7EE073841C48_AdjustorThunk },
 	{ 0x060000AE, WindowsMRTappedGestureEvent_Equals_mABD39CE8DD91E3D967199BF869FA47F3B70CE439_AdjustorThunk },
 };
-static const int32_t s_InvokerIndices[260] = 
+static const int32_t s_InvokerIndices[348] = 
 {
-	9122,
-	9122,
-	9122,
-	8999,
-	6187,
-	9122,
-	9122,
-	9122,
-	6371,
-	8990,
-	8219,
-	8923,
-	9122,
-	6187,
-	6187,
-	6187,
-	6187,
-	1497,
-	2061,
-	4432,
-	6187,
-	6187,
+	10733,
+	10733,
+	10733,
+	10549,
+	7214,
+	10733,
+	10733,
+	10733,
+	7446,
+	10538,
+	9600,
+	10464,
+	10733,
+	7214,
+	7214,
+	7214,
+	7214,
+	1658,
+	2318,
+	5062,
+	7214,
+	7214,
+	5756,
+	7214,
+	5848,
+	7089,
+	5294,
+	2362,
+	5800,
+	7214,
+	10733,
+	10546,
+	9824,
+	10570,
+	8805,
+	9826,
+	10546,
+	9004,
+	10385,
+	10681,
+	10733,
+	7214,
+	7089,
+	10679,
+	10544,
+	10544,
+	10679,
+	10733,
+	10716,
+	10553,
+	10716,
+	10553,
+	10679,
+	10544,
+	10691,
+	10549,
+	10716,
+	10733,
+	10733,
+	10439,
+	10439,
+	10553,
+	10716,
+	10553,
+	10716,
+	10544,
+	10679,
+	10549,
+	9883,
+	10716,
+	10439,
+	10439,
+	10716,
+	10716,
+	9823,
+	10680,
+	7089,
+	5800,
+	5800,
+	5800,
+	5800,
+	5800,
+	5800,
+	5800,
+	5800,
+	5800,
+	5800,
+	5800,
+	7089,
+	7214,
+	7214,
+	7214,
+	7214,
+	6773,
+	6774,
+	6775,
+	6776,
+	7089,
 	5006,
-	6187,
-	5087,
-	6073,
-	4613,
-	2103,
-	5043,
-	6187,
-	9122,
-	8996,
-	8417,
-	9016,
-	7541,
-	8418,
-	8996,
-	7707,
-	8859,
-	9081,
-	9122,
-	6187,
-	6073,
-	9079,
-	8994,
-	8994,
-	9079,
-	9122,
-	9105,
-	9002,
-	9105,
-	9002,
-	9079,
-	8994,
-	9090,
-	8999,
-	9105,
-	9122,
-	9122,
-	8901,
-	8901,
-	9002,
-	9105,
-	9002,
-	9105,
-	8994,
-	9079,
-	8999,
-	8463,
-	9105,
-	8901,
-	8901,
-	9105,
-	9105,
-	8416,
-	9080,
-	6073,
-	5043,
-	5043,
-	5043,
-	5043,
-	5043,
-	5043,
-	5043,
-	5043,
-	5043,
-	5043,
-	5043,
-	6073,
-	6187,
-	6187,
-	6187,
-	6187,
-	5818,
-	5819,
-	5820,
-	5821,
-	6073,
-	4378,
-	4378,
-	9122,
-	9074,
-	6187,
-	9122,
-	5043,
-	6187,
-	6187,
-	6187,
+	5006,
+	10733,
+	10669,
+	7214,
+	10733,
+	5800,
+	7214,
+	7214,
+	7214,
 	-1,
-	6187,
-	6187,
-	4378,
-	4378,
-	5818,
-	5819,
-	5820,
-	5821,
-	2702,
-	1500,
-	739,
-	1072,
-	9122,
-	9122,
-	9122,
-	9122,
-	7776,
-	7776,
-	7776,
-	7776,
-	8917,
-	8917,
-	6005,
-	6034,
-	9124,
-	2210,
-	6073,
-	4334,
-	6034,
-	8254,
-	8254,
-	4454,
-	6005,
-	6034,
-	6177,
-	9125,
-	1309,
-	6073,
-	4334,
-	6034,
-	8255,
-	8255,
-	4455,
-	6005,
-	6034,
-	6177,
-	9126,
-	1309,
-	6073,
-	4334,
-	6034,
-	8256,
-	8256,
-	4456,
-	6005,
-	6034,
-	6034,
-	9127,
-	1308,
-	6073,
-	4334,
-	6034,
-	8257,
-	8257,
-	4457,
-	9122,
-	6187,
-	6187,
-	6073,
-	6034,
-	6034,
-	6187,
-	6187,
-	6187,
-	6187,
-	6035,
-	6035,
-	5004,
-	6035,
-	2960,
-	9122,
-	9122,
-	9122,
-	9122,
-	9122,
-	9079,
-	9079,
-	6187,
-	9081,
-	9081,
-	9081,
-	9081,
-	8724,
-	8468,
-	9079,
-	8463,
-	8463,
-	6073,
-	6073,
-	6073,
-	6073,
-	6073,
-	6073,
-	6119,
-	6119,
-	6119,
-	6119,
-	9012,
-	6073,
-	6187,
-	9122,
-	8468,
-	7316,
-	7746,
-	7729,
-	8451,
-	9122,
-	8423,
-	8990,
-	8463,
-	9010,
-	9011,
-	9079,
-	9079,
-	9122,
-	9122,
-	9009,
-	9079,
-	9081,
-	9081,
-	9081,
-	9081,
-	6073,
-	6073,
-	986,
-	6187,
-	6187,
-	5003,
-	6187,
-	6119,
-	6073,
-	6187,
-	6073,
-	5003,
-	6187,
-	6119,
-	6073,
-	6187,
-	6073,
-	6187,
-	6187,
+	7214,
+	7214,
+	5006,
+	5006,
+	6773,
+	6774,
+	6775,
+	6776,
+	3072,
+	1662,
+	822,
+	1179,
+	10733,
+	10733,
+	10733,
+	10733,
+	9089,
+	9089,
+	9089,
+	9089,
+	10458,
+	10458,
+	6999,
+	7043,
+	10735,
+	2500,
+	7089,
+	4960,
+	7043,
+	9638,
+	9638,
+	5087,
+	6999,
+	7043,
+	7203,
+	10736,
+	1450,
+	7089,
+	4960,
+	7043,
+	9639,
+	9639,
+	5088,
+	6999,
+	7043,
+	7203,
+	10737,
+	1450,
+	7089,
+	4960,
+	7043,
+	9640,
+	9640,
+	5089,
+	6999,
+	7043,
+	7043,
+	10738,
+	1449,
+	7089,
+	4960,
+	7043,
+	9641,
+	9641,
+	5090,
+	10733,
+	7214,
+	7214,
+	7089,
+	7043,
+	7043,
+	7214,
+	7214,
+	7214,
+	7214,
+	7044,
+	7044,
+	5754,
+	7044,
+	3373,
+	10733,
+	10733,
+	10733,
+	10733,
+	10733,
+	10679,
+	10679,
+	7214,
+	10681,
+	10681,
+	10681,
+	10681,
+	10223,
+	9889,
+	10679,
+	9883,
+	9883,
+	10733,
+	10733,
+	7089,
+	7089,
+	7089,
+	7089,
+	7089,
+	7089,
+	7138,
+	7138,
+	7138,
+	7138,
+	10564,
+	7089,
+	7214,
+	10733,
+	9889,
+	8546,
+	9054,
+	9033,
+	9868,
+	10733,
+	9831,
+	10538,
+	9883,
+	10562,
+	10563,
+	10679,
+	10679,
+	10733,
+	10733,
+	10561,
+	10679,
+	10681,
+	10681,
+	10681,
+	10681,
+	7089,
+	7089,
+	1089,
+	7214,
+	7214,
+	5753,
+	7214,
+	7138,
+	7089,
+	7214,
+	7089,
+	5753,
+	7214,
+	7138,
+	7089,
+	7214,
+	7089,
+	7214,
+	7214,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7214,
+	7214,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7214,
+	7214,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7089,
+	5800,
+	7214,
+	7214,
 };
 static const Il2CppTokenRangePair s_rgctxIndices[1] = 
 {
@@ -1148,7 +1500,7 @@ IL2CPP_EXTERN_C const Il2CppCodeGenModule g_Unity_XR_WindowsMixedReality_CodeGen
 const Il2CppCodeGenModule g_Unity_XR_WindowsMixedReality_CodeGenModule = 
 {
 	"Unity.XR.WindowsMixedReality.dll",
-	260,
+	348,
 	s_methodPointers,
 	31,
 	s_adjustorThunks,

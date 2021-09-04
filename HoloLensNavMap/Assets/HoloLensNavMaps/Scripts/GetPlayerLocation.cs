@@ -16,7 +16,7 @@ public class GetPlayerLocation : MonoBehaviour
     public MapRenderer mapRenderer;
     public TextMeshPro debugText;
     private uint _desireAccuracyInMetersValue = 0;
-
+    public LatLonMover mover;
     public ReverseGeocodeOnClick _rgoc;
     // Start is called before the first frame update
     async void Start()
@@ -58,7 +58,9 @@ public class GetPlayerLocation : MonoBehaviour
             debugText.text = position.Coordinate.Point.Position.Latitude.ToString() + "\n" + position.Coordinate.Point.Position.Longitude.ToString();
             mapRenderer.SetMapScene(new MapSceneOfLocationAndZoomLevel(new LatLon(position.Coordinate.Point.Position.Latitude, position.Coordinate.Point.Position.Longitude), 17f));
              _rgoc.OnMapSent(new LatLon(position.Coordinate.Point.Position.Latitude, position.Coordinate.Point.Position.Longitude));
+              mover.enabled = true;
         }
     }
 #endif
+
 }

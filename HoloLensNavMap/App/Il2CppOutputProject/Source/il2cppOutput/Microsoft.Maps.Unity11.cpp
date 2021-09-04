@@ -28626,7 +28626,7 @@ IL_0029:
 		MemoryStream_t0B450399DD6D0175074FED99DD321D65771C9E1C * L_9 = V_1;
 		NullCheck(L_9);
 		ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* L_10;
-		L_10 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(35 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_9);
+		L_10 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(36 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_9);
 		return L_10;
 	}
 }
@@ -28659,7 +28659,7 @@ IL_0006:
 		MemoryStream_t0B450399DD6D0175074FED99DD321D65771C9E1C * L_3 = V_0;
 		NullCheck(L_3);
 		ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* L_4;
-		L_4 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(35 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_3);
+		L_4 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(36 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_3);
 		V_1 = L_4;
 		IL2CPP_LEAVE(0x21, FINALLY_0017);
 	}// end try (depth: 1)
@@ -30523,7 +30523,7 @@ IL_0006:
 			MemoryStream_t0B450399DD6D0175074FED99DD321D65771C9E1C * L_5 = V_0;
 			NullCheck(L_5);
 			ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* L_6;
-			L_6 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(35 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_5);
+			L_6 = VirtualFuncInvoker0< ByteU5BU5D_tDBBEB0E8362242FA7223000D978B0DD19D4B0726* >::Invoke(36 /* System.Byte[] System.IO.MemoryStream::ToArray() */, L_5);
 			V_1 = L_6;
 			MemoryStream_t0B450399DD6D0175074FED99DD321D65771C9E1C * L_7 = V_0;
 			NullCheck(L_7);

@@ -15,7 +15,7 @@
 // System.Char[]
 struct CharU5BU5D_t7B7FC5BC8091AA3B9CB0B29CDD80B5EE9254AA34;
 // Microsoft.MixedReality.Toolkit.Utilities.Handedness[]
-struct HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598;
+struct HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D;
 // System.Type[]
 struct TypeU5BU5D_t85B10489E46F06CEC7C4B1CCBD0E01FAB6649755;
 // System.Reflection.AssemblyCopyrightAttribute
@@ -24,20 +24,28 @@ struct AssemblyCopyrightAttribute_tA6A09319EF50B48D962810032000DEE7B12904EC;
 struct AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F;
 // System.Reflection.AssemblyProductAttribute
 struct AssemblyProductAttribute_t6BB0E0F76C752E14A4C26B4D1E230019068601CA;
+// System.Runtime.CompilerServices.AsyncStateMachineAttribute
+struct AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6;
 // System.Reflection.Binder
 struct Binder_t2BEE27FD84737D1E79BC47FD67F6D3DD2F2DDA30;
 // System.Runtime.CompilerServices.CompilationRelaxationsAttribute
 struct CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF;
+// System.Runtime.CompilerServices.CompilerGeneratedAttribute
+struct CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C;
 // System.Diagnostics.DebuggableAttribute
 struct DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B;
+// System.Diagnostics.DebuggerHiddenAttribute
+struct DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88;
 // UnityEngine.HelpURLAttribute
 struct HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023;
 // System.Reflection.MemberFilter
 struct MemberFilter_t48D0AA10105D186AF42428FA532D4B4332CF8B81;
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute
-struct MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F;
+struct MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154;
 // Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute
-struct MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4;
+struct MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE;
+// System.ObsoleteAttribute
+struct ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671;
 // System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
 struct RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80;
 // System.String
@@ -47,12 +55,16 @@ struct Type_t;
 // System.Void
 struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5;
 
-IL2CPP_EXTERN_C RuntimeClass* HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C const RuntimeType* IMixedRealityCameraSystem_t0BBC2E24EC820E4678A3D2D44F91EFA482A2CB08_0_0_0_var;
-IL2CPP_EXTERN_C const RuntimeType* IMixedRealityInputSystem_t30FEE3BCBA4B47D9BBED63BF481D811EC6A39AA1_0_0_0_var;
-IL2CPP_EXTERN_C const RuntimeType* IMixedRealitySpatialAwarenessSystem_t592956F9EBE4EC056392175F83D3F9BCEE35004C_0_0_0_var;
+IL2CPP_EXTERN_C RuntimeClass* HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C const RuntimeType* IMixedRealityCameraSystem_t5BAB2B95362FB713EA29FD7393DE89EEC5E8E016_0_0_0_var;
+IL2CPP_EXTERN_C const RuntimeType* IMixedRealityInputSystem_t457F4FAD0B99991CEA4709595EF9BEB7FA77DBB2_0_0_0_var;
+IL2CPP_EXTERN_C const RuntimeType* IMixedRealitySpatialAwarenessSystem_t9F861DC06C4DABD2A396600D954340928555998D_0_0_0_var;
+IL2CPP_EXTERN_C const RuntimeType* U3CEnableIfLoaderBecomesActiveU3Ed__23_t97CEF58FDEDF101D097F05A3CDFD9477DF875987_0_0_0_var;
+IL2CPP_EXTERN_C const RuntimeType* U3CEnableIfLoaderBecomesActiveU3Ed__4_t6B6A10D6C19ACAFE681613EE30265BCBB29FFF1C_0_0_0_var;
+IL2CPP_EXTERN_C const RuntimeType* U3CEnableIfLoaderBecomesActiveU3Ed__4_t7A550B742EB6930E3431C7B180A121EA6D245980_0_0_0_var;
+IL2CPP_EXTERN_C const RuntimeType* U3CTryRenderControllerModelWithModelProviderU3Ed__8_tBA22D20D92DAA2744CE29118E4208045ED4D6298_0_0_0_var;
 
-struct HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598;
+struct HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D;
 
 IL2CPP_EXTERN_C_BEGIN
 IL2CPP_EXTERN_C_END
@@ -267,6 +279,24 @@ public:
 };
 
 
+// System.Runtime.CompilerServices.CompilerGeneratedAttribute
+struct CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+{
+public:
+
+public:
+};
+
+
+// System.Diagnostics.DebuggerHiddenAttribute
+struct DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+{
+public:
+
+public:
+};
+
+
 // System.Enum
 struct Enum_t23B90B40F60E677A8025267341651C94AE079CDA  : public ValueType_tDBF999C1B75C48C68621878250DBF6CDBCF51E52
 {
@@ -375,6 +405,35 @@ public:
 };
 
 
+// System.ObsoleteAttribute
+struct ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+{
+public:
+	// System.String System.ObsoleteAttribute::_message
+	String_t* ____message_0;
+	// System.Boolean System.ObsoleteAttribute::_error
+	bool ____error_1;
+
+public:
+	inline static int32_t get_offset_of__message_0() { return static_cast<int32_t>(offsetof(ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671, ____message_0)); }
+	inline String_t* get__message_0() const { return ____message_0; }
+	inline String_t** get_address_of__message_0() { return &____message_0; }
+	inline void set__message_0(String_t* value)
+	{
+		____message_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&____message_0), (void*)value);
+	}
+
+	inline static int32_t get_offset_of__error_1() { return static_cast<int32_t>(offsetof(ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671, ____error_1)); }
+	inline bool get__error_1() const { return ____error_1; }
+	inline bool* get_address_of__error_1() { return &____error_1; }
+	inline void set__error_1(bool value)
+	{
+		____error_1 = value;
+	}
+};
+
+
 // System.Runtime.CompilerServices.RuntimeCompatibilityAttribute
 struct RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
 {
@@ -393,6 +452,25 @@ public:
 };
 
 
+// System.Runtime.CompilerServices.StateMachineAttribute
+struct StateMachineAttribute_tA6E77C77F821508E405473BA1C4C08A69FDA0AC3  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+{
+public:
+	// System.Type System.Runtime.CompilerServices.StateMachineAttribute::<StateMachineType>k__BackingField
+	Type_t * ___U3CStateMachineTypeU3Ek__BackingField_0;
+
+public:
+	inline static int32_t get_offset_of_U3CStateMachineTypeU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(StateMachineAttribute_tA6E77C77F821508E405473BA1C4C08A69FDA0AC3, ___U3CStateMachineTypeU3Ek__BackingField_0)); }
+	inline Type_t * get_U3CStateMachineTypeU3Ek__BackingField_0() const { return ___U3CStateMachineTypeU3Ek__BackingField_0; }
+	inline Type_t ** get_address_of_U3CStateMachineTypeU3Ek__BackingField_0() { return &___U3CStateMachineTypeU3Ek__BackingField_0; }
+	inline void set_U3CStateMachineTypeU3Ek__BackingField_0(Type_t * value)
+	{
+		___U3CStateMachineTypeU3Ek__BackingField_0 = value;
+		Il2CppCodeGenWriteBarrier((void**)(&___U3CStateMachineTypeU3Ek__BackingField_0), (void*)value);
+	}
+};
+
+
 // System.Void
 struct Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5 
 {
@@ -404,6 +482,15 @@ public:
 		};
 		uint8_t Void_t700C6383A2A510C2CF4DD86DABD5CA9FF70ADAC5__padding[1];
 	};
+
+public:
+};
+
+
+// System.Runtime.CompilerServices.AsyncStateMachineAttribute
+struct AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6  : public StateMachineAttribute_tA6E77C77F821508E405473BA1C4C08A69FDA0AC3
+{
+public:
 
 public:
 };
@@ -428,14 +515,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.Handedness
-struct Handedness_t144F166D3615E0DB2843B937FF620ED9F92680BD 
+struct Handedness_t8A262D666130009C1CBAF62C7F75BA2B3EC43E6A 
 {
 public:
 	// System.Byte Microsoft.MixedReality.Toolkit.Utilities.Handedness::value__
 	uint8_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(Handedness_t144F166D3615E0DB2843B937FF620ED9F92680BD, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(Handedness_t8A262D666130009C1CBAF62C7F75BA2B3EC43E6A, ___value___2)); }
 	inline uint8_t get_value___2() const { return ___value___2; }
 	inline uint8_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(uint8_t value)
@@ -446,14 +533,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerConfigurationFlags
-struct MixedRealityControllerConfigurationFlags_tFA3B8B855EEC8F774F8E75ABCB13F9175236E0CF 
+struct MixedRealityControllerConfigurationFlags_tAA066BCEB6919497A6AED0F341E3B3BAD22E946F 
 {
 public:
 	// System.Byte Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerConfigurationFlags::value__
 	uint8_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(MixedRealityControllerConfigurationFlags_tFA3B8B855EEC8F774F8E75ABCB13F9175236E0CF, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(MixedRealityControllerConfigurationFlags_tAA066BCEB6919497A6AED0F341E3B3BAD22E946F, ___value___2)); }
 	inline uint8_t get_value___2() const { return ___value___2; }
 	inline uint8_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(uint8_t value)
@@ -482,14 +569,14 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.SupportedControllerType
-struct SupportedControllerType_tBFD06B4C412CE5A758BBCA684A9E5B6BAC192354 
+struct SupportedControllerType_t090B21807A3773CAD177B303B155B06FA638C4DD 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Input.SupportedControllerType::value__
 	int32_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(SupportedControllerType_tBFD06B4C412CE5A758BBCA684A9E5B6BAC192354, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(SupportedControllerType_t090B21807A3773CAD177B303B155B06FA638C4DD, ___value___2)); }
 	inline int32_t get_value___2() const { return ___value___2; }
 	inline int32_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(int32_t value)
@@ -500,14 +587,32 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms
-struct SupportedPlatforms_tF94AC1C5F6B060A5F141377066540150A3CA052A 
+struct SupportedPlatforms_tD9A9BECC038DF02D219C74E492D0238853AFE10B 
 {
 public:
 	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms::value__
 	int32_t ___value___2;
 
 public:
-	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(SupportedPlatforms_tF94AC1C5F6B060A5F141377066540150A3CA052A, ___value___2)); }
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(SupportedPlatforms_tD9A9BECC038DF02D219C74E492D0238853AFE10B, ___value___2)); }
+	inline int32_t get_value___2() const { return ___value___2; }
+	inline int32_t* get_address_of_value___2() { return &___value___2; }
+	inline void set_value___2(int32_t value)
+	{
+		___value___2 = value;
+	}
+};
+
+
+// Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines
+struct SupportedUnityXRPipelines_t69B95EF830C5D751EE15ACADA14A1DF2E7219144 
+{
+public:
+	// System.Int32 Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines::value__
+	int32_t ___value___2;
+
+public:
+	inline static int32_t get_offset_of_value___2() { return static_cast<int32_t>(offsetof(SupportedUnityXRPipelines_t69B95EF830C5D751EE15ACADA14A1DF2E7219144, ___value___2)); }
 	inline int32_t get_value___2() const { return ___value___2; }
 	inline int32_t* get_address_of_value___2() { return &___value___2; }
 	inline void set_value___2(int32_t value)
@@ -554,20 +659,22 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute
-struct MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+struct MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
 {
 public:
 	// Microsoft.MixedReality.Toolkit.Input.SupportedControllerType Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::<SupportedControllerType>k__BackingField
 	int32_t ___U3CSupportedControllerTypeU3Ek__BackingField_0;
 	// Microsoft.MixedReality.Toolkit.Utilities.Handedness[] Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::<SupportedHandedness>k__BackingField
-	HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* ___U3CSupportedHandednessU3Ek__BackingField_1;
+	HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* ___U3CSupportedHandednessU3Ek__BackingField_1;
 	// System.String Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::<TexturePath>k__BackingField
 	String_t* ___U3CTexturePathU3Ek__BackingField_2;
 	// Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerConfigurationFlags Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::<Flags>k__BackingField
 	uint8_t ___U3CFlagsU3Ek__BackingField_3;
+	// Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::<SupportedUnityXRPipelines>k__BackingField
+	int32_t ___U3CSupportedUnityXRPipelinesU3Ek__BackingField_4;
 
 public:
-	inline static int32_t get_offset_of_U3CSupportedControllerTypeU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F, ___U3CSupportedControllerTypeU3Ek__BackingField_0)); }
+	inline static int32_t get_offset_of_U3CSupportedControllerTypeU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154, ___U3CSupportedControllerTypeU3Ek__BackingField_0)); }
 	inline int32_t get_U3CSupportedControllerTypeU3Ek__BackingField_0() const { return ___U3CSupportedControllerTypeU3Ek__BackingField_0; }
 	inline int32_t* get_address_of_U3CSupportedControllerTypeU3Ek__BackingField_0() { return &___U3CSupportedControllerTypeU3Ek__BackingField_0; }
 	inline void set_U3CSupportedControllerTypeU3Ek__BackingField_0(int32_t value)
@@ -575,16 +682,16 @@ public:
 		___U3CSupportedControllerTypeU3Ek__BackingField_0 = value;
 	}
 
-	inline static int32_t get_offset_of_U3CSupportedHandednessU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F, ___U3CSupportedHandednessU3Ek__BackingField_1)); }
-	inline HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* get_U3CSupportedHandednessU3Ek__BackingField_1() const { return ___U3CSupportedHandednessU3Ek__BackingField_1; }
-	inline HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598** get_address_of_U3CSupportedHandednessU3Ek__BackingField_1() { return &___U3CSupportedHandednessU3Ek__BackingField_1; }
-	inline void set_U3CSupportedHandednessU3Ek__BackingField_1(HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* value)
+	inline static int32_t get_offset_of_U3CSupportedHandednessU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154, ___U3CSupportedHandednessU3Ek__BackingField_1)); }
+	inline HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* get_U3CSupportedHandednessU3Ek__BackingField_1() const { return ___U3CSupportedHandednessU3Ek__BackingField_1; }
+	inline HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D** get_address_of_U3CSupportedHandednessU3Ek__BackingField_1() { return &___U3CSupportedHandednessU3Ek__BackingField_1; }
+	inline void set_U3CSupportedHandednessU3Ek__BackingField_1(HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* value)
 	{
 		___U3CSupportedHandednessU3Ek__BackingField_1 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CSupportedHandednessU3Ek__BackingField_1), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CTexturePathU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F, ___U3CTexturePathU3Ek__BackingField_2)); }
+	inline static int32_t get_offset_of_U3CTexturePathU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154, ___U3CTexturePathU3Ek__BackingField_2)); }
 	inline String_t* get_U3CTexturePathU3Ek__BackingField_2() const { return ___U3CTexturePathU3Ek__BackingField_2; }
 	inline String_t** get_address_of_U3CTexturePathU3Ek__BackingField_2() { return &___U3CTexturePathU3Ek__BackingField_2; }
 	inline void set_U3CTexturePathU3Ek__BackingField_2(String_t* value)
@@ -593,18 +700,26 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CTexturePathU3Ek__BackingField_2), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CFlagsU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F, ___U3CFlagsU3Ek__BackingField_3)); }
+	inline static int32_t get_offset_of_U3CFlagsU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154, ___U3CFlagsU3Ek__BackingField_3)); }
 	inline uint8_t get_U3CFlagsU3Ek__BackingField_3() const { return ___U3CFlagsU3Ek__BackingField_3; }
 	inline uint8_t* get_address_of_U3CFlagsU3Ek__BackingField_3() { return &___U3CFlagsU3Ek__BackingField_3; }
 	inline void set_U3CFlagsU3Ek__BackingField_3(uint8_t value)
 	{
 		___U3CFlagsU3Ek__BackingField_3 = value;
 	}
+
+	inline static int32_t get_offset_of_U3CSupportedUnityXRPipelinesU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154, ___U3CSupportedUnityXRPipelinesU3Ek__BackingField_4)); }
+	inline int32_t get_U3CSupportedUnityXRPipelinesU3Ek__BackingField_4() const { return ___U3CSupportedUnityXRPipelinesU3Ek__BackingField_4; }
+	inline int32_t* get_address_of_U3CSupportedUnityXRPipelinesU3Ek__BackingField_4() { return &___U3CSupportedUnityXRPipelinesU3Ek__BackingField_4; }
+	inline void set_U3CSupportedUnityXRPipelinesU3Ek__BackingField_4(int32_t value)
+	{
+		___U3CSupportedUnityXRPipelinesU3Ek__BackingField_4 = value;
+	}
 };
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityExtensionServiceAttribute
-struct MixedRealityExtensionServiceAttribute_t37FA9EBC6919F32A2A5AC42BD9F8AD05834889D9  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
+struct MixedRealityExtensionServiceAttribute_tF710B014CC1E361D236CBEBF584AC401D6E454B7  : public Attribute_t037CA9D9F3B742C063DB364D2EEBBF9FC5772C71
 {
 public:
 	// System.String Microsoft.MixedReality.Toolkit.MixedRealityExtensionServiceAttribute::<Name>k__BackingField
@@ -619,7 +734,7 @@ public:
 	String_t* ___U3CPackageFolderU3Ek__BackingField_4;
 
 public:
-	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_t37FA9EBC6919F32A2A5AC42BD9F8AD05834889D9, ___U3CNameU3Ek__BackingField_0)); }
+	inline static int32_t get_offset_of_U3CNameU3Ek__BackingField_0() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_tF710B014CC1E361D236CBEBF584AC401D6E454B7, ___U3CNameU3Ek__BackingField_0)); }
 	inline String_t* get_U3CNameU3Ek__BackingField_0() const { return ___U3CNameU3Ek__BackingField_0; }
 	inline String_t** get_address_of_U3CNameU3Ek__BackingField_0() { return &___U3CNameU3Ek__BackingField_0; }
 	inline void set_U3CNameU3Ek__BackingField_0(String_t* value)
@@ -628,7 +743,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CNameU3Ek__BackingField_0), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CRuntimePlatformsU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_t37FA9EBC6919F32A2A5AC42BD9F8AD05834889D9, ___U3CRuntimePlatformsU3Ek__BackingField_1)); }
+	inline static int32_t get_offset_of_U3CRuntimePlatformsU3Ek__BackingField_1() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_tF710B014CC1E361D236CBEBF584AC401D6E454B7, ___U3CRuntimePlatformsU3Ek__BackingField_1)); }
 	inline int32_t get_U3CRuntimePlatformsU3Ek__BackingField_1() const { return ___U3CRuntimePlatformsU3Ek__BackingField_1; }
 	inline int32_t* get_address_of_U3CRuntimePlatformsU3Ek__BackingField_1() { return &___U3CRuntimePlatformsU3Ek__BackingField_1; }
 	inline void set_U3CRuntimePlatformsU3Ek__BackingField_1(int32_t value)
@@ -636,7 +751,7 @@ public:
 		___U3CRuntimePlatformsU3Ek__BackingField_1 = value;
 	}
 
-	inline static int32_t get_offset_of_U3CRequiresProfileU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_t37FA9EBC6919F32A2A5AC42BD9F8AD05834889D9, ___U3CRequiresProfileU3Ek__BackingField_2)); }
+	inline static int32_t get_offset_of_U3CRequiresProfileU3Ek__BackingField_2() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_tF710B014CC1E361D236CBEBF584AC401D6E454B7, ___U3CRequiresProfileU3Ek__BackingField_2)); }
 	inline bool get_U3CRequiresProfileU3Ek__BackingField_2() const { return ___U3CRequiresProfileU3Ek__BackingField_2; }
 	inline bool* get_address_of_U3CRequiresProfileU3Ek__BackingField_2() { return &___U3CRequiresProfileU3Ek__BackingField_2; }
 	inline void set_U3CRequiresProfileU3Ek__BackingField_2(bool value)
@@ -644,7 +759,7 @@ public:
 		___U3CRequiresProfileU3Ek__BackingField_2 = value;
 	}
 
-	inline static int32_t get_offset_of_U3CDefaultProfilePathU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_t37FA9EBC6919F32A2A5AC42BD9F8AD05834889D9, ___U3CDefaultProfilePathU3Ek__BackingField_3)); }
+	inline static int32_t get_offset_of_U3CDefaultProfilePathU3Ek__BackingField_3() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_tF710B014CC1E361D236CBEBF584AC401D6E454B7, ___U3CDefaultProfilePathU3Ek__BackingField_3)); }
 	inline String_t* get_U3CDefaultProfilePathU3Ek__BackingField_3() const { return ___U3CDefaultProfilePathU3Ek__BackingField_3; }
 	inline String_t** get_address_of_U3CDefaultProfilePathU3Ek__BackingField_3() { return &___U3CDefaultProfilePathU3Ek__BackingField_3; }
 	inline void set_U3CDefaultProfilePathU3Ek__BackingField_3(String_t* value)
@@ -653,7 +768,7 @@ public:
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CDefaultProfilePathU3Ek__BackingField_3), (void*)value);
 	}
 
-	inline static int32_t get_offset_of_U3CPackageFolderU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_t37FA9EBC6919F32A2A5AC42BD9F8AD05834889D9, ___U3CPackageFolderU3Ek__BackingField_4)); }
+	inline static int32_t get_offset_of_U3CPackageFolderU3Ek__BackingField_4() { return static_cast<int32_t>(offsetof(MixedRealityExtensionServiceAttribute_tF710B014CC1E361D236CBEBF584AC401D6E454B7, ___U3CPackageFolderU3Ek__BackingField_4)); }
 	inline String_t* get_U3CPackageFolderU3Ek__BackingField_4() const { return ___U3CPackageFolderU3Ek__BackingField_4; }
 	inline String_t** get_address_of_U3CPackageFolderU3Ek__BackingField_4() { return &___U3CPackageFolderU3Ek__BackingField_4; }
 	inline void set_U3CPackageFolderU3Ek__BackingField_4(String_t* value)
@@ -765,14 +880,16 @@ public:
 
 
 // Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute
-struct MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4  : public MixedRealityExtensionServiceAttribute_t37FA9EBC6919F32A2A5AC42BD9F8AD05834889D9
+struct MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE  : public MixedRealityExtensionServiceAttribute_tF710B014CC1E361D236CBEBF584AC401D6E454B7
 {
 public:
 	// System.Type Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute::<ServiceInterfaceType>k__BackingField
 	Type_t * ___U3CServiceInterfaceTypeU3Ek__BackingField_5;
+	// Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute::<SupportedUnityXRPipelines>k__BackingField
+	int32_t ___U3CSupportedUnityXRPipelinesU3Ek__BackingField_6;
 
 public:
-	inline static int32_t get_offset_of_U3CServiceInterfaceTypeU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4, ___U3CServiceInterfaceTypeU3Ek__BackingField_5)); }
+	inline static int32_t get_offset_of_U3CServiceInterfaceTypeU3Ek__BackingField_5() { return static_cast<int32_t>(offsetof(MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE, ___U3CServiceInterfaceTypeU3Ek__BackingField_5)); }
 	inline Type_t * get_U3CServiceInterfaceTypeU3Ek__BackingField_5() const { return ___U3CServiceInterfaceTypeU3Ek__BackingField_5; }
 	inline Type_t ** get_address_of_U3CServiceInterfaceTypeU3Ek__BackingField_5() { return &___U3CServiceInterfaceTypeU3Ek__BackingField_5; }
 	inline void set_U3CServiceInterfaceTypeU3Ek__BackingField_5(Type_t * value)
@@ -780,13 +897,21 @@ public:
 		___U3CServiceInterfaceTypeU3Ek__BackingField_5 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___U3CServiceInterfaceTypeU3Ek__BackingField_5), (void*)value);
 	}
+
+	inline static int32_t get_offset_of_U3CSupportedUnityXRPipelinesU3Ek__BackingField_6() { return static_cast<int32_t>(offsetof(MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE, ___U3CSupportedUnityXRPipelinesU3Ek__BackingField_6)); }
+	inline int32_t get_U3CSupportedUnityXRPipelinesU3Ek__BackingField_6() const { return ___U3CSupportedUnityXRPipelinesU3Ek__BackingField_6; }
+	inline int32_t* get_address_of_U3CSupportedUnityXRPipelinesU3Ek__BackingField_6() { return &___U3CSupportedUnityXRPipelinesU3Ek__BackingField_6; }
+	inline void set_U3CSupportedUnityXRPipelinesU3Ek__BackingField_6(int32_t value)
+	{
+		___U3CSupportedUnityXRPipelinesU3Ek__BackingField_6 = value;
+	}
 };
 
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
 // Microsoft.MixedReality.Toolkit.Utilities.Handedness[]
-struct HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598  : public RuntimeArray
+struct HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D  : public RuntimeArray
 {
 public:
 	ALIGN_FIELD (8) uint8_t m_Items[1];
@@ -823,172 +948,470 @@ public:
 
 
 
+// System.Void System.Reflection.AssemblyFileVersionAttribute::.ctor(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AssemblyFileVersionAttribute__ctor_mF855AEBC51CB72F4FF913499256741AE57B0F13D (AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F * __this, String_t* ___version0, const RuntimeMethod* method);
+// System.Void System.Reflection.AssemblyCopyrightAttribute::.ctor(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AssemblyCopyrightAttribute__ctor_mB0B5F5C1A7A8B172289CC694E2711F07A37CE3F3 (AssemblyCopyrightAttribute_tA6A09319EF50B48D962810032000DEE7B12904EC * __this, String_t* ___copyright0, const RuntimeMethod* method);
 // System.Void System.Diagnostics.DebuggableAttribute::.ctor(System.Diagnostics.DebuggableAttribute/DebuggingModes)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DebuggableAttribute__ctor_m7FF445C8435494A4847123A668D889E692E55550 (DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B * __this, int32_t ___modes0, const RuntimeMethod* method);
+// System.Void System.Runtime.CompilerServices.CompilationRelaxationsAttribute::.ctor(System.Int32)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CompilationRelaxationsAttribute__ctor_mAC3079EBC4EEAB474EED8208EF95DB39C922333B (CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF * __this, int32_t ___relaxations0, const RuntimeMethod* method);
 // System.Void System.Runtime.CompilerServices.RuntimeCompatibilityAttribute::.ctor()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void RuntimeCompatibilityAttribute__ctor_m551DDF1438CE97A984571949723F30F44CF7317C (RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 * __this, const RuntimeMethod* method);
 // System.Void System.Runtime.CompilerServices.RuntimeCompatibilityAttribute::set_WrapNonExceptionThrows(System.Boolean)
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void RuntimeCompatibilityAttribute_set_WrapNonExceptionThrows_m8562196F90F3EBCEC23B5708EE0332842883C490_inline (RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 * __this, bool ___value0, const RuntimeMethod* method);
-// System.Void System.Runtime.CompilerServices.CompilationRelaxationsAttribute::.ctor(System.Int32)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CompilationRelaxationsAttribute__ctor_mAC3079EBC4EEAB474EED8208EF95DB39C922333B (CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF * __this, int32_t ___relaxations0, const RuntimeMethod* method);
-// System.Void System.Reflection.AssemblyCopyrightAttribute::.ctor(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AssemblyCopyrightAttribute__ctor_mB0B5F5C1A7A8B172289CC694E2711F07A37CE3F3 (AssemblyCopyrightAttribute_tA6A09319EF50B48D962810032000DEE7B12904EC * __this, String_t* ___copyright0, const RuntimeMethod* method);
 // System.Void System.Reflection.AssemblyProductAttribute::.ctor(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AssemblyProductAttribute__ctor_m26DF1EBC1C86E7DA4786C66B44123899BE8DBCB8 (AssemblyProductAttribute_t6BB0E0F76C752E14A4C26B4D1E230019068601CA * __this, String_t* ___product0, const RuntimeMethod* method);
-// System.Void System.Reflection.AssemblyFileVersionAttribute::.ctor(System.String)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AssemblyFileVersionAttribute__ctor_mF855AEBC51CB72F4FF913499256741AE57B0F13D (AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F * __this, String_t* ___version0, const RuntimeMethod* method);
-// System.Void Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::.ctor(Microsoft.MixedReality.Toolkit.Input.SupportedControllerType,Microsoft.MixedReality.Toolkit.Utilities.Handedness[],System.String,Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerConfigurationFlags)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealityControllerAttribute__ctor_mFE638183DB3EDB93A10609E0C0887536BD6B36C4 (MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F * __this, int32_t ___supportedControllerType0, HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* ___supportedHandedness1, String_t* ___texturePath2, uint8_t ___flags3, const RuntimeMethod* method);
-// System.Void Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute::.ctor(System.Type,Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms,System.String,System.String,System.String,System.Boolean)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealityDataProviderAttribute__ctor_m17F14823203F5C488548EFCCD2C7E1E376B65370 (MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4 * __this, Type_t * ___serviceInterfaceType0, int32_t ___runtimePlatforms1, String_t* ___name2, String_t* ___profilePath3, String_t* ___packageFolder4, bool ___requiresProfile5, const RuntimeMethod* method);
+// System.Void Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerAttribute::.ctor(Microsoft.MixedReality.Toolkit.Input.SupportedControllerType,Microsoft.MixedReality.Toolkit.Utilities.Handedness[],System.String,Microsoft.MixedReality.Toolkit.Input.MixedRealityControllerConfigurationFlags,Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealityControllerAttribute__ctor_m005E8F4A8F08716960672CCAC196A7913F8F501B (MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 * __this, int32_t ___supportedControllerType0, HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* ___supportedHandedness1, String_t* ___texturePath2, uint8_t ___flags3, int32_t ___supportedUnityXRPipelines4, const RuntimeMethod* method);
+// System.Void System.Runtime.CompilerServices.AsyncStateMachineAttribute::.ctor(System.Type)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void AsyncStateMachineAttribute__ctor_m9530B59D9722DE383A1703C52EBC1ED1FEFB100B (AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 * __this, Type_t * ___stateMachineType0, const RuntimeMethod* method);
+// System.Void System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35 (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * __this, const RuntimeMethod* method);
+// System.Void System.Diagnostics.DebuggerHiddenAttribute::.ctor()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3 (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * __this, const RuntimeMethod* method);
+// System.Void Microsoft.MixedReality.Toolkit.MixedRealityDataProviderAttribute::.ctor(System.Type,Microsoft.MixedReality.Toolkit.Utilities.SupportedPlatforms,System.String,System.String,System.String,System.Boolean,Microsoft.MixedReality.Toolkit.Utilities.SupportedUnityXRPipelines)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void MixedRealityDataProviderAttribute__ctor_m4B73C3011BC548323ACA9DA9EE7762037ACB4814 (MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE * __this, Type_t * ___serviceInterfaceType0, int32_t ___runtimePlatforms1, String_t* ___name2, String_t* ___profilePath3, String_t* ___packageFolder4, bool ___requiresProfile5, int32_t ___supportedUnityXRPipelines6, const RuntimeMethod* method);
+// System.Void System.ObsoleteAttribute::.ctor(System.String)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void ObsoleteAttribute__ctor_mAC32A5CCD287DA84CDA9F08282C1C8B0DB7B9868 (ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 * __this, String_t* ___message0, const RuntimeMethod* method);
 // System.Void UnityEngine.HelpURLAttribute::.ctor(System.String)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void HelpURLAttribute__ctor_mCC837CE7900738F3152D585D454A34A15793C215 (HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023 * __this, String_t* ___url0, const RuntimeMethod* method);
 static void Microsoft_MixedReality_Toolkit_Providers_XRSDK_WindowsMixedReality_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	{
-		DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B * tmp = (DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B *)cache->attributes[0];
+		AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F * tmp = (AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F *)cache->attributes[0];
+		AssemblyFileVersionAttribute__ctor_mF855AEBC51CB72F4FF913499256741AE57B0F13D(tmp, il2cpp_codegen_string_new_wrapper("\x32\x2E\x37\x2E\x30\x2E\x30"), NULL);
+	}
+	{
+		AssemblyCopyrightAttribute_tA6A09319EF50B48D962810032000DEE7B12904EC * tmp = (AssemblyCopyrightAttribute_tA6A09319EF50B48D962810032000DEE7B12904EC *)cache->attributes[1];
+		AssemblyCopyrightAttribute__ctor_mB0B5F5C1A7A8B172289CC694E2711F07A37CE3F3(tmp, il2cpp_codegen_string_new_wrapper("\x43\x6F\x70\x79\x72\x69\x67\x68\x74\x20\xC2\xA9\x20\x4D\x69\x63\x72\x6F\x73\x6F\x66\x74\x20\x43\x6F\x72\x70\x6F\x72\x61\x74\x69\x6F\x6E"), NULL);
+	}
+	{
+		DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B * tmp = (DebuggableAttribute_tA8054EBD0FC7511695D494B690B5771658E3191B *)cache->attributes[2];
 		DebuggableAttribute__ctor_m7FF445C8435494A4847123A668D889E692E55550(tmp, 2LL, NULL);
 	}
 	{
-		RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 * tmp = (RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 *)cache->attributes[1];
+		CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF * tmp = (CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF *)cache->attributes[3];
+		CompilationRelaxationsAttribute__ctor_mAC3079EBC4EEAB474EED8208EF95DB39C922333B(tmp, 8LL, NULL);
+	}
+	{
+		RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 * tmp = (RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 *)cache->attributes[4];
 		RuntimeCompatibilityAttribute__ctor_m551DDF1438CE97A984571949723F30F44CF7317C(tmp, NULL);
 		RuntimeCompatibilityAttribute_set_WrapNonExceptionThrows_m8562196F90F3EBCEC23B5708EE0332842883C490_inline(tmp, true, NULL);
 	}
 	{
-		CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF * tmp = (CompilationRelaxationsAttribute_t661FDDC06629BDA607A42BD660944F039FE03AFF *)cache->attributes[2];
-		CompilationRelaxationsAttribute__ctor_mAC3079EBC4EEAB474EED8208EF95DB39C922333B(tmp, 8LL, NULL);
-	}
-	{
-		AssemblyCopyrightAttribute_tA6A09319EF50B48D962810032000DEE7B12904EC * tmp = (AssemblyCopyrightAttribute_tA6A09319EF50B48D962810032000DEE7B12904EC *)cache->attributes[3];
-		AssemblyCopyrightAttribute__ctor_mB0B5F5C1A7A8B172289CC694E2711F07A37CE3F3(tmp, il2cpp_codegen_string_new_wrapper("\x43\x6F\x70\x79\x72\x69\x67\x68\x74\x20\xC2\xA9\x20\x4D\x69\x63\x72\x6F\x73\x6F\x66\x74\x20\x43\x6F\x72\x70\x6F\x72\x61\x74\x69\x6F\x6E"), NULL);
-	}
-	{
-		AssemblyProductAttribute_t6BB0E0F76C752E14A4C26B4D1E230019068601CA * tmp = (AssemblyProductAttribute_t6BB0E0F76C752E14A4C26B4D1E230019068601CA *)cache->attributes[4];
+		AssemblyProductAttribute_t6BB0E0F76C752E14A4C26B4D1E230019068601CA * tmp = (AssemblyProductAttribute_t6BB0E0F76C752E14A4C26B4D1E230019068601CA *)cache->attributes[5];
 		AssemblyProductAttribute__ctor_m26DF1EBC1C86E7DA4786C66B44123899BE8DBCB8(tmp, il2cpp_codegen_string_new_wrapper("\x4D\x69\x63\x72\x6F\x73\x6F\x66\x74\xC2\xAE\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x54\x6F\x6F\x6C\x6B\x69\x74\x20\x50\x72\x6F\x76\x69\x64\x65\x72\x73"), NULL);
 	}
-	{
-		AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F * tmp = (AssemblyFileVersionAttribute_tCC1036D0566155DC5688D9230EF3C07D82A1896F *)cache->attributes[5];
-		AssemblyFileVersionAttribute__ctor_mF855AEBC51CB72F4FF913499256741AE57B0F13D(tmp, il2cpp_codegen_string_new_wrapper("\x32\x2E\x36\x2E\x31\x2E\x30"), NULL);
-	}
 }
-static void HPMotionController_t83C5AB11100355E8F688C2FEF164E680334313C5_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void HPMotionController_tC35E5BF550D706D52C6CCCBF7868EE62F207070F_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* _tmp_1 = (HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598*)SZArrayNew(HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var, 2);
+		HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* _tmp_1 = (HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D*)SZArrayNew(HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var, 2);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(0), 1U);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(1), 2U);
-		MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F * tmp = (MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F *)cache->attributes[0];
-		MixedRealityControllerAttribute__ctor_mFE638183DB3EDB93A10609E0C0887536BD6B36C4(tmp, 4096LL, _tmp_1, il2cpp_codegen_string_new_wrapper(""), 0, NULL);
+		MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 * tmp = (MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 *)cache->attributes[0];
+		MixedRealityControllerAttribute__ctor_m005E8F4A8F08716960672CCAC196A7913F8F501B(tmp, 4096LL, _tmp_1, il2cpp_codegen_string_new_wrapper(""), 0, 2LL, NULL);
 	}
 }
-static void WindowsMixedRealityXRSDKArticulatedHand_t52891152A9A8483991BF667783424F65AE50EA26_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void WindowsMixedRealityXRSDKArticulatedHand_tAA9C59B1D2C6D27AD53DA985DD47D7987B84AD90_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* _tmp_1 = (HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598*)SZArrayNew(HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var, 2);
+		HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* _tmp_1 = (HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D*)SZArrayNew(HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var, 2);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(0), 1U);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(1), 2U);
-		MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F * tmp = (MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F *)cache->attributes[0];
-		MixedRealityControllerAttribute__ctor_mFE638183DB3EDB93A10609E0C0887536BD6B36C4(tmp, 1024LL, _tmp_1, il2cpp_codegen_string_new_wrapper(""), 0, NULL);
+		MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 * tmp = (MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 *)cache->attributes[0];
+		MixedRealityControllerAttribute__ctor_m005E8F4A8F08716960672CCAC196A7913F8F501B(tmp, 1024LL, _tmp_1, il2cpp_codegen_string_new_wrapper(""), 0, 2LL, NULL);
 	}
 }
-static void WindowsMixedRealityXRSDKGGVHand_tE39FA78276F13D5BAFA179EBFE2321CD5F133B8C_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void WindowsMixedRealityXRSDKGGVHand_tAE074FF99056B35A3DAE5DDE332A089202791F28_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* _tmp_1 = (HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598*)SZArrayNew(HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var, 3);
+		HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* _tmp_1 = (HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D*)SZArrayNew(HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var, 3);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(0), 1U);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(1), 2U);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(2), 0U);
-		MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F * tmp = (MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F *)cache->attributes[0];
-		MixedRealityControllerAttribute__ctor_mFE638183DB3EDB93A10609E0C0887536BD6B36C4(tmp, 2048LL, _tmp_1, il2cpp_codegen_string_new_wrapper(""), 0, NULL);
+		MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 * tmp = (MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 *)cache->attributes[0];
+		MixedRealityControllerAttribute__ctor_m005E8F4A8F08716960672CCAC196A7913F8F501B(tmp, 2048LL, _tmp_1, il2cpp_codegen_string_new_wrapper(""), 0, 2LL, NULL);
 	}
 }
-static void WindowsMixedRealityXRSDKMotionController_t31BEA70C09AF385ADC4AC46286299015773B70C5_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void WindowsMixedRealityXRSDKMotionController_t4AE2ED6C6CCAB726EBCB2E6298E168EE8757B96D_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598* _tmp_1 = (HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598*)SZArrayNew(HandednessU5BU5D_t2D1A6054CB132B56D8A6D5FD1B10B4C8E3F1F598_il2cpp_TypeInfo_var, 2);
+		HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D* _tmp_1 = (HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D*)SZArrayNew(HandednessU5BU5D_tEB820122EF0D51B9B4B9EA50FA101AE5928D391D_il2cpp_TypeInfo_var, 2);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(0), 1U);
 		(_tmp_1)->SetAtUnchecked(static_cast<il2cpp_array_size_t>(1), 2U);
-		MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F * tmp = (MixedRealityControllerAttribute_tCCD41ABB0050BC88B02A2C1E5887E2DEDA37A17F *)cache->attributes[0];
-		MixedRealityControllerAttribute__ctor_mFE638183DB3EDB93A10609E0C0887536BD6B36C4(tmp, 32LL, _tmp_1, il2cpp_codegen_string_new_wrapper("\x54\x65\x78\x74\x75\x72\x65\x73\x2F\x4D\x6F\x74\x69\x6F\x6E\x43\x6F\x6E\x74\x72\x6F\x6C\x6C\x65\x72"), 0, NULL);
+		MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 * tmp = (MixedRealityControllerAttribute_tD5C271B77ABA46A1A37283DF6E06CAD9B65AC154 *)cache->attributes[0];
+		MixedRealityControllerAttribute__ctor_m005E8F4A8F08716960672CCAC196A7913F8F501B(tmp, 32LL, _tmp_1, il2cpp_codegen_string_new_wrapper("\x54\x65\x78\x74\x75\x72\x65\x73\x2F\x4D\x6F\x74\x69\x6F\x6E\x43\x6F\x6E\x74\x72\x6F\x6C\x6C\x65\x72"), 0, 2LL, NULL);
 	}
 }
-static void WindowsMixedRealityCameraSettings_t79EE9D168A2FAD8BD0F27C64F6A0362E3CFCC5FC_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void WindowsMixedRealityXRSDKMotionController_t4AE2ED6C6CCAB726EBCB2E6298E168EE8757B96D_CustomAttributesCacheGenerator_WindowsMixedRealityXRSDKMotionController_TryRenderControllerModelWithModelProvider_m25D8E28015395A18C3D48816483D320B570EFF1A(CustomAttributesCache* cache)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealityCameraSystem_t0BBC2E24EC820E4678A3D2D44F91EFA482A2CB08_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CTryRenderControllerModelWithModelProviderU3Ed__8_tBA22D20D92DAA2744CE29118E4208045ED4D6298_0_0_0_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4 * tmp = (MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4 *)cache->attributes[0];
-		MixedRealityDataProviderAttribute__ctor_m17F14823203F5C488548EFCCD2C7E1E376B65370(tmp, il2cpp_codegen_type_get_object(IMixedRealityCameraSystem_t0BBC2E24EC820E4678A3D2D44F91EFA482A2CB08_0_0_0_var), 9LL, il2cpp_codegen_string_new_wrapper("\x58\x52\x20\x53\x44\x4B\x20\x57\x69\x6E\x64\x6F\x77\x73\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x43\x61\x6D\x65\x72\x61\x20\x53\x65\x74\x74\x69\x6E\x67\x73"), il2cpp_codegen_string_new_wrapper("\x57\x69\x6E\x64\x6F\x77\x73\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x2F\x53\x68\x61\x72\x65\x64\x2F\x50\x72\x6F\x66\x69\x6C\x65\x73\x2F\x44\x65\x66\x61\x75\x6C\x74\x57\x69\x6E\x64\x6F\x77\x73\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x43\x61\x6D\x65\x72\x61\x53\x65\x74\x74\x69\x6E\x67\x73\x50\x72\x6F\x66\x69\x6C\x65\x2E\x61\x73\x73\x65\x74"), il2cpp_codegen_string_new_wrapper("\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x54\x6F\x6F\x6C\x6B\x69\x74\x2E\x50\x72\x6F\x76\x69\x64\x65\x72\x73"), false, NULL);
+		AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 * tmp = (AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 *)cache->attributes[0];
+		AsyncStateMachineAttribute__ctor_m9530B59D9722DE383A1703C52EBC1ED1FEFB100B(tmp, il2cpp_codegen_type_get_object(U3CTryRenderControllerModelWithModelProviderU3Ed__8_tBA22D20D92DAA2744CE29118E4208045ED4D6298_0_0_0_var), NULL);
 	}
 }
-static void WindowsMixedRealityDeviceManager_tFC3D2CA4BBB943A57D4AAB63CFE9CBD59F90D567_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void WindowsMixedRealityXRSDKMotionController_t4AE2ED6C6CCAB726EBCB2E6298E168EE8757B96D_CustomAttributesCacheGenerator_WindowsMixedRealityXRSDKMotionController_U3CU3En__0_m425269EEE497408D506E0ED1C7AEE8CB7353BEE4(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[1];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void U3CTryRenderControllerModelWithModelProviderU3Ed__8_tBA22D20D92DAA2744CE29118E4208045ED4D6298_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void U3CTryRenderControllerModelWithModelProviderU3Ed__8_tBA22D20D92DAA2744CE29118E4208045ED4D6298_CustomAttributesCacheGenerator_U3CTryRenderControllerModelWithModelProviderU3Ed__8_SetStateMachine_m1D8DF61D74B31C1006C278B421D95C8ADADB6B4E(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityCameraSettings_tBFDC9C0B0B7D3BA515554F33B79177797A063E83_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealityInputSystem_t30FEE3BCBA4B47D9BBED63BF481D811EC6A39AA1_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealityCameraSystem_t5BAB2B95362FB713EA29FD7393DE89EEC5E8E016_0_0_0_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4 * tmp = (MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4 *)cache->attributes[0];
-		MixedRealityDataProviderAttribute__ctor_m17F14823203F5C488548EFCCD2C7E1E376B65370(tmp, il2cpp_codegen_type_get_object(IMixedRealityInputSystem_t30FEE3BCBA4B47D9BBED63BF481D811EC6A39AA1_0_0_0_var), 9LL, il2cpp_codegen_string_new_wrapper("\x58\x52\x20\x53\x44\x4B\x20\x57\x69\x6E\x64\x6F\x77\x73\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x44\x65\x76\x69\x63\x65\x20\x4D\x61\x6E\x61\x67\x65\x72"), il2cpp_codegen_string_new_wrapper(""), il2cpp_codegen_string_new_wrapper("\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x54\x6F\x6F\x6C\x6B\x69\x74"), false, NULL);
+		MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE * tmp = (MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE *)cache->attributes[0];
+		MixedRealityDataProviderAttribute__ctor_m4B73C3011BC548323ACA9DA9EE7762037ACB4814(tmp, il2cpp_codegen_type_get_object(IMixedRealityCameraSystem_t5BAB2B95362FB713EA29FD7393DE89EEC5E8E016_0_0_0_var), 9LL, il2cpp_codegen_string_new_wrapper("\x58\x52\x20\x53\x44\x4B\x20\x57\x69\x6E\x64\x6F\x77\x73\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x43\x61\x6D\x65\x72\x61\x20\x53\x65\x74\x74\x69\x6E\x67\x73"), il2cpp_codegen_string_new_wrapper("\x57\x69\x6E\x64\x6F\x77\x73\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x2F\x53\x68\x61\x72\x65\x64\x2F\x50\x72\x6F\x66\x69\x6C\x65\x73\x2F\x44\x65\x66\x61\x75\x6C\x74\x57\x69\x6E\x64\x6F\x77\x73\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x43\x61\x6D\x65\x72\x61\x53\x65\x74\x74\x69\x6E\x67\x73\x50\x72\x6F\x66\x69\x6C\x65\x2E\x61\x73\x73\x65\x74"), il2cpp_codegen_string_new_wrapper("\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x54\x6F\x6F\x6C\x6B\x69\x74\x2E\x50\x72\x6F\x76\x69\x64\x65\x72\x73"), false, 2LL, NULL);
 	}
 }
-static void WindowsMixedRealitySpatialMeshObserver_t0C01FE5DD9C29229246551245A7B2EC49CEABBB7_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+static void WindowsMixedRealityCameraSettings_tBFDC9C0B0B7D3BA515554F33B79177797A063E83_CustomAttributesCacheGenerator_WindowsMixedRealityCameraSettings_EnableIfLoaderBecomesActive_mE1FC91647EDA55F924E2F07B91046149A0382F2A(CustomAttributesCache* cache)
 {
 	static bool s_Il2CppMethodInitialized;
 	if (!s_Il2CppMethodInitialized)
 	{
-		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessSystem_t592956F9EBE4EC056392175F83D3F9BCEE35004C_0_0_0_var);
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CEnableIfLoaderBecomesActiveU3Ed__4_t6B6A10D6C19ACAFE681613EE30265BCBB29FFF1C_0_0_0_var);
 		s_Il2CppMethodInitialized = true;
 	}
 	{
-		MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4 * tmp = (MixedRealityDataProviderAttribute_tC9EA624D64AF4D9173B62E3FD6900FC3672134C4 *)cache->attributes[0];
-		MixedRealityDataProviderAttribute__ctor_m17F14823203F5C488548EFCCD2C7E1E376B65370(tmp, il2cpp_codegen_type_get_object(IMixedRealitySpatialAwarenessSystem_t592956F9EBE4EC056392175F83D3F9BCEE35004C_0_0_0_var), 8LL, il2cpp_codegen_string_new_wrapper("\x58\x52\x20\x53\x44\x4B\x20\x57\x69\x6E\x64\x6F\x77\x73\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x53\x70\x61\x74\x69\x61\x6C\x20\x4D\x65\x73\x68\x20\x4F\x62\x73\x65\x72\x76\x65\x72"), il2cpp_codegen_string_new_wrapper("\x50\x72\x6F\x66\x69\x6C\x65\x73\x2F\x44\x65\x66\x61\x75\x6C\x74\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x53\x70\x61\x74\x69\x61\x6C\x41\x77\x61\x72\x65\x6E\x65\x73\x73\x4D\x65\x73\x68\x4F\x62\x73\x65\x72\x76\x65\x72\x50\x72\x6F\x66\x69\x6C\x65\x2E\x61\x73\x73\x65\x74"), il2cpp_codegen_string_new_wrapper("\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x54\x6F\x6F\x6C\x6B\x69\x74\x2E\x53\x44\x4B"), false, NULL);
+		AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 * tmp = (AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 *)cache->attributes[0];
+		AsyncStateMachineAttribute__ctor_m9530B59D9722DE383A1703C52EBC1ED1FEFB100B(tmp, il2cpp_codegen_type_get_object(U3CEnableIfLoaderBecomesActiveU3Ed__4_t6B6A10D6C19ACAFE681613EE30265BCBB29FFF1C_0_0_0_var), NULL);
+	}
+}
+static void WindowsMixedRealityCameraSettings_tBFDC9C0B0B7D3BA515554F33B79177797A063E83_CustomAttributesCacheGenerator_WindowsMixedRealityCameraSettings_U3CEnableIfLoaderBecomesActiveU3Eb__4_0_m1C424CCAF80EC256AB03B0CD5A9A32E73BB4F34A(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void U3CEnableIfLoaderBecomesActiveU3Ed__4_t6B6A10D6C19ACAFE681613EE30265BCBB29FFF1C_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void U3CEnableIfLoaderBecomesActiveU3Ed__4_t6B6A10D6C19ACAFE681613EE30265BCBB29FFF1C_CustomAttributesCacheGenerator_U3CEnableIfLoaderBecomesActiveU3Ed__4_SetStateMachine_mC32C2C1A562708E924581E01B4B284CA9D55179F(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityDeviceManager_tD165DEC7ADE7FB52808D74AC50AED7B525F04BAC_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealityInputSystem_t457F4FAD0B99991CEA4709595EF9BEB7FA77DBB2_0_0_0_var);
+		s_Il2CppMethodInitialized = true;
 	}
 	{
-		HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023 * tmp = (HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023 *)cache->attributes[1];
+		MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE * tmp = (MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE *)cache->attributes[0];
+		MixedRealityDataProviderAttribute__ctor_m4B73C3011BC548323ACA9DA9EE7762037ACB4814(tmp, il2cpp_codegen_type_get_object(IMixedRealityInputSystem_t457F4FAD0B99991CEA4709595EF9BEB7FA77DBB2_0_0_0_var), 9LL, il2cpp_codegen_string_new_wrapper("\x58\x52\x20\x53\x44\x4B\x20\x57\x69\x6E\x64\x6F\x77\x73\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x44\x65\x76\x69\x63\x65\x20\x4D\x61\x6E\x61\x67\x65\x72"), il2cpp_codegen_string_new_wrapper(""), il2cpp_codegen_string_new_wrapper("\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x54\x6F\x6F\x6C\x6B\x69\x74"), false, 2LL, NULL);
+	}
+}
+static void WindowsMixedRealityDeviceManager_tD165DEC7ADE7FB52808D74AC50AED7B525F04BAC_CustomAttributesCacheGenerator_WindowsMixedRealityDeviceManager_EnableIfLoaderBecomesActive_m78146257305DE5FE61DC38A37782CF3A58876EB8(CustomAttributesCache* cache)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CEnableIfLoaderBecomesActiveU3Ed__4_t7A550B742EB6930E3431C7B180A121EA6D245980_0_0_0_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 * tmp = (AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 *)cache->attributes[0];
+		AsyncStateMachineAttribute__ctor_m9530B59D9722DE383A1703C52EBC1ED1FEFB100B(tmp, il2cpp_codegen_type_get_object(U3CEnableIfLoaderBecomesActiveU3Ed__4_t7A550B742EB6930E3431C7B180A121EA6D245980_0_0_0_var), NULL);
+	}
+}
+static void WindowsMixedRealityDeviceManager_tD165DEC7ADE7FB52808D74AC50AED7B525F04BAC_CustomAttributesCacheGenerator_WindowsMixedRealityDeviceManager_U3CEnableIfLoaderBecomesActiveU3Eb__4_0_mDC3AE8AD9F11331207529FB5AA4EFCCD92BDB148(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void U3CEnableIfLoaderBecomesActiveU3Ed__4_t7A550B742EB6930E3431C7B180A121EA6D245980_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void U3CEnableIfLoaderBecomesActiveU3Ed__4_t7A550B742EB6930E3431C7B180A121EA6D245980_CustomAttributesCacheGenerator_U3CEnableIfLoaderBecomesActiveU3Ed__4_SetStateMachine_m872D5D976FC8AA1DCA7AE7702F5B5249DAC0A9D6(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealityInputSystem_t457F4FAD0B99991CEA4709595EF9BEB7FA77DBB2_0_0_0_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE * tmp = (MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE *)cache->attributes[0];
+		MixedRealityDataProviderAttribute__ctor_m4B73C3011BC548323ACA9DA9EE7762037ACB4814(tmp, il2cpp_codegen_type_get_object(IMixedRealityInputSystem_t457F4FAD0B99991CEA4709595EF9BEB7FA77DBB2_0_0_0_var), 8LL, il2cpp_codegen_string_new_wrapper("\x58\x52\x53\x44\x4B\x20\x57\x69\x6E\x64\x6F\x77\x73\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x45\x79\x65\x20\x47\x61\x7A\x65\x20\x50\x72\x6F\x76\x69\x64\x65\x72"), il2cpp_codegen_string_new_wrapper("\x50\x72\x6F\x66\x69\x6C\x65\x73\x2F\x44\x65\x66\x61\x75\x6C\x74\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x45\x79\x65\x54\x72\x61\x63\x6B\x69\x6E\x67\x50\x72\x6F\x66\x69\x6C\x65\x2E\x61\x73\x73\x65\x74"), il2cpp_codegen_string_new_wrapper("\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x54\x6F\x6F\x6C\x6B\x69\x74\x2E\x53\x44\x4B"), true, 2LL, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_U3CSmoothEyeTrackingU3Ek__BackingField(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_OnSaccade(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_OnSaccadeX(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_OnSaccadeY(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_get_SmoothEyeTracking_mBAE7E031F01E22B8CD75454989750566657BE0F9(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_set_SmoothEyeTracking_m2F6FD49242AADFB76B5A87816CEDCA1421566F9B(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_add_OnSaccade_m402387C911F6745A0B728197E8F102CA21D08268(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_remove_OnSaccade_m08AAD400CFA4BE897CC4C5F8CFBD57F217D43165(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_add_OnSaccadeX_m6502B5E8EB8B274FE894DEBDEE3FE3EE7EEC9815(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_remove_OnSaccadeX_mF2628E3E7EE7D69647AD9B8DBAFEF326808CE193(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_add_OnSaccadeY_mC45A567B8B48EAA5F91F2C29780F3316CB52ABFF(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_remove_OnSaccadeY_m44418375FBEE1332E1D4215D0A4C175949CA34E6(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_EnableIfLoaderBecomesActive_mA128C3403D1D8C1DC39536CA591EDC814E7F40F8(CustomAttributesCache* cache)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&U3CEnableIfLoaderBecomesActiveU3Ed__23_t97CEF58FDEDF101D097F05A3CDFD9477DF875987_0_0_0_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 * tmp = (AsyncStateMachineAttribute_tBDB4B958CFB5CD3BEE1427711FFC8C358C9BA6E6 *)cache->attributes[0];
+		AsyncStateMachineAttribute__ctor_m9530B59D9722DE383A1703C52EBC1ED1FEFB100B(tmp, il2cpp_codegen_type_get_object(U3CEnableIfLoaderBecomesActiveU3Ed__23_t97CEF58FDEDF101D097F05A3CDFD9477DF875987_0_0_0_var), NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_U3CEnableIfLoaderBecomesActiveU3Eb__23_0_mE76A1CDF06003BADC04FAD0B09D14AA7A3CC6B73(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6____OnSaccade_EventInfo(CustomAttributesCache* cache)
+{
+	{
+		ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 * tmp = (ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 *)cache->attributes[0];
+		ObsoleteAttribute__ctor_mAC32A5CCD287DA84CDA9F08282C1C8B0DB7B9868(tmp, il2cpp_codegen_string_new_wrapper("\x52\x65\x67\x69\x73\x74\x65\x72\x20\x66\x6F\x72\x20\x74\x68\x69\x73\x20\x70\x72\x6F\x76\x69\x64\x65\x72\x27\x73\x20\x53\x61\x63\x63\x61\x64\x65\x50\x72\x6F\x76\x69\x64\x65\x72\x27\x73\x20\x61\x63\x74\x69\x6F\x6E\x73\x20\x69\x6E\x73\x74\x65\x61\x64"), NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6____OnSaccadeX_EventInfo(CustomAttributesCache* cache)
+{
+	{
+		ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 * tmp = (ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 *)cache->attributes[0];
+		ObsoleteAttribute__ctor_mAC32A5CCD287DA84CDA9F08282C1C8B0DB7B9868(tmp, il2cpp_codegen_string_new_wrapper("\x52\x65\x67\x69\x73\x74\x65\x72\x20\x66\x6F\x72\x20\x74\x68\x69\x73\x20\x70\x72\x6F\x76\x69\x64\x65\x72\x27\x73\x20\x53\x61\x63\x63\x61\x64\x65\x50\x72\x6F\x76\x69\x64\x65\x72\x27\x73\x20\x61\x63\x74\x69\x6F\x6E\x73\x20\x69\x6E\x73\x74\x65\x61\x64"), NULL);
+	}
+}
+static void WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6____OnSaccadeY_EventInfo(CustomAttributesCache* cache)
+{
+	{
+		ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 * tmp = (ObsoleteAttribute_t14BAC1669C0409EB9F28D72D664FFA6764ACD671 *)cache->attributes[0];
+		ObsoleteAttribute__ctor_mAC32A5CCD287DA84CDA9F08282C1C8B0DB7B9868(tmp, il2cpp_codegen_string_new_wrapper("\x52\x65\x67\x69\x73\x74\x65\x72\x20\x66\x6F\x72\x20\x74\x68\x69\x73\x20\x70\x72\x6F\x76\x69\x64\x65\x72\x27\x73\x20\x53\x61\x63\x63\x61\x64\x65\x50\x72\x6F\x76\x69\x64\x65\x72\x27\x73\x20\x61\x63\x74\x69\x6F\x6E\x73\x20\x69\x6E\x73\x74\x65\x61\x64"), NULL);
+	}
+}
+static void U3CEnableIfLoaderBecomesActiveU3Ed__23_t97CEF58FDEDF101D097F05A3CDFD9477DF875987_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+{
+	{
+		CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C * tmp = (CompilerGeneratedAttribute_t39106AB982658D7A94C27DEF3C48DB2F5F7CD75C *)cache->attributes[0];
+		CompilerGeneratedAttribute__ctor_m9DC3E4E2DA76FE93948D44199213E2E924DCBE35(tmp, NULL);
+	}
+}
+static void U3CEnableIfLoaderBecomesActiveU3Ed__23_t97CEF58FDEDF101D097F05A3CDFD9477DF875987_CustomAttributesCacheGenerator_U3CEnableIfLoaderBecomesActiveU3Ed__23_SetStateMachine_mD6F2889E228A83D6353047BA5AC93CE0963A2B4A(CustomAttributesCache* cache)
+{
+	{
+		DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 * tmp = (DebuggerHiddenAttribute_tD84728997C009D6F540FB29D88F032350E046A88 *)cache->attributes[0];
+		DebuggerHiddenAttribute__ctor_mB40799BB5DAFE439BEFE895836CF792B8DBEA7F3(tmp, NULL);
+	}
+}
+static void WindowsMixedRealitySpatialMeshObserver_tB1DE88970610E22ACC58F57ACD4E34F1B72C81AE_CustomAttributesCacheGenerator(CustomAttributesCache* cache)
+{
+	static bool s_Il2CppMethodInitialized;
+	if (!s_Il2CppMethodInitialized)
+	{
+		il2cpp_codegen_initialize_runtime_metadata((uintptr_t*)&IMixedRealitySpatialAwarenessSystem_t9F861DC06C4DABD2A396600D954340928555998D_0_0_0_var);
+		s_Il2CppMethodInitialized = true;
+	}
+	{
+		HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023 * tmp = (HelpURLAttribute_t0924A6D83FABA7B77780F7F9BBCBCB9E0EA15023 *)cache->attributes[0];
 		HelpURLAttribute__ctor_mCC837CE7900738F3152D585D454A34A15793C215(tmp, il2cpp_codegen_string_new_wrapper("\x68\x74\x74\x70\x73\x3A\x2F\x2F\x64\x6F\x63\x73\x2E\x6D\x69\x63\x72\x6F\x73\x6F\x66\x74\x2E\x63\x6F\x6D\x2F\x77\x69\x6E\x64\x6F\x77\x73\x2F\x6D\x69\x78\x65\x64\x2D\x72\x65\x61\x6C\x69\x74\x79\x2F\x6D\x72\x74\x6B\x2D\x75\x6E\x69\x74\x79\x2F\x66\x65\x61\x74\x75\x72\x65\x73\x2F\x73\x70\x61\x74\x69\x61\x6C\x2D\x61\x77\x61\x72\x65\x6E\x65\x73\x73\x2F\x73\x70\x61\x74\x69\x61\x6C\x2D\x61\x77\x61\x72\x65\x6E\x65\x73\x73\x2D\x67\x65\x74\x74\x69\x6E\x67\x2D\x73\x74\x61\x72\x74\x65\x64"), NULL);
+	}
+	{
+		MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE * tmp = (MixedRealityDataProviderAttribute_t0D30EDC61D56609957D2801239A3AEC33F76ECCE *)cache->attributes[1];
+		MixedRealityDataProviderAttribute__ctor_m4B73C3011BC548323ACA9DA9EE7762037ACB4814(tmp, il2cpp_codegen_type_get_object(IMixedRealitySpatialAwarenessSystem_t9F861DC06C4DABD2A396600D954340928555998D_0_0_0_var), 8LL, il2cpp_codegen_string_new_wrapper("\x58\x52\x20\x53\x44\x4B\x20\x57\x69\x6E\x64\x6F\x77\x73\x20\x4D\x69\x78\x65\x64\x20\x52\x65\x61\x6C\x69\x74\x79\x20\x53\x70\x61\x74\x69\x61\x6C\x20\x4D\x65\x73\x68\x20\x4F\x62\x73\x65\x72\x76\x65\x72"), il2cpp_codegen_string_new_wrapper("\x50\x72\x6F\x66\x69\x6C\x65\x73\x2F\x44\x65\x66\x61\x75\x6C\x74\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x53\x70\x61\x74\x69\x61\x6C\x41\x77\x61\x72\x65\x6E\x65\x73\x73\x4D\x65\x73\x68\x4F\x62\x73\x65\x72\x76\x65\x72\x50\x72\x6F\x66\x69\x6C\x65\x2E\x61\x73\x73\x65\x74"), il2cpp_codegen_string_new_wrapper("\x4D\x69\x78\x65\x64\x52\x65\x61\x6C\x69\x74\x79\x54\x6F\x6F\x6C\x6B\x69\x74\x2E\x53\x44\x4B"), true, 2LL, NULL);
 	}
 }
 IL2CPP_EXTERN_C const CustomAttributesCacheGenerator g_Microsoft_MixedReality_Toolkit_Providers_XRSDK_WindowsMixedReality_AttributeGenerators[];
-const CustomAttributesCacheGenerator g_Microsoft_MixedReality_Toolkit_Providers_XRSDK_WindowsMixedReality_AttributeGenerators[8] = 
+const CustomAttributesCacheGenerator g_Microsoft_MixedReality_Toolkit_Providers_XRSDK_WindowsMixedReality_AttributeGenerators[40] = 
 {
-	HPMotionController_t83C5AB11100355E8F688C2FEF164E680334313C5_CustomAttributesCacheGenerator,
-	WindowsMixedRealityXRSDKArticulatedHand_t52891152A9A8483991BF667783424F65AE50EA26_CustomAttributesCacheGenerator,
-	WindowsMixedRealityXRSDKGGVHand_tE39FA78276F13D5BAFA179EBFE2321CD5F133B8C_CustomAttributesCacheGenerator,
-	WindowsMixedRealityXRSDKMotionController_t31BEA70C09AF385ADC4AC46286299015773B70C5_CustomAttributesCacheGenerator,
-	WindowsMixedRealityCameraSettings_t79EE9D168A2FAD8BD0F27C64F6A0362E3CFCC5FC_CustomAttributesCacheGenerator,
-	WindowsMixedRealityDeviceManager_tFC3D2CA4BBB943A57D4AAB63CFE9CBD59F90D567_CustomAttributesCacheGenerator,
-	WindowsMixedRealitySpatialMeshObserver_t0C01FE5DD9C29229246551245A7B2EC49CEABBB7_CustomAttributesCacheGenerator,
+	HPMotionController_tC35E5BF550D706D52C6CCCBF7868EE62F207070F_CustomAttributesCacheGenerator,
+	WindowsMixedRealityXRSDKArticulatedHand_tAA9C59B1D2C6D27AD53DA985DD47D7987B84AD90_CustomAttributesCacheGenerator,
+	WindowsMixedRealityXRSDKGGVHand_tAE074FF99056B35A3DAE5DDE332A089202791F28_CustomAttributesCacheGenerator,
+	WindowsMixedRealityXRSDKMotionController_t4AE2ED6C6CCAB726EBCB2E6298E168EE8757B96D_CustomAttributesCacheGenerator,
+	U3CTryRenderControllerModelWithModelProviderU3Ed__8_tBA22D20D92DAA2744CE29118E4208045ED4D6298_CustomAttributesCacheGenerator,
+	WindowsMixedRealityCameraSettings_tBFDC9C0B0B7D3BA515554F33B79177797A063E83_CustomAttributesCacheGenerator,
+	U3CEnableIfLoaderBecomesActiveU3Ed__4_t6B6A10D6C19ACAFE681613EE30265BCBB29FFF1C_CustomAttributesCacheGenerator,
+	WindowsMixedRealityDeviceManager_tD165DEC7ADE7FB52808D74AC50AED7B525F04BAC_CustomAttributesCacheGenerator,
+	U3CEnableIfLoaderBecomesActiveU3Ed__4_t7A550B742EB6930E3431C7B180A121EA6D245980_CustomAttributesCacheGenerator,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator,
+	U3CEnableIfLoaderBecomesActiveU3Ed__23_t97CEF58FDEDF101D097F05A3CDFD9477DF875987_CustomAttributesCacheGenerator,
+	WindowsMixedRealitySpatialMeshObserver_tB1DE88970610E22ACC58F57ACD4E34F1B72C81AE_CustomAttributesCacheGenerator,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_U3CSmoothEyeTrackingU3Ek__BackingField,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_OnSaccade,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_OnSaccadeX,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_OnSaccadeY,
+	WindowsMixedRealityXRSDKMotionController_t4AE2ED6C6CCAB726EBCB2E6298E168EE8757B96D_CustomAttributesCacheGenerator_WindowsMixedRealityXRSDKMotionController_TryRenderControllerModelWithModelProvider_m25D8E28015395A18C3D48816483D320B570EFF1A,
+	WindowsMixedRealityXRSDKMotionController_t4AE2ED6C6CCAB726EBCB2E6298E168EE8757B96D_CustomAttributesCacheGenerator_WindowsMixedRealityXRSDKMotionController_U3CU3En__0_m425269EEE497408D506E0ED1C7AEE8CB7353BEE4,
+	U3CTryRenderControllerModelWithModelProviderU3Ed__8_tBA22D20D92DAA2744CE29118E4208045ED4D6298_CustomAttributesCacheGenerator_U3CTryRenderControllerModelWithModelProviderU3Ed__8_SetStateMachine_m1D8DF61D74B31C1006C278B421D95C8ADADB6B4E,
+	WindowsMixedRealityCameraSettings_tBFDC9C0B0B7D3BA515554F33B79177797A063E83_CustomAttributesCacheGenerator_WindowsMixedRealityCameraSettings_EnableIfLoaderBecomesActive_mE1FC91647EDA55F924E2F07B91046149A0382F2A,
+	WindowsMixedRealityCameraSettings_tBFDC9C0B0B7D3BA515554F33B79177797A063E83_CustomAttributesCacheGenerator_WindowsMixedRealityCameraSettings_U3CEnableIfLoaderBecomesActiveU3Eb__4_0_m1C424CCAF80EC256AB03B0CD5A9A32E73BB4F34A,
+	U3CEnableIfLoaderBecomesActiveU3Ed__4_t6B6A10D6C19ACAFE681613EE30265BCBB29FFF1C_CustomAttributesCacheGenerator_U3CEnableIfLoaderBecomesActiveU3Ed__4_SetStateMachine_mC32C2C1A562708E924581E01B4B284CA9D55179F,
+	WindowsMixedRealityDeviceManager_tD165DEC7ADE7FB52808D74AC50AED7B525F04BAC_CustomAttributesCacheGenerator_WindowsMixedRealityDeviceManager_EnableIfLoaderBecomesActive_m78146257305DE5FE61DC38A37782CF3A58876EB8,
+	WindowsMixedRealityDeviceManager_tD165DEC7ADE7FB52808D74AC50AED7B525F04BAC_CustomAttributesCacheGenerator_WindowsMixedRealityDeviceManager_U3CEnableIfLoaderBecomesActiveU3Eb__4_0_mDC3AE8AD9F11331207529FB5AA4EFCCD92BDB148,
+	U3CEnableIfLoaderBecomesActiveU3Ed__4_t7A550B742EB6930E3431C7B180A121EA6D245980_CustomAttributesCacheGenerator_U3CEnableIfLoaderBecomesActiveU3Ed__4_SetStateMachine_m872D5D976FC8AA1DCA7AE7702F5B5249DAC0A9D6,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_get_SmoothEyeTracking_mBAE7E031F01E22B8CD75454989750566657BE0F9,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_set_SmoothEyeTracking_m2F6FD49242AADFB76B5A87816CEDCA1421566F9B,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_add_OnSaccade_m402387C911F6745A0B728197E8F102CA21D08268,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_remove_OnSaccade_m08AAD400CFA4BE897CC4C5F8CFBD57F217D43165,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_add_OnSaccadeX_m6502B5E8EB8B274FE894DEBDEE3FE3EE7EEC9815,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_remove_OnSaccadeX_mF2628E3E7EE7D69647AD9B8DBAFEF326808CE193,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_add_OnSaccadeY_mC45A567B8B48EAA5F91F2C29780F3316CB52ABFF,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_remove_OnSaccadeY_m44418375FBEE1332E1D4215D0A4C175949CA34E6,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_EnableIfLoaderBecomesActive_mA128C3403D1D8C1DC39536CA591EDC814E7F40F8,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_U3CEnableIfLoaderBecomesActiveU3Eb__23_0_mE76A1CDF06003BADC04FAD0B09D14AA7A3CC6B73,
+	U3CEnableIfLoaderBecomesActiveU3Ed__23_t97CEF58FDEDF101D097F05A3CDFD9477DF875987_CustomAttributesCacheGenerator_U3CEnableIfLoaderBecomesActiveU3Ed__23_SetStateMachine_mD6F2889E228A83D6353047BA5AC93CE0963A2B4A,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6____OnSaccade_EventInfo,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6____OnSaccadeX_EventInfo,
+	WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6_CustomAttributesCacheGenerator_WindowsMixedRealityEyeGazeDataProvider_tF184E856343B65E5EE5EA1F822BA6621837B0BE6____OnSaccadeY_EventInfo,
 	Microsoft_MixedReality_Toolkit_Providers_XRSDK_WindowsMixedReality_CustomAttributesCacheGenerator,
 };
 IL2CPP_MANAGED_FORCE_INLINE IL2CPP_METHOD_ATTR void RuntimeCompatibilityAttribute_set_WrapNonExceptionThrows_m8562196F90F3EBCEC23B5708EE0332842883C490_inline (RuntimeCompatibilityAttribute_tFF99AB2963098F9CBCD47A20D9FD3D51C17C1C80 * __this, bool ___value0, const RuntimeMethod* method)
