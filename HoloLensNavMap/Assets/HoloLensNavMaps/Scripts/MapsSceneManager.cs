@@ -17,9 +17,10 @@ public class MapsSceneManager : MonoBehaviour
     private bool _isFirstTime;
     [SerializeField] LoadSceneMode loadSceneMode = LoadSceneMode.Single;
     [SerializeField] string contentName;
-    ///Debug
+    
+    //Debug
     [SerializeField] private bool _notConectInternet;
-
+    
     void Start()
     {
         _isFirstTime = true;

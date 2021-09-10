@@ -11,6 +11,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/HoloLensNavMaps/Scenes/Tokyo.unity
     guid: ea980ff9df9b0d145a174bef44ab71fc
+  - enabled: 0
+    path: Assets/HoloLensNavMaps/Scenes/TestScene.unity
+    guid: 96c017edc9d757f4098437a8c4a2f6c4
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 4e0e5b858e9a6074381778aed310fa5c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b9266e725388be44e8fe8a0dbdd5375f, type: 2}

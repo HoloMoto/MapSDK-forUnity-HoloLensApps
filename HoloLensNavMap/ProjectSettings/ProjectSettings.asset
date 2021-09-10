@@ -11,7 +11,7 @@ PlayerSettings:
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
-  accelerometerFrequency: 60
+  accelerometerFrequency: 100
   companyName: DefaultCompany
   productName: HoloMap
   defaultCursor: {fileID: 0}
@@ -142,6 +142,7 @@ PlayerSettings:
   - {fileID: 0}
   - {fileID: 4574329412004912398, guid: aaa07e01aa7f6e34b93efaee06356877, type: 2}
   - {fileID: -4240314720416642086, guid: b9266e725388be44e8fe8a0dbdd5375f, type: 2}
+  - {fileID: 0}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System;
 using System.Threading;
 using System.Threading.Tasks;
+using JetBrains.Annotations;
 using UnityEngine;
 #if UNITY_WSA && !UNITY_EDITOR
 using Windows.Devices.Geolocation;
@@ -14,14 +15,18 @@ using Microsoft.Geospatial;
 public class GetPlayerLocation : MonoBehaviour
 {
     public MapRenderer mapRenderer;
-    public TextMeshPro debugText;
+    [CanBeNull] public TextMeshPro debugText;
+    public string _myLocation;
+#if UNITY_WSA && !UNITY_EDITOR
+    Geoposition pos;
+#endif
     private uint _desireAccuracyInMetersValue = 0;
     public LatLonMover mover;
     public ReverseGeocodeOnClick _rgoc;
     // Start is called before the first frame update
     async void Start()
     {
-        debugText.text = "Initialization.";
+   
        
 #if UNITY_WSA && !UNITY_EDITOR
         var accessStatus = await Geolocator.RequestAccessAsync();
@@ -55,12 +60,30 @@ public class GetPlayerLocation : MonoBehaviour
         }
         else
         {
+             pos = position;
             debugText.text = position.Coordinate.Point.Position.Latitude.ToString() + "\n" + position.Coordinate.Point.Position.Longitude.ToString();
-            mapRenderer.SetMapScene(new MapSceneOfLocationAndZoomLevel(new LatLon(position.Coordinate.Point.Position.Latitude, position.Coordinate.Point.Position.Longitude), 17f));
-             _rgoc.OnMapSent(new LatLon(position.Coordinate.Point.Position.Latitude, position.Coordinate.Point.Position.Longitude));
-              mover.enabled = true;
+            _myLocation = debugText.text;
         }
     }
 #endif
+
+    public void Seting()
+    {
+        GameObject _map = GameObject.Find("Map");
+        mapRenderer = _map.GetComponent<MapRenderer>();
+        mover = _map.GetComponent<LatLonMover>();
+        _rgoc = _map.GetComponent<ReverseGeocodeOnClick>();
+        MoveMyLocation();
+    }
+    public void MoveMyLocation()
+    {
+ 
+#if UNITY_WSA && !UNITY_EDITOR
+        mapRenderer.SetMapScene(new MapSceneOfLocationAndZoomLevel(new LatLon(pos.Coordinate.Point.Position.Latitude, pos.Coordinate.Point.Position.Longitude), 17f));
+       // _rgoc.OnMapSent(new LatLon(pos.Coordinate.Point.Position.Latitude, pos.Coordinate.Point.Position.Longitude));
+       // mover.enabled = true;
+#endif
+      //  mapRenderer.SetMapScene(new MapSceneOfLocationAndZoomLevel(new LatLon(136.7,80 ), 17f));
+   }
 
 }
