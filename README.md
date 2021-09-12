@@ -19,9 +19,13 @@ This is an experimental project for MapSDK application and UIUX.
 
 # Original Function
 
-・Location
+・Get Youser's Location
 
 The user's current location is acquired via Wi-fi and reflected in the MapSDK coordinates.
+
+・Culculate 2 points Distance in Maps
+ 
+Calculate the distance from the latitude and longitude between your current location and a point on the map.
 
 # Objectives and goals of this project
 
