@@ -69,10 +69,10 @@ public class GetPlayerLocation : MonoBehaviour
 
     public void Seting()
     {
-        GameObject _map = GameObject.Find("Map");
-        mapRenderer = _map.GetComponent<MapRenderer>();
-        mover = _map.GetComponent<LatLonMover>();
-        _rgoc = _map.GetComponent<ReverseGeocodeOnClick>();
+        //GameObject _map = GameObject.Find("Map");
+       // mapRenderer = _map.GetComponent<MapRenderer>();
+       // mover = _map.GetComponent<LatLonMover>();
+       // _rgoc = _map.GetComponent<ReverseGeocodeOnClick>();
         MoveMyLocation();
     }
     public void MoveMyLocation()
@@ -83,7 +83,7 @@ public class GetPlayerLocation : MonoBehaviour
        // _rgoc.OnMapSent(new LatLon(pos.Coordinate.Point.Position.Latitude, pos.Coordinate.Point.Position.Longitude));
        // mover.enabled = true;
 #endif
-      //  mapRenderer.SetMapScene(new MapSceneOfLocationAndZoomLevel(new LatLon(136.7,80 ), 17f));
-   }
+      //  mapRenderer.SetMapScene(new MapSceneOfLocationAndZoomLevel(new LatLon(35.665498,139.75964),14f));
+    }
 
 }
