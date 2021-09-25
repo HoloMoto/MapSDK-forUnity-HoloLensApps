@@ -18,6 +18,13 @@ public class MapsSceneManager : MonoBehaviour
     [SerializeField] LoadSceneMode loadSceneMode = LoadSceneMode.Single;
     [SerializeField] string contentName;
     
+    /// <summary>
+    /// True if the device is connected to the network in the app.
+    /// True will be returned in the editor.
+    /// </summary>
+    public bool _hasNetwark;
+
+    [Header("Button")] public GameObject _MyLocationButton;
     //Debug
     [SerializeField] private bool _notConectInternet;
     
@@ -30,7 +37,12 @@ public class MapsSceneManager : MonoBehaviour
         if (Application.internetReachability == NetworkReachability.ReachableViaCarrierDataNetwork)
         {
             _StatiusText.text = "Conected Internet";
+            _hasNetwark = true;
+            TitleScene();
         }
+#if  UNITY_EDITOR
+        _hasNetwark = true;
+#endif
     }
 
     // Update is called once per frame
@@ -56,6 +68,7 @@ public class MapsSceneManager : MonoBehaviour
             () => CoreServices.SceneSystem.LoadContent(contentName, loadSceneMode));
     }
 
+    
     string[] _nowOpenScenes;
     /// <summary>
     /// Since MRTK's SceneSystem cannot be used, implement your own scene transitions.
@@ -78,5 +91,11 @@ public class MapsSceneManager : MonoBehaviour
         {
 
         }
+    }
+
+    void TitleScene()
+    {
+        
+        Instantiate(_MyLocationButton);
     }
 }

@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/HoloLensNavMaps/Scenes/Main.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 0
+  - enabled: 1
     path: Assets/HoloLensNavMaps/Scenes/Tokyo.unity
     guid: ea980ff9df9b0d145a174bef44ab71fc
-  - enabled: 1
+  - enabled: 0
     path: Assets/HoloLensNavMaps/Scenes/TestScene/TestScene.unity
     guid: 96c017edc9d757f4098437a8c4a2f6c4
   m_configObjects:
