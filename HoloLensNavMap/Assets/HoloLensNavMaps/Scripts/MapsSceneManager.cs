@@ -7,6 +7,7 @@ using Microsoft.MixedReality.Toolkit.Extensions.SceneTransitions;
 using Microsoft.MixedReality.Toolkit.SceneSystem;
 using UnityEngine.SceneManagement;
 using TMPro;
+using UnityEngine.Events;
 
 public class MapsSceneManager : MonoBehaviour
 {
@@ -24,25 +25,30 @@ public class MapsSceneManager : MonoBehaviour
     /// </summary>
     public bool _hasNetwark;
 
-    [Header("Button")] public GameObject _MyLocationButton;
+    /// <summary>
+    /// Event that runs when the title scene loads.
+    /// </summary>
+    [SerializeField] private UnityEvent _TitleSceneEvent;
+    /// <summary>
+    /// Event that runs when the Tokyo scene loads.
+    /// </summary>
+    [SerializeField] private UnityEvent _TokyoSceneEvent;
+    
     //Debug
-    [SerializeField] private bool _notConectInternet;
+    [SerializeField] private bool _notConectInternet_debug;
     
     void Start()
     {
         _isFirstTime = true;
         //Get network status when app starts
-        if (Application.internetReachability == NetworkReachability.NotReachable ||_notConectInternet)
+        if (Application.internetReachability == NetworkReachability.NotReachable ||_notConectInternet_debug)
             _StatiusText.text = "No Internet connection. \n Connect to the Internet.";
-        if (Application.internetReachability == NetworkReachability.ReachableViaCarrierDataNetwork)
+        else
         {
             _StatiusText.text = "Conected Internet";
             _hasNetwark = true;
             TitleScene();
         }
-#if  UNITY_EDITOR
-        _hasNetwark = true;
-#endif
     }
 
     // Update is called once per frame
@@ -95,7 +101,11 @@ public class MapsSceneManager : MonoBehaviour
 
     void TitleScene()
     {
-        
-        Instantiate(_MyLocationButton);
+        _TitleSceneEvent.Invoke();
+    }
+
+    public void TokyoScene()
+    {
+        _TokyoSceneEvent.Invoke();
     }
 }
