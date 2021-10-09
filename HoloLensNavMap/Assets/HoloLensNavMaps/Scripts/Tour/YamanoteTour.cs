@@ -3,33 +3,39 @@ using System.Collections.Generic;
 using UnityEngine;
 using Microsoft.Maps.Unity;
 using Microsoft.Geospatial;
+using Unity.VisualScripting;
 
 public class YamanoteTour : MonoBehaviour
 {
- private static readonly List<MapScene> MapScenes =
+    public  MapPinProvider _mapPinProvider;
+    public MapLayer _mapLayer;
+
+    //Defalt Location 37.7,137.9,4.8
+    [SerializeField] private TextAsset _tourCSV;
+    private static readonly List<MapScene> MapScenes =
         new List<MapScene>
         {
             // TokyoStation -> Yurakucho
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.681382, 139.76608399999998), 17.0f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.681382, 139.76608399999998), 16.8f),
             // Yurakucho->shinbashi
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.675069, 139.763328), 17.0f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.675069, 139.763328), 17.3f),
             // Shinbashi
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.665498	, 139.75964), 16.0f),
             // Hamamatucho
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.655646, 139.756749), 16.0f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.655646, 139.756749), 17.0f),
             // Tamachi
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.645736	, 139.74757499999998), 16.75f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.645736	, 139.74757499999998), 17.0f),
             // TakanawaGateway
             // Shinagawa
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.630152, 139.74044000000004), 16.0f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.630152, 139.74044000000004), 16.15f),
             // Osaki
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.6197, 	139.72855300000003), 17.0f),
             // Gotanda
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.626446, 139.72344399999997), 18.5f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.626446, 139.72344399999997), 17.5f),
             // Meguro
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.633998	, 139.715828), 19.5f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.633998	, 139.715828), 17.5f),
             // Ebisu
-            new MapSceneOfLocationAndZoomLevel(new LatLon(	35.64669, 139.710106), 19.5f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(	35.64669, 139.710106), 17.5f),
             // Shibuya
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.658517, 139.70133399999997), 15f),
             // Harajuku
@@ -69,31 +75,51 @@ public class YamanoteTour : MonoBehaviour
             // Kanda
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.69169	,139.77088300000003),17f)
         };
-
+ 
     [SerializeField]
     private MapRenderer _map = null;
 
+    private bool _isActive;
     private void Awake()
     {
         Debug.Assert(_map != null);
     }
 
-    void Start()
+    public void TourStart()
     {
+        _isActive = true;
+        _mapPinProvider._mapPinLocationsCsv = _tourCSV;
+        StartCoroutine(PinCreate());
         StartCoroutine(RunTour());
     }
 
+    public void TourEnd()
+    {
+        _isActive = false;
+        _mapLayer.enabled = false;
+    }
+
+    private IEnumerator PinCreate()
+    {
+        yield return new WaitForSeconds(11.0f);
+        _mapPinProvider.PinAwake();
+    }
     private IEnumerator RunTour()
     {
         yield return new WaitForSeconds(5.0f);
 
-        while (isActiveAndEnabled) // loop the tour as long as we are running.
+        while (_isActive) // loop the tour as long as we are running.
         {
             foreach (var scene in MapScenes)
             {
                 yield return _map.SetMapScene(scene);
 
                 yield return new WaitForSeconds(3.0f);
+                Debug.Log(_isActive);
+                if (!_isActive)
+                {
+                    break;
+                }
             }
         }
     }

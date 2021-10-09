@@ -15,14 +15,12 @@ public class MapPinProvider : MonoBehaviour
 {
     [SerializeField]
     private MapPinLayer _mapPinLayer = null;
+    public MapPin _mapPinPrefab = null;
 
-    [SerializeField]
-    private MapPin _mapPinPrefab = null;
 
-    [SerializeField]
-    private TextAsset _mapPinLocationsCsv = null;
+    public TextAsset _mapPinLocationsCsv = null;
 
-    private void Awake()
+    public void PinAwake()
     {
         Debug.Assert(_mapPinLayer != null);
         Debug.Assert(_mapPinPrefab != null);

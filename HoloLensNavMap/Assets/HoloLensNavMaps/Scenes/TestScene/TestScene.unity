@@ -812,8 +812,16 @@ PrefabInstance:
       value: PressableButtonHoloLens2_48x48 (1)
       objectReference: {fileID: 0}
     - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_text
+      value: Distance
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
       propertyPath: m_textAlignment
       value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
       objectReference: {fileID: 0}
     - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
       propertyPath: m_VerticalAlignment
@@ -897,6 +905,121 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+--- !u!1001 &1230975204
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1480790238652100459, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230430447826, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_Name
+      value: PressableButtonHoloLens2_48x48 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_text
+      value: 'TourEnd
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199324, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_RootOrder
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.546
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5370477392995625864, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 5370477392995625864, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 5370477392995625864, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5956172336509982321, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2014014559}
+    - target: {fileID: 5956172336509982321, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TourEnd
+      objectReference: {fileID: 0}
+    - target: {fileID: 5956172336509982321, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: YamanoteTour, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906603868331807467, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: iconQuadTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: b5066c514f7f02f4292cf842f3c8b75f, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 36ff76a9e7929f342915274725573e00, type: 3}
 --- !u!1 &1263413358
 GameObject:
   m_ObjectHideFlags: 0
@@ -939,6 +1062,8 @@ GameObject:
   - component: {fileID: 1449702255}
   - component: {fileID: 1449702254}
   - component: {fileID: 1449702253}
+  - component: {fileID: 1449702257}
+  - component: {fileID: 1449702256}
   m_Layer: 0
   m_Name: TestSceneManager
   m_TagString: Untagged
@@ -994,6 +1119,62 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1449702256
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1449702252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ff4eb1a91cbb9469d8d894c40a82b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _debugEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2014014559}
+        m_TargetAssemblyTypeName: YamanoteTour, Assembly-CSharp
+        m_MethodName: TourEnd
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  _debugKey: 283
+--- !u!114 &1449702257
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1449702252}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ff4eb1a91cbb9469d8d894c40a82b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _debugEvent:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 2014014559}
+        m_TargetAssemblyTypeName: YamanoteTour, Assembly-CSharp
+        m_MethodName: TourStart
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+  _debugKey: 282
 --- !u!1 &1631364141
 GameObject:
   m_ObjectHideFlags: 0
@@ -1039,6 +1220,121 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1757247881
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1480790238652100459, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230430447826, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_Name
+      value: PressableButtonHoloLens2_48x48 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_text
+      value: 'TourStart
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199324, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_RootOrder
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.087
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.546
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370232023760435, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5370477392995625864, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_textAlignment
+      value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 5370477392995625864, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_VerticalAlignment
+      value: 512
+      objectReference: {fileID: 0}
+    - target: {fileID: 5370477392995625864, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_HorizontalAlignment
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5956172336509982321, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 2014014559}
+    - target: {fileID: 5956172336509982321, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: TourStart
+      objectReference: {fileID: 0}
+    - target: {fileID: 5956172336509982321, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: YamanoteTour, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6906603868331807467, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: iconQuadTexture
+      value: 
+      objectReference: {fileID: 2800000, guid: ea677436af9004848a7f20878e38257c, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 36ff76a9e7929f342915274725573e00, type: 3}
 --- !u!114 &1956634440
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1081,6 +1377,8 @@ GameObject:
   - component: {fileID: 2014014563}
   - component: {fileID: 2014014565}
   - component: {fileID: 2014014559}
+  - component: {fileID: 2014014566}
+  - component: {fileID: 2014014567}
   m_Layer: 0
   m_Name: Map
   m_TagString: Untagged
@@ -1268,6 +1566,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 826bf305b4e7482468da9eddb965b532, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _mapPinProvider: {fileID: 2014014566}
+  _mapLayer: {fileID: 2014014567}
+  _tourCSV: {fileID: 4900000, guid: 69c7f75d3a65e6948804f7ef46db2b37, type: 3}
   _map: {fileID: 2014014557}
 --- !u!114 &2014014560
 MonoBehaviour:
@@ -1409,6 +1710,39 @@ MonoBehaviour:
   renderer: {fileID: 2014014557}
   lat: 0
   lon: 0
+--- !u!114 &2014014566
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014014549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 32ac893cfc33d14488cda23071d04bed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _mapPinLayer: {fileID: 2014014567}
+  _mapPinPrefab: {fileID: 135338603886369395, guid: 37edd186cf5e9564283556dcfd281271, type: 3}
+  _mapPinLocationsCsv: {fileID: 4900000, guid: 69c7f75d3a65e6948804f7ef46db2b37, type: 3}
+--- !u!114 &2014014567
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2014014549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d8a6459eb3010b4f9751de03dca135a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _layerName: 
+  _mapPins:
+    _list: []
+  _isClusteringEnabled: 0
+  _clusterThreshold: 5
+  _clusterMapPinPrefab: {fileID: 0}
 --- !u!1001 &2073948357
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1425,8 +1759,18 @@ PrefabInstance:
       value: PressableButtonHoloLens2_48x48
       objectReference: {fileID: 0}
     - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_text
+      value: 'MyLocation
+
+'
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
       propertyPath: m_textAlignment
       value: 65535
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
+      propertyPath: m_TextStyleHashCode
+      value: -1183493901
       objectReference: {fileID: 0}
     - target: {fileID: 3885370230883199266, guid: 36ff76a9e7929f342915274725573e00, type: 3}
       propertyPath: m_VerticalAlignment
