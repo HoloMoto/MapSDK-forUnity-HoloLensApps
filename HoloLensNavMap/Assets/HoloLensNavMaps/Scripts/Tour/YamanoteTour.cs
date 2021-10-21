@@ -57,17 +57,17 @@ public class YamanoteTour : MonoBehaviour
             // Sugamo
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.733492,139.73934499999996),17f),
             // Komagome
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.736489,	139.74687500000005),17f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.736489,139.74687500000005),17f),
             // Tabata
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.738062	,139.76085999999998),17f),
             // Nishi Nippori
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.732135,	139.76678700000002),17f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.732135,139.76678700000002),17f),
             // Nippori
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.727772	,139.770987),17f),
             // Uguisudani
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.720495	,139.77883700000007),17f),
             // Ueno
-            new MapSceneOfLocationAndZoomLevel(new LatLon(35.713768,	139.77725399999997),17f),
+            new MapSceneOfLocationAndZoomLevel(new LatLon(35.713768,139.77725399999997),17f),
             // Okachimachi
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.707438	,139.774632),17f),
             // Akihabara
