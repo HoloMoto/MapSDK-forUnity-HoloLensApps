@@ -4,12 +4,15 @@ using UnityEngine;
 using Microsoft.Maps.Unity;
 using Microsoft.Geospatial;
 using Unity.VisualScripting;
+using TMPro;
 
 public class YamanoteTour : MonoBehaviour
 {
     public  MapPinProvider _mapPinProvider;
     public MapLayer _mapLayer;
 
+    public TextMeshPro  _descriptionText;
+    public TextMeshPro  _descriptionTitle;
     //Defalt Location 37.7,137.9,4.8
     [SerializeField] private TextAsset _tourCSV;
     private static readonly List<MapScene> MapScenes =
@@ -75,7 +78,132 @@ public class YamanoteTour : MonoBehaviour
             // Kanda
             new MapSceneOfLocationAndZoomLevel(new LatLon(35.69169	,139.77088300000003),17f)
         };
- 
+     private List<string> MapScenesTitle =
+        new List<string>
+        {
+            // TokyoStation -> Yurakucho
+            "Tokyo St.",
+            // Yurakucho->shinbashi
+            "Yurakucho St.",
+            // Shinbashi
+            "Shinbashi St.",
+            // Hamamatucho
+            "Hamamatucho St.",
+            // Tamachi
+            "Tamachi St.",
+            // TakanawaGateway
+            // Shinagawa
+            "Shinagawa St.",
+            // Osaki
+            "Osaki St.",
+            // Gotanda
+            "Gotanda St.",
+            // Meguro
+            "Meguro St.",
+            // Ebisu
+            "Ebisu St.",
+            // Shibuya
+            "Shibuya St.",
+            // Harajuku
+            "Harajuku St.",
+            // Yoyogi
+            "Yoyogi St.",
+            // Shinjuku
+            "Shinjuku St.",
+            // ShinOkubo
+            "ShinOkubo St.",
+            // Takadanobaba
+            "Takadanobaba St.",
+            // Mejiro
+            "Mejiro St.",
+            // Ikebukuro
+            "Ikebukuro St.",
+            // Otuka
+            "Otuka St.",
+            // Sugamo
+            "Sugamo St.",
+            // Komagome
+            "Komagome St.",
+            // Tabata
+            "Tabata St.",
+            // Nishi Nippori
+            "Nishi Nippori St.",
+            // Nippori
+            "Nippori St.",
+            // Uguisudani
+            "Uguisudani　St.",
+            // Ueno
+            "Ueno St.",
+            // Okachimachi
+            "Okachimachi St.",
+            // Akihabara
+            "Akihabara St.",
+            // Kanda
+            "Kanda St."
+        };
+     private List<string> MapScenesText =
+         new List<string>
+         {
+             // TokyoStation -> Yurakucho
+             "Tokyo St.",
+             // Yurakucho->shinbashi
+             "Yurakucho St.",
+             // Shinbashi
+             "Shinbashi St.",
+             // Hamamatucho
+             "Hamamatucho St.",
+             // Tamachi
+             "Tamachi St.",
+             // TakanawaGateway
+             // Shinagawa
+             "Shinagawa St.",
+             // Osaki
+             "Osaki St.",
+             // Gotanda
+             "Gotanda St.",
+             // Meguro
+             "Meguro St.",
+             // Ebisu
+             "Ebisu St.",
+             // Shibuya
+             "Shibuya St.",
+             // Harajuku
+             "Harajuku St.",
+             // Yoyogi
+             "Yoyogi St.",
+             // Shinjuku
+             "Shinjuku St.",
+             // ShinOkubo
+             "ShinOkubo St.",
+             // Takadanobaba
+             "Takadanobaba St.",
+             // Mejiro
+             "Mejiro St.",
+             // Ikebukuro
+             "Ikebukuro St.",
+             // Otuka
+             "Otuka St.",
+             // Sugamo
+             "Sugamo St.",
+             // Komagome
+             "Komagome St.",
+             // Tabata
+             "Tabata St.",
+             // Nishi Nippori
+             "Nishi Nippori St.",
+             // Nippori
+             "Nippori St.",
+             // Uguisudani
+             "Uguisudani　St.",
+             // Ueno
+             "Ueno St.",
+             // Okachimachi
+             "Okachimachi St.",
+             // Akihabara
+             "Akihabara St.",
+             // Kanda
+             "Kanda St."
+         };
     [SerializeField]
     private MapRenderer _map = null;
 
@@ -89,8 +217,12 @@ public class YamanoteTour : MonoBehaviour
     {
         _isActive = true;
         _mapPinProvider._mapPinLocationsCsv = _tourCSV;
+        //Explanatory text. Tags are used because they need to be found across scenes.
+        _descriptionTitle = GameObject.FindWithTag("DescriptTitle").GetComponent<TextMeshPro>();
+        _descriptionText = GameObject.FindWithTag("DescriptMainText").GetComponent<TextMeshPro>();
         StartCoroutine(PinCreate());
         StartCoroutine(RunTour());
+        
     }
 
     public void TourEnd()
@@ -110,12 +242,19 @@ public class YamanoteTour : MonoBehaviour
 
         while (_isActive) // loop the tour as long as we are running.
         {
+            int i = 0;
+            int i2 = MapScenesTitle.Count;
             foreach (var scene in MapScenes)
             {
+                _descriptionTitle.text = MapScenesTitle[i];
+                _descriptionText.text = MapScenesText[i];
                 yield return _map.SetMapScene(scene);
-
-                yield return new WaitForSeconds(3.0f);
-                Debug.Log(_isActive);
+                i++;
+                yield return new WaitForSeconds(5.0f);
+                if (i==i2)
+                {
+                    i = 0;
+                }
                 if (!_isActive)
                 {
                     break;

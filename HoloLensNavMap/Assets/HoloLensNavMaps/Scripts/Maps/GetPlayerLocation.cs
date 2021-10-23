@@ -33,18 +33,18 @@ public class GetPlayerLocation : MonoBehaviour
         switch (accessStatus)
         {
             case GeolocationAccessStatus.Allowed:
-                debugText.text = "Waiting for update...";
+              //  debugText.text = "Waiting for update...";
                 Geolocator geolocator = new Geolocator { DesiredAccuracyInMeters = _desireAccuracyInMetersValue };
                 Geoposition pos = await geolocator.GetGeopositionAsync();
                 UpdateLocationData(pos);
                 break;
 
             case GeolocationAccessStatus.Denied:
-                debugText.text = "Access to location is denied.";
+               // debugText.text = "Access to location is denied.";
                 break;
 
             case GeolocationAccessStatus.Unspecified:
-                debugText.text = "Unspecified error.";
+              //  debugText.text = "Unspecified error.";
                 UpdateLocationData(null);
                 break;
         }
@@ -61,7 +61,7 @@ public class GetPlayerLocation : MonoBehaviour
         else
         {
              pos = position;
-            debugText.text = position.Coordinate.Point.Position.Latitude.ToString() + "\n" + position.Coordinate.Point.Position.Longitude.ToString();
+           // debugText.text = position.Coordinate.Point.Position.Latitude.ToString() + "\n" + position.Coordinate.Point.Position.Longitude.ToString();
             _myLocation = debugText.text;
         }
     }
