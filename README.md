@@ -23,9 +23,18 @@ This is an experimental project for MapSDK application and UIUX.
 
 The user's current location is acquired via Wi-fi and reflected in the MapSDK coordinates.
 
+※I am referring to this article.
+https://qiita.com/SatoshiGachiFujimoto/items/127c777dc99b772d7cd5
+
 ・Culculate 2 points Distance in Maps
  
 Calculate the distance from the latitude and longitude between your current location and a point on the map.
+
+・It displays the direction of a certain point from the current location in 3D. (*Under development)
+
+As a unique feature of xR maps, the direction of a certain country from the current location is displayed in three dimensions, assuming the earth is a perfect sphere.
+
+　For example, if you start the app in Japan and select a region in South America, the arrow will point straight down.
 
 # Objectives and goals of this project
 
