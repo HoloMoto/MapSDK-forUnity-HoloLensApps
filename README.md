@@ -19,7 +19,7 @@ This is an experimental project for MapSDK application and UIUX.
 
 # Original Function
 
-・Get Youser's Location
+・Get Youser's Location(※This feature has been integrated into Microsoft Maps-SDK for Unity.)
 
 The user's current location is acquired via Wi-fi and reflected in the MapSDK coordinates.
 
