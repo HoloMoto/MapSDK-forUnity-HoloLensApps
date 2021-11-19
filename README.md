@@ -19,18 +19,18 @@ This is an experimental project for MapSDK application and UIUX.
 
 # Original Function
 
-・Get Youser's Location(※This feature has been integrated into Microsoft Maps-SDK for Unity.)
+## ・Get Youser's Location(※This feature has been integrated into Microsoft Maps-SDK for Unity.)
 
 The user's current location is acquired via Wi-fi and reflected in the MapSDK coordinates.
 
 ※I am referring to this article.
 https://qiita.com/SatoshiGachiFujimoto/items/127c777dc99b772d7cd5
 
-・Culculate 2 points Distance in Maps
+## ・Culculate 2 points Distance in Maps
  
 Calculate the distance from the latitude and longitude between your current location and a point on the map.
 
-・It displays the direction of a certain point from the current location in 3D. (*Under development)
+## ・It displays the direction of a certain point from the current location in 3D. (*Under development)
 
 As a unique feature of xR maps, the direction of a certain country from the current location is displayed in three dimensions, assuming the earth is a perfect sphere.
 
